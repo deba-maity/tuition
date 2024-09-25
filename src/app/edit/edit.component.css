@@ -1,0 +1,48 @@
+/* Edit User Form Styles */
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  font-weight: bold;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+textarea {
+  resize: vertical; /* Allows vertical resizing of the textarea */
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}

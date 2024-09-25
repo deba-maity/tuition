@@ -1,0 +1,67 @@
+<h2>User Form</h2>
+<div class="container">
+  <form [formGroup]="formData" (ngSubmit)="onSubmit()">
+    <div class="form-row">
+      <div>
+        <label>Name</label>&nbsp;
+        <div class="formGroup">
+          <div>
+            <input type="text" formControlName="name" maxlength="40" />
+          </div>
+          <div
+            class="con-valid"
+            *ngIf="
+              formData.controls['name'].invalid &&
+              (formData.controls['name'].dirty ||
+                formData.controls['name'].touched)
+            "
+          >
+            Please enter name
+          </div>
+        </div>
+      </div>
+      <div>
+        <label>Nickname</label>&nbsp;
+        <div class="formGroup">
+          <div appearance="fill">
+            <input
+              matInput
+              type="textarea"
+              formControlName="description"
+              maxlength="200"
+            />
+          </div>
+        </div>
+      </div>
+
+      <div class="formGroup" style="color: blue;">
+        <label>Contact</label>&nbsp;
+        <div>
+          <div appearance="fill">
+            <input
+              matInput
+              type="number"
+              oninput="if(value.length>10)value=value.slice(0,10)"
+              formControlName="contact"
+              pattern="^((\\+91-?)|0)?[0-9]{10}$"
+            />
+          </div>
+          <div
+            class="con-valid"
+            *ngIf="
+              formData.controls['contact'].invalid &&
+              (formData.controls['contact'].dirty ||
+                formData.controls['contact'].touched)
+            "
+          >
+            Please Enter Contact
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="button-container">
+      <button type="submit">Add</button>
+      <button routerLink="/data-list">Cancel</button>
+    </div>
+  </form>
+</div>

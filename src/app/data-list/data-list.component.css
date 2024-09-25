@@ -1,0 +1,67 @@
+/* styles.css or your component-specific CSS file */
+
+/* Center the heading */
+h2 {
+  text-align: center;
+}
+
+/* Style the navigation button */
+nav {
+  text-align: center;
+  margin: 20px;
+}
+
+header{
+  width: 1%;
+}
+
+.material-icons{
+  color: black;
+}
+
+button {
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.delete{
+  margin-left: 10px;
+}
+
+/* Style the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px auto; /* Center the table horizontally */
+  font-family: Arial, sans-serif;
+}
+
+/* Style table headers */
+th {
+  background-color: #007bff; /* Header background color */
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+/* Style table rows */
+tr {
+  border: 1px solid #ddd;
+}
+
+/* Style table cells (td) */
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+/* Add some hover effect to table rows */
+tr:hover {
+  background-color: #f5f5f5; /* Light gray background on hover */
+}

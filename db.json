@@ -1,0 +1,120 @@
+{
+  "employees": [
+    {
+      "name": "Rida",
+      "description": "Raddi",
+      "contact": "3455534355",
+      "id": "1",
+      "email": "maityg",
+      "password": "maity@06"
+    },
+    {
+      "name": "Noditha",
+      "description": "MN2",
+      "contact": 7679101800,
+      "id": "2",
+      "email": "maity",
+      "password": "maity@06"
+    },
+    {
+      "name": "Swarna",
+      "description": "Door",
+      "contact": 8121358415,
+      "id": "3",
+      "email": "maity",
+      "password": "maity@06"
+    },
+    {
+      "name": "Uma Padma",
+      "description": "Padmavathi",
+      "contact": 2322555255,
+      "id": "4"
+    },
+    {
+      "name": "Satya Darsh",
+      "description": "Sotta",
+      "contact": 2322555255,
+      "id": "6"
+    },
+    {
+      "name": "Isma",
+      "description": "Aunty",
+      "contact": 2322555255,
+      "id": "7"
+    },
+    {
+      "name": "Cherisma",
+      "description": "Pimple pants",
+      "contact": 3463466363,
+      "id": "5",
+      "email": "maity",
+      "password": "maity@06"
+    },
+    {
+      "name": "Harini",
+      "description": "Ullupai",
+      "contact": 1234567890,
+      "id": "8"
+    },
+    {
+      "name": "maity",
+      "description": "mitai",
+      "contact": 8074088423,
+      "id": "9"
+    }
+  ],
+  "languages": [
+    {
+      "id": "1",
+      "name": "English"
+    },
+    {
+      "id": "2",
+      "name": "Hindi"
+    },
+    {
+      "id": "3",
+      "name": "Bengali"
+    },
+    {
+      "id": "4",
+      "name": "Telugu"
+    }
+  ],
+  "programs": [
+    {
+      "id": "1",
+      "name": "C"
+    },
+    {
+      "id": "2",
+      "name": "Python"
+    },
+    {
+      "id": "3",
+      "name": "Java"
+    },
+    {
+      "id": "4",
+      "name": "Javascript"
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "India"
+    },
+    {
+      "id": "2",
+      "name": "Sri-Lanka"
+    },
+    {
+      "id": "3",
+      "name": "Bangladesh"
+    },
+    {
+      "id": "4",
+      "name": "Others"
+    }
+  ]
+}

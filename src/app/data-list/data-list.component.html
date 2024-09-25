@@ -1,0 +1,30 @@
+<h2>Users List</h2>
+<nav>
+  <button routerLink="/data-entry" style="background-color: blue;">Add User</button>
+</nav>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Nickname</th>
+      <th>Contact</th>
+
+      <th class="header">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of employees">
+      <td >{{ user.name }}</td>
+      <td>{{ user.description }}</td>
+      <td>{{ user.contact }}</td>
+      <td>
+        <button (click)="editUser(user)">
+          <span class="material-icons">edit</span>
+        </button>
+        <!-- <button (click)="deleteUser(user)">
+          <span class="material-icons">delete</span>
+        </button> -->
+      </td>
+    </tr>
+  </tbody>
+</table>

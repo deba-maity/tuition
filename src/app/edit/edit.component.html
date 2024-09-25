@@ -1,0 +1,24 @@
+<h2>Edit User</h2>
+<form (submit)="onSubmit()">
+  <div>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" [(ngModel)]="user.name" required>
+  </div>
+  <div>
+    <label for="description">Description:</label>
+    <textarea id="description" name="description" [(ngModel)]="user.description"></textarea>
+  </div>
+  <div>
+    <label for="contact">Contact:</label>
+    <input type="text" id="contact" name="contact" [(ngModel)]="user.contact">
+  </div>
+  <!-- <div>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" [(ngModel)]="user.email" required>
+  </div>
+  <div>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" [(ngModel)]="user.password">
+  </div> -->
+  <button type="submit">Update User</button>
+</form>
