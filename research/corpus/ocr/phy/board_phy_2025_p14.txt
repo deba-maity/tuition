@@ -1,0 +1,30 @@
+(iii) The diagrams given below show two sound boxes A and B with wires of
+same length (l) and tension (10 kg/) but different cross-sectional areas.
+Simultaneously, vibrating tuning forks of frequency 300 Hz are placed on the
+boxes A and B. The paper rider falls off in case of B but not in case of A.
+Paper
+rider
+o
+10 kgf
+Paper
+rider
+O
+IO kgf
+(a) Name and explain the phenomenon responsible for the falling off of the
+paper rider in B.
+(b) The wire A resonates with a tuning fork of frequency 'f. Is T greater
+than, less than or equal to 300 Hz? Justify your answer.
+Question 8
+(i) The diagram shows wiring in a meter room ofa building.
+[4]
+[3]
+(a)
+(b)
+(c)
+T2S 521
+3528
+What is the current rating of device X?
+What is the difference between the switch Z shown in the diagram and the
+switches you use to operate different appliances at home?
+What is the unit of the physical quantity displayed in Y?
+14

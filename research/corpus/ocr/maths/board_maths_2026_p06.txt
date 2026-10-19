@@ -1,0 +1,20 @@
+(xii)
+(xiii)
+T26
+What must be added to x3 + 7x2 + 3x + 2 so that the result is completely
+divisible by (x + 2)?
+(a)
+(b)
+(c)
+(d)
+40
+—16
+16
+40
+In the given diagram, AAOB is a right-angled triangle and C is the mid-point
+of AB. The coordinates of the point which is equidistant from the three
+vertices of AAOB is:
+c
+0(0, 0)
+x
+6

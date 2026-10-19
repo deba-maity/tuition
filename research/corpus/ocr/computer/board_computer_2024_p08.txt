@@ -1,0 +1,22 @@
+(x)
+T24 861
+temp(int z)
+a=z;
+void print()
+System.out.println(a);
+void main()
+temp t = new temp();
+temp x = new temp(30);
+t.print();
+x.print();
+(a) What concept of OOPs is depicted in the above program with two
+constructors?
+(b) What is the output of the method main()?
+Primitive data types are built in data types which are a part of the wrapper
+classes. These wrapper classes are encapsulated in the java.lang package. Non
+primitive datatypes like Scanner class are a part ofthe utility package for which
+an object needs to be created.
+(a) To which package the Character and Boolean classes belong?
+(b) Write the statement to access the Scanner class in the program.
+8
+[21

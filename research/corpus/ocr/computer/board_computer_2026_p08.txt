@@ -1,0 +1,33 @@
+(XX)
+In constructor overloading all constructors should have the same name as of
+the class but with a different set of
+(a) Access specifiers
+(b) Classes
+(c) Return type
+(d) Parameters
+Question 2
+(ii)
+(iii)
+(iv)
+(v)
+T26 861
+Rewrite the following program segment using afor loop.
+inta=5, b = 10;
+while (b > 0)
+System.out.println (a * b);
+Evaluate the Java expression:
+if a = 7, b=8,c=2
+Write the Java expression to find the sum of cube root of x and the absolute
+value of y.
+Users must be above IO years to open a self-operated bank account. Write this
+logic using a ternary operator and store the result (the eligibility message) in a
+String variable named idStatus and print it.
+Give the output of the following program segment:
+String S = "GRA
+System. out.println(S);
+System.out.println
+8
+[2]
+[2]
+[21
+[2]

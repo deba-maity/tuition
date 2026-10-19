@@ -1,0 +1,25 @@
+(iv)
+(v)
+Convert the given loop into exit controlled loope
+int a, b;
+for ( a—IO ;a-=2)
+ystem. out.print(b);
+Consider and give the output of the following program:
+class report
+{ int a,b;
+report()
+{ a=IO,•
+b-15;
+report(int x, int y)
+{ a=x•
+void print()
+{ System.out.println(a *b);
+static void main()
+{ report r = new report();
+r.print();
+report p = new report(4, 5);
+p.print();
+12)
+[21
+T25 861
+8

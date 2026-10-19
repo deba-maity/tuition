@@ -1,0 +1,31 @@
+Study the climate data of station X and answer the following questions:
+Month
+Temperature
+Rainfall
+(eno
+(a)
+(b)
+(c)
+Question 5
+Jan Feb Mar Apr May June July Aug Sep Oct Nov Dec
+13.5 16.8 22.4 33.6 38.6 30.2 29.3 28.4 27.8 25.7 19.9 15.5
+1.3
+5.9 12.4 43.9 51.4 39.8 20.9 15.1 2.6 2.1
+Why is there a decrease in temperature in the month of June after the
+high temperature of May?
+Calculate the total rainfall of the station during the rainy season and
+give your answer in cm.
+Is station X located near the sea or away from the sea? Give a reason
+for your answer.
+Observe the picture of ex-situ soil given below and answer the questions
+that follow:
+[2]
+floodplain
+river terrace
+river
+(a)
+(b)
+T26 502
+Identify the types of soil marked as A and B.
+Which of the two, A or B, is more fertile and why?
+8

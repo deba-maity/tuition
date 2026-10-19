@@ -1,0 +1,31 @@
+(vi) (a) Name One Strin P
+© Method which Fesults in positive integer only [2]
+(b) Name one String meth :
+” ; tod which results in a character
+(vii) ohn was asked to Write
+following code 4 . 9 Java code tg Calculate the surface area of a cone, the (2]
+88 Written by him:
+Surface area of Cone is Az.
+'S A=nry b= vr? eRe
+class area
+{ double area (double £ double 1)
+{ double ha:
+W=22.0/7%p4), -
+Math. Sqr rth *}),
+return a;
+}
+}
+Specify the Qype of the erfor in the above Program. correct and write the
+Program to be error free.
+(viii) Consider the following array and answer the questions given below: [2]
+int af] = {12,10,8,4,6,2,3,5, 3}
+(a) What is the output of System. out.print(afO}+a/5}):?
+(b) What is the index (subscript) of the largest element of the array af ]?
+(ix) (a) Write the Java statement (0 initialise the first 6 odd numbers in a3 x 2 amy. 2]
+(b) What is the result of x{0}[1] + x/2][1] of the above array?
+(x) Give the output of the following program segment and Specify how many times (2)
+the loop is executed.
+String s = “JAVA”;
+Sor(i=0;i<S.length();i+=2)
+System.out.printin(s.substring(i); [
+T25 861

@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "bio",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/e34e7786-902e-11f1-a99e-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "da541263a5d716cffa68623f9e0dcfcac68e4e072a50080f200204dcde5ff4a4"
+  },
+  {
+    "subject": "chem",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/e5ba1200-902e-11f1-8686-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "faa7959f0bde9ab0e4b5cb6e853e3e7821b02cd39b86756de89d604e2915d869"
+  },
+  {
+    "subject": "maths",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/f33df946-902e-11f1-96b5-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "3fdec343530ebb9e2b24a9f20b00ce63ea418d52bf757238d37c0281298e502b"
+  },
+  {
+    "subject": "phy",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/f5ecb2ea-902e-11f1-a5de-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "977c4ce59ed57818536f4fc14a384bceb03ae88015a73254b6870ba182a93713"
+  },
+  {
+    "subject": "english2",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/f069eec8-902e-11f1-8016-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "81d8b0b2e3d77d2e807e4e7228b708181889396698409cd929d58ac083d81fe9"
+  },
+  {
+    "subject": "geo",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/eb11a22c-902e-11f1-910d-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "0680557f1ce4ec322ab5e97244022a7becb42638dda14db8e44b3fed55907543"
+  },
+  {
+    "subject": "histciv",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/ed89e870-902e-11f1-ae36-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "5a0c2eb7d73e52840ddf6c99d451cf605ff9bbe660edadb8714f9be09afbca65"
+  },
+  {
+    "subject": "english1",
+    "year": 2027,
+    "url": "https://docs.aglasem.com/view/e87741ca-902e-11f1-8c75-0aa932765c8b",
+    "status": "Mirrored CISCE specimen text available; diagrams not extracted",
+    "sha256": "69b3e9a79096f51c35a82e7341bb1891bf64b1208bb2d9e2964e47217a439248"
+  }
+]

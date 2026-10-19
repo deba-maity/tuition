@@ -1,0 +1,24 @@
+6. The coach taught the children the rules of the game.
+(Begin: The rules...
+(a) The rules have being taught by the coach to the children.
+(b) The rules ofthe game have been taught by the children to the coach.
+(c) The rules of the game is taught by the coach to the children.
+(d) The rules of the game were taught by the coach to the children.
+7. No sooner did the film star arrive than the crowd cheered.
+(Begin: As soon as... ...
+(a) As soon as the film star arrived then the crowd cheered.
+(b) As soon as the film star arrives the crowd starts cheering.
+(c) As soon as the crowd cheers the film star arrives.
+(d) As soon as the film star arrived the crowd cheered.
+8. School bags are often too heavy for students to carry.
+(Use: so)
+(a)
+(b)
+(c)
+(d)
+T2S 011
+School bags are so heavy students cannot carry them.
+School bags are often so heavy that students cannot carry them.
+School bags are often so heavy for students to carry.
+School bags are heavy so students cannot carry them.
+11

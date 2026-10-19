@@ -1,0 +1,24 @@
+question 115}
+Define a efass to accept values into a 4 x 4 integer array. Calculate and print the NORM
+of the array.
+NORM is the square root of sum of squares of all elements.
+SuesmnED
+rsp f+ [6
+BT
+sum of squares of elements = 1+44149425+44+1436+9436+1+449+ 1643649 = 201
+NORM = Squareroot of 201 = 14.177446878757895
+Question [15]
+Define a efass to accept a String and Print if it is a Super string or not. A String is Super
+if the number of uppercase letters are equal to the number of lower case letters.
+(Use Character & String methods only]
+Example : “COmmITmeNt”
+Number of Uppercase letters ~ 5
+Number of Lowercase letters ~ 5
+String is a Super String
+Question 6 [15]
+Define a class to initialise the following data in an array.
+Search for a given character input by the user, using the Binary Search technique.
+Print “Search Successful” if the character is found otherwise print “Search is not
+Successful”.
+‘A’, ‘H’, ‘N’, ‘P’, ‘Ss’, °U’, SW’, ‘y’, ‘Z’, ‘b’, ‘a’
+125 861 iN Turn Over

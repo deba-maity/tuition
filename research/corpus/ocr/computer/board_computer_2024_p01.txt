@@ -1,0 +1,29 @@
+COMPUTER APPLICATIONS
+Maximum Marks 100
+Time allowed: Two hours
+.4nswers 10 this Paper must be written on the paper provided separately
+You will not be allowed to write during the first IS minutes.
+This time is to be spent in reading the question paper.
+The time given at the head of this Paper is the time allowed for writing the answers.
+This Paper is divided into two Sections.
+Attempt all questions from Section A and any four questions from Section B.
+The intended marks for questions or parts ofquestions are given in brackets[ J.
+SECTION A (40 Marks)
+(Attempt all questionsfrom this Section. )
+Question 1
+Choose the correct answers to the questions from the given options.
+(Do not copy the questions, write the correct answers only.)
+Polygon
+Consider the above picture and choose the correct statement from the following:
+[20]
+(a)
+(b)
+(c)
+(d)
+T24 861
+Polygon is the object and the pictures are classes
+Both polygon and the pictures are classes
+Polygon is the class and the pictures are objects
+Both polygon and the pictures are objects
+This paper consists of II printed pages and 1 blank page.
+Turn Over

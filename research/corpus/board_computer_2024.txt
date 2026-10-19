@@ -1,0 +1,507 @@
+
+--- PAGE 01 ---
+COMPUTER APPLICATIONS
+
+Maximum Marks: 100
+Time allowed: Two hours
+Answers to this Paper must be written on the paper provided separately
+You will not be allowed to write during the first 15 minutes.
+This time is to be spent in reading the question paper.
+
+The time given at the head of this Paper is the time allowed for writing the answers.
+
+This Paper is divided into two Sections.
+Attempt all questions from Section A and any four questions from Section B.
+
+The intended marks for questions or parts of questions are given in brackets ].
+
+SECTION A (40 Marks)
+
+(Attempt all questions from this Section.)
+
+Question 1 (20]
+
+Choose the correct answers to the questions from the given options.
+
+(Do not copy the questions, write the correct answers only.)
+
+° Polygon
+
+[ ot
+A
+
+Consider the above picture and choose the correct statement from the following:
+
+(a) Polygon is the object and the pictures are classes
+(b) Both polygon and the pictures are classes
+(c) Polygon is the class and the pictures are objects
+
+(d) Both polygon and the pictures are objects
+
+This paper consists of 11 printed pages and 1 blank Page.
+724 861
+Turn Over
+
+
+--- PAGE 02 ---
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+(vi)
+
+int x = 98: char ch = (char)x: what is the value in ch?
+(a) b
+
+(b) A
+
+(c) B
+
+(d) 97
+
+The output of the statement "CONCENTRATION". indexOf(‘T') is:
+
+(d) (1)
+
+The access specifier that gives least accessibility is:
+
+(a) package
+
+(b) public
+
+(c) protected
+
+(d) private
+
+The output of the statement "talent".compareTo(" genius") is:
+(a) ll
+
+(b) -11
+
+(c) 0
+
+(d) 13
+
+Which of the following is an escape sequence character in Java?
+(a) Mm
+
+(b) \t
+
+(c) A
+
+(4d) /n
+
+724 861
+
+
+--- PAGE 03 ---
+(vii) if (a>b&&b>c) then largest number is:
+
+(a) b
+
+(b) c
+
+(c) a
+
+(d) wrong expression
+
+(viii) What is the output of Math.ceil(5.4)+Math.ceil(4.5)?
+
+(a) 10.0
+
+(b) 11.0
+
+(c) 12.0
+
+(d) 9.0
+
+(ix) What is the method to check whether a character is a letter or digit?
+(a) isDigit(char)
+(b) isLetterOrDigit()
+(c) isLetterOrDigit(char)
+(d) _isLETTERorDIGIT(char)
+(x) The extension of a Java source code file is:
+
+(a) exe
+(b) obj
+(c) jvm
+(d) java
+
+(xi) The number of bytes occupied by a character array of four rows and three
+columns are:
+
+(a) 12
+(b) 24
+(c) 96
+(d) 48
+
+T24 861 3 Turn Over
+
+
+--- PAGE 04 ---
+(xii) Which of the following data type cannot be used with switch case construct?
+(a) int
+(b) char
+(c) String
+
+(d) double
+
+(xiii) Which of the following are entry controlled loops?
+
+1. for
+2. while
+3. do..while
+4. switch
+
+(a) only }
+
+(b) land2
+
+(c) land3
+
+(d) 3and4
+
+(xiv) Method which reverses a given number is:
+(a) Impure method
+(b) Pure method
+(c) Constructor
+
+(d) Destructor
+
+(xv) If the name of the class is “Yellow”, what can be the possible name for its
+constructors?
+(a) yellow
+(b) YELLOW
+(c) Yell
+(d) Yellow
+
+724 861 4
+
+
+--- PAGE 05 ---
+(xvi)
+
+(xvii)
+
+(xviii)
+
+(xix)
+
+Invoking a method by passing the objects of a class is termed as:
+
+(a) Call by reference
+(b) Call by value
+(c) Call by method
+
+(d) Call by constructor
+
+The correct statement to create an object named mango of class fruit:
+(a) Fruit Mango= new fruit();
+
+(b) fruit mango = new fruit();
+
+(c) Mango fruit=new Mango();
+
+(d) fruit mango= new mango();
+
+Assertion (A): Static method can access static and instance variables.
+
+Reason (R): Static variable can be accessed only by static method.
+
+(a) Assertion and Reason both are correct.
+(b) Assertion is true and Reason is false.
+(c) Assertion is false and Reason is true.
+
+(d) Assertion and Reason both are false.
+
+What is the output of the Java code given below?
+String color [ ] = {"Blue", "Red", "Violet"};
+System.out.printIn(color[2].length());
+
+(a) 6
+
+(b) 5
+
+(c) 3
+
+(d) 2
+
+T24 861
+
+Turn Over
+
+
+--- PAGE 06 ---
+(xx)
+
+. an integer?
+Which of the following mathematical methods returns only
+
+(a) Math.ceil(n)
+(b) Math.sqrt(n)
+(c) Math.floor(n)
+
+(d) Math.round(n)
+
+Question 2
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+Write Java expression for:
+
+|a + b]
+Vara bt
+
+Evaluate the expression when x is 4:
+
+XtHEK++*+4+x%;
+
+Rewrite the following do while program segment using for:
+x= 10; y =20;
+do
+
+{
+
+} while (x<=20);
+System.out.printin(x * y );
+
+Give the output of the following program segment. How many times is the loop
+
+executed?
+for(x=10; x>20;x++)
+System.out.println(x);
+
+System.out.printIn(x*2);
+
+724 861
+
+[2
+
+[2]
+
+(2)
+
+(2)
+
+
+--- PAGE 07 ---
+(v) String s1 = "45.50"; String s2 = "54.50", (2)
+double d1=Double.parseDouble(s!);
+
+double d2=Double.parseDouble(s2);
+
+int x= (int)(d1+d2);
+
+What is value of x?
+
+(vi) Consider the following two-dimensional array and answer the questions given {2]
+below:
+
+int x{ JL] = ((4,3,2}, {7,8,2}, {8 3,10}, (1,2, 93};
+(a) What is the order of the array?
+(b) What is the value of x[0][0]+x[2][2]?
+(vii) Differentiate between boxing and unboxing. [2]
+
+(viii) The following code to compare two strings is compiled, the following syntax [2]
+error was displayed — incompatible types — int cannot be converted to boolean.
+Identify the statement which has the error and write the correct statement. Give
+
+the output of the program segment.
+
+void calculate()
+{
+String a= "KING", b = "KINGDOM";
+boolean x = a.compareTo(b);
+System.out.printIn(x);
+}
+
+(ix) Consider the given program and answer the questions given below: (2]
+
+class temp
+
+{
+
+int a;
+
+temp()
+
+124 861 7 Turn Over
+
+
+--- PAGE 08 ---
+void print()
+
+{
+System.out.printIn(a);
+}
+
+void main()
+
+{
+
+temp t = new temp();
+temp x = new temp(30);
+t.printQ;
+
+x.print();
+
+}
+
+}
+(a) What concept of OOPs is depicted in the above program with two
+
+constructors?
+(b) What is the output of the method main()?
+
+Primitive data types are built in data types which are a part of the wrapper
+classes. These wrapper classes are encapsulated in the java.lang package. Non
+primitive datatypes like Scanner class are a part of the utility package for which
+
+an object needs to be created.
+
+(a) To which package the Character and Boolean classes belong?
+
+(b) Write the statement to access the Scanner class in the program.
+
+[2]
+
+724 861
+
+
+--- PAGE 09 ---
+SECTION B (60 Marks)
+
+(Answer any four questions from this Section.)
+
+The answers in this section should consist of the programs in either BlueJ environment or any
+
+Program environment with Java as the base.
+
+Each program should be written using variable description / mnemonic codes so that the logic of the
+
+program is clearly depicted.
+
+Flowcharts and algorithms are not required.
+
+Question 3 (15)
+DTDC a courier company charges for the courier based on the weight of the parcel. Define
+aclass with the following specifications:
+class name: courier
+Member variables: name ~ name of the customer
+weight — weight of the parcel in kilograms
+address — address of the recipient
+bill — amount to be paid
+type — ‘D’- domestic, ‘I’- international
+Member methods:
+void accept ( ) — to accept the details using the methods of the Scanner class only.
+void calculate()- to calculate the bill as per the following criteria:
+Weight in Kgs Rate per Kg
+First 5 Kgs Rs.800
+Next 5 Kgs Rs.700
+Above 10 Kgs Rs,500
+An additional amount of Rs.1500 is charged if the type of the courier
+is I (International)
+void print ( )- To print the details
+void main ( )- to create an object of the class and invoke the methods
+124861 9 Turn Over
+
+
+--- PAGE 10 ---
+Question 4 [15]
+
+Define a class to overload the method perform as follows:
+
+double perform (double r, double h) to calculate and return the value of
+
+Curved surface area of cone
+CSAz=arl l= vr2 +h?
+
+void perform (int r, int c) Use NESTED FOR LOOP to generate the
+
+following format
+
+r=4,c=Soutput- 12345
+12345
+12345
+12345
+
+void perform (int m, int n, char ch) to print the quotient of the division of m and
+
+n if ch is Q else print the remainder of the
+
+division of mand nif chis R
+
+[15]
+
+Question 5
+
+Define a class to accept a number from
+al number when number is palindrome number (a number
+
+user and check if it is an EvenPal number or not.
+
+(The number is said to be EvenP:
+is palindrome if it is equal to its reverse) and sum of its digits is an even number.)
+
+Example: 121 —isa palindrome number
+Sum of the digits - 1+2+1 =4 which is an even number
+
+Question 6 [15]
+Define a class to accept values into an integer array of order 4 x 4 and check whether it is
+
+AGONAL array or not. An array is DIAGONAL if the sum of the left diagonal
+
+a DI
+elements equals the sum of the right diagonal elements. Print the appropriate message.
+Example:
+
+3.4 25 Sum of the left diagonal elements =
+
+2 5 2 3 34+5+2+1=11
+
+5 3 27 Sum of the right diagonal elements =
+
+13 71 5+2+3+1=11
+
+124 861 10
+
+
+--- PAGE 11 ---
+| —
+
+Question 1
+Define a class pin code and store the given pin codes in a single dimensi
+jensional array Sort
+
+these pin codes in ascendi :
+P ending order using the Selection Sort tech
+sorted array. lechnique only. Display the
+
+110061. 110001, 110029, 110023, 110055, 110006, 110019, 110033
+
+Question 8
+Define a class to accept the gmail id and check for its validi
+A gmail id is valid only if it has: _
+2@
+> . (dot)
+> gmail
+> com
+
+Example: icse2024@gmail.com is a valid gmail id.
+
+1)
+
+15)
+
+T24
+861 uN

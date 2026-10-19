@@ -1,0 +1,41 @@
+(iii)
+(iv)
+(v)
+(vi)
+(vii)
+(viii)
+(ix)
+TN 861
+Convert the following do.. .while loop to for loop:
+int x=lO;
+do
+Systern.out.print(x);
+} while (»=1
+Give the output ofthe following Character class methods:
+(a) Character.toUpperCase Cat)
+O
+Character.isLetterOrDigitC#)
+Rewrite the following code using the if-else statement:
+int m— 400;
+doublech = (m>300) 10.0) • 2: (m / 20.0)-2;
+Give the output of the following program segment:
+int n 4279; int d;
+while(n>0)
+System.out.println(d);
+n=n/100;
+Give the output of the following String class methods:
+(a) "COMMENCEMENT" . lastindexOfCM')
+(b) "devote" .
+Consider the given array and answer the questions given below:
+int
+(a) What is the length of the array?
+(b) What is the value in x[4]?
+Name the following:
+a What is an instance of the class called?
+(b) Thc method which has same name as that of the class name.
+6
+121
+12)
+(2]
+[21
+(21

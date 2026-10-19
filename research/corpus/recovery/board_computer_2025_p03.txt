@@ -1,0 +1,18 @@
+2 Keyboard 4
+Consider the Two dimensional array P{2][3], of peripherals (input / output
+devices) given above, state the index of the device Barcode Scanner.
+SH PLL ;
+(b) PfO}[1]
+(ce) PEI(2)
+(d)  P[O}[0]
+(vi) Which of the following is user defined data type?
+(a) only]
+@ = land3
+(c) only2
+(d) only 4
+(vii) Select the infinite loop:
+(a) for(int i=1;i<=10;i++)
+wh for(int i=2; i!=0 ;i-=3)
+(c) for(int i=5 ;i<=5;i++)
+(d) for(int i =1;i>=1; i- -)
+Tset 3 ‘Turn Over

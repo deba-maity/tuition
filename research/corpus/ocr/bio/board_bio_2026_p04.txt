@@ -1,0 +1,40 @@
+(vi)
+(vii)
+(viii)
+T26 523
+Assertion(A): Leukoderma is the biological term for blood cancer.
+Reason(R): An abnormal increase in the number of WBCs causes blood
+cancer.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+A health organisation wants to educate the rural audience about population
+control using visually engaging methods. Which of these would be effective?
+P.
+Q.
+R.
+S.
+Posters
+Loudspeakers
+Film shows
+Street plays
+(a)
+(b)
+(c)
+(d)
+P, R and S
+Q, R and S
+P, Q and R
+p, Q and S
+A family has a history of colour blindness. During a genetic testing, it was found
+that the mother is a carrier of colour blindness (xc X) and the father has normal
+vision (X Y). What is the probability of their sons being colour blind?
+(a)
+(b)
+(c)
+(d)
+25%
+75%
+0%
+4

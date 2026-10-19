@@ -1,0 +1,26 @@
+‘N
+(xx) Which of the following mathematical methods returns only an integer?
+(a) Math.ceil(n)
+(b) Math.sqrt(n)
+(c) Math.floor(n)
+(d)_ Math.round(n)
+Question 2
+(i) Write Java expression for: (2)
+la+b|
+vate
+(ii) Evaluate the expression when x is 4: (2)
+KEEFE HH x %2;
+(iii) Rewrite the following do while program segment using for: [2]
+x= 10; y = 20;
+do
+{
+xtt;
+y+;
+} while (x<=20);
+System.out.printin(x * y );
+(iv) Give the output of the following program segment. How many times is the loop (2)
+executed?
+for(x=10; x>20;x++)
+System.out.printin(x);
+System.out.printIn(x*2);
+me ac

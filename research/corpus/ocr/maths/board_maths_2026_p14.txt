@@ -1,0 +1,7 @@
+(ii)
+T26 511
+Use the following graph and answer the given questions:
+(a) Write the co-ordinates Of points A, B and C.
+(b) Find the equation of a line passing through the mid-point of AC and
+parallel to AB.
+14

@@ -1,0 +1,12 @@
+(iii)
+T25 511
+In the given graph ABCD is a parallelogram.
+Scale: x-axis. 2 cm = I umt
+v-axis. 2 cm = I unit
+Using the graph, answer the following:
+(a) write down the coordinates of A, B, C and D.
+(b) calculate the coordinates of the point of intersection of the
+diagonals AC and BD.
+(c) find the slope of sides CB and DA and verify that they represent
+parallel lines.
+(d) find the equation of thc diagonal A

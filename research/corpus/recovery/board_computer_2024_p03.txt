@@ -1,0 +1,28 @@
+—
+(vii) if (a>b&&b>c) then largest number is:
+(a) b
+(b) c
+(c) a
+(d) wrong expression
+(viii) What is the output of Math.ceil(5.4)+Math.ceil(4.5)”
+(a) 10.0
+(b) 11.0
+(c) 12.0
+(@) 9.0
+(ix) What is the method to check whether a character is a letter or digit?
+(a) isDigit(char)
+(b) isLetterOrDigit()
+(c) isLetterOrDigit(char)
+(d) isLETTERorDIGIT(char)
+(x) The extension of a Java source code file is:
+(a) exe
+(b) obj
+(c) jvm
+(d) java
+(xi) The number of bytes occupied by a character array of four rows and three
+columns are:
+(a) 12
+(b) 24
+(c) 96
+(d) 48
+Tet 0 0—~—<CSSSSC“‘“SSTSSSTOCOCOCST Over

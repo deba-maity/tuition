@@ -1,0 +1,490 @@
+
+--- PAGE 01 ---
+MATHEMATICS
+
+Maximum Marks: 80
+Time allowed: Two and half hours
+Answers to this Paper must be written on the paper provided separately.
+You will not be allowed to write during first 15 minutes.
+This time is to be spent in reading the question paper.
+
+The time given at the head of this Paper is the time allowed for writing the answers.
+
+Attempt all questions from Section A and any four questions from Section B.
+
+All working, including rough work, must be clearly shown, and must be done on the same Sheet as
+
+the rest of the answer.
+Omission of essential working will result in loss of marks.
+The intended marks for questions or parts of questions are given in brackets [ ]
+
+Mathematical tables and graph papers are provided.
+
+SECTION A (40 Marks)
+
+(Attempt all questions from this Section.)
+
+Question 1
+Choose the correct answers to the questions from the given options. [15]
+(Do not copy the questions, write the correct answers only.)
+
+i) If FA 4 bl = [7h the value of x and y respectively are:
+
+(a) 1,-2
+(b)  -2.1
+(c) 1,2
+(d) -2,-1
+
+This paper consists of 11 printed id I blank ts
+m5 's of 11 printed pages an ink page.
+
+
+--- PAGE 02 ---
+(ii)
+
+(ii)
+
+(iv)
+
+_@)
+
+Ifx - 2 is a factor of x? - kx - 12, then the value of k is:
+(a) 3
+
+(b) 2
+
+(c) -2
+
+(@) -3
+
+In the given diagram RT is a tangent touching the circle at S. If ZPST = 30° and
+ZSPQ = 60° then ZPSQ is equal to:
+
+(a) 40° Q
+(b) 30°
+AN :
+
+(d) 90° R T
+
+A letter is chosen at random from all the letters of the English alphabets. The
+probability that the letter chosen is a vowel, is:
+
+4
+26
+
+o) =
+© =
+
+@ >
+
+If3 is a root of the quadratic equation x” — px + 3 = 0 then p is equal to:
+(a) 4
+(b) 3
+(c) $
+(d) 2
+
+723 511
+
+
+--- PAGE 03 ---
+(vi) In the given figure ZBAP = DCP = 70°, PC = 6 cm and CA = 4 cm, then PD: DB
+is: B
+
+(a) 5:3
+
+(b) 3:5
+
+(c) 3:2
+
+(d) 2:3 D ra
+AW Fem Cc 6cm P
+
+(vii) The printed price of an article is 3080. If the rate of GST is 10% then the GST
+charged is:
+
+(a) 7154
+
+(bo) 308
+
+(c) % 30.80
+
+(dd) 715.40
+
+(viii) (1 + sinA) (1 —sinA) is equal to:
+(a) cosec?A
+(bd) sin’A
+(c) sec?A
+
+(d) cos?A
+
+(ix) The coordinates of the vertices of AABC are respectively (-4, -2), (6, 2) and (4, 6).
+
+The centroid G of AABC is:
+@ (2,2)
+(b) (2,3)
+©) G,3)
+(d) (0,-1)
+
+T23 S11 3 Turn Over
+
+
+--- PAGE 04 ---
+(x)
+
+(xi)
+
+(xii)
+
+(xiii)
+
+(xiv)
+
+The n term of an Arithmetic Progression (A.P ys 2a (4 The 10 tern is
+
+(a) 7
+
+(b) 15
+(c) 25
+(d) 45
+
+The mean proportional between 4 and 9 is:
+
+(a) 4
+(b) 6
+(c) 9
+(d) 36
+
+Which of the following cannot be determined graphically for a grouped frequency
+distribution?
+
+(a) Median
+(b) Mode
+
+(c) Quartiles
+(d) Mean
+
+Volume of a cylinder of height 3 cm is 48n. Radius of the cylinder is:
+(a) 48cm
+
+(b) 16cm
+(c) 4cm
+(d) 24cm
+
+Naveen deposits = 800 every month in a recurring deposit account for 6 months. If
+
+he receives T 4884 at the time of maturity, then the interest he earns is:
+(a) 784
+(b) 242
+{c) %24
+
+(d) %284
+
+723 511
+
+
+--- PAGE 05 ---
+(xv)
+
+The solution set for the inequation 2x + 4.< 14, x Wis:
+(a) {1,2,3,4, 5}
+
+(b) {0, 1,2, 3,4, 5}
+
+(c) (1,2, 3,4}
+
+(d) {0, 1, 2,3, 4}
+
+Question 2
+
+i)
+Gi)
+
+(iii)
+
+Find the value of ‘a’ if x -a is a factor of the polynomial 3x° + x? - ax - 81. 4]
+
+Salman deposits % 1000 every month in a recurring deposit account for 2 years. {4}
+
+If he receives % 26000 on maturity, find:
+(a) the total interest Salman earns.
+(b) the rate of interest.
+
+In the given figure O, is the centre of the circle. CE is a tangent to the circle at A. [4]
+If ZABD = 26°, then find:
+
+(a) ZBDA
+(b) 2BAD
+() 2CAD
+
+(d) 4ODB
+
+Question 3
+
+(i)
+
+Solve the following quadratic equation: [4]
+r+ 4x-8=0
+Give your answer correct to one decimal place.
+
+(Use mathematical tables if necessary.)
+
+T2351
+
+5 Turn Over
+
+
+--- PAGE 06 ---
+Gi)
+
+ii)
+
+. . \4]
+Tove the following identity:
+
+(sin’6 ~ 1)(tan? @ + 1) 4 | — 0
+
+Use graph sheet to answer this question. Take 2 em = 1 unit along both the axes. (51
+
+(a) Plot A, B.C where A(0, 4), BL, 1) and C(4, 0)
+
+(b)
+
+Reflect A and B on the x-axis and name them as E and D respectively.
+(c)
+
+(d)
+
+Reflect B through the origin and name it F. Write down the coordinates of F’.
+
+Reflect B and C on the y-axis and name them as H and G respectively.
+
+(e) Join points A, B, C, D, E, F, G, H and A in order and name the closed figure
+
+formed.
+
+SECTION B (40 Marks)
+
+(Attempt any four questions from this Section.)
+
+Question 4
+
+(i)
+
+(ii)
+
+(iii)
+
+723 511
+
+(31
+a=) ghe=[) dhe=[ Yanar= (9
+
+Find A(B + C)-141
+
+ABC is a triangle whose vertices are A(1, ~1), B(O, 4) and C(-6, 4).
+D is the midpoint of BC. Find the:
+(a) coordinates of D.
+
+we
+
+13]
+
+(b) equation of the median AD.
+
+In the given figure, O is the centre of the circle. PQ is a tangent to the cirele at T. (4]
+Chord AB produced meets the tangent at P.
+
+AB = 9cm, BP = 16cm, ZPTB = 50°
+ZOBA = 45°
+Find:
+
+(a) length of PT
+
+(b) 2BAT
+(c) 2BOT
+
+(d) ZABT
+
+
+
+--- PAGE 07 ---
+Question 5
+rf Mrs. Arora bought the following articles fom a departmental store:
+[S.No 7 “ttem | Price | Rateof GST |
+| “| Gaskets” T8680 7
+7th - ed
+Find the i
+
+(a) Total GST paid.
+
+(b) Total bill amount including GST.
+
+(ii)
+real number line.
+
+—S(x-9) 217-9x >x+2,xeR
+
+Solve the following inequation. Write down the solution set and represent it on the
+
+[3]
+
+Discount
+
+z100 |
+
+—t—___—
+
+B]
+
+(iii) In the given figure, AC // DE // BF.
+If AC = 24 cm, EG=8 cm, GB=16 cm, BF=30 cm.
+(a) Prove AGED ~ AGBF
+(b) Find DE
+(c) DB: AB
+T235i1 7
+
+Turn Over Ny
+
+
+--- PAGE 08 ---
+Question 6
+
+G) The following distribution gives the daily wages of 60 workers of a factory
+
+Daily income in % | Number of workers 1) |
+|
+
+|
+
+| 200 - 300 6
+
+| 300 ~ 400 | 10
+
+| 400 — 500 14 |
+| 500 - 600 16
+
+| 600 - 700 10 |
+L 700 — 800 4
+
+Use graph paper to answer this question.
+
+Take 2 cm = % 100 along one axis and 2 cm = 2 workers along the other axis
+Draw a histogram and hence find the mode of the given distribution.
+
+(ii) The 5 term and the 9" term of an Arithmetic Progression are 4 and ~12 respectively
+Find:
+
+(a) _ the first term
+(b) common difference
+
+(c) sum of 16 terms of the AP.
+
+(iii) A and B are two points on the x-axis and y-axis respectively.
+
+B]
+
+(3)
+
+(4]
+
+
+--- PAGE 09 ---
+(a) Write down the coordinates of A and B,
+
+(b) Pisa point on AB such that AP : PB =3: |. Using section formula find the
+coordinates of point P.
+
+(c) Find the equation of a line passing through P and perpendicular to AB.
+
+Question 7
+
+a A bag contains 25 cards, numbered through 1 to 25. A card is drawn at random. What (3)
+is the probability that the number on the card drawn is:
+
+(a) multiple of 5
+(b) a perfect square
+
+(c) aprime number?
+
+(i) Aman covers a distance of 100 km, travelling with a uniform speed of x km/hr. Had 3]
+the speed been 5 km/hr more it would have taken: 1 hour less. Find x the original
+speed.
+
+(iii) A solid is in the shape of a hemisphere of radius 7 cm, surmounted by acone of height {4]
+4 cm, The solid is immersed completely in a cylindrical container filled with water
+to a certain height. If the radius of the cylinder is 14 cm, find the rise in the water
+
+level.
+T2351 1 _ ~ 9 Turn Over
+
+
+--- PAGE 10 ---
+Question 8
+
+(i) ‘The following table gives the marks scored by a set of students in an examination. (3)
+
+Calculate the mean of the distribution by using the short cut method.
+
+| Marks Number of Students |
+)
+0-10 3 |
+10 - 20 8 |
+20 - 30 14
+| 30-40 9 |
+40-50 4 |
+50-60 2 |
+i]
+
+(ii) What number must be added to each of the numbers 4, 6, 8, 11 in order to get the four (3)
+
+numbers in proportion?
+
+(iii) Using ruler and compass construct a triangle ABC in which AB = 6 cm, ZBAC =120° (4]
+and AC = 5 cm. Construct a circle passing through A, B and C. Measure and write
+
+down the radius of the circle.
+
+Question 9
+
+(i) Using Componendo and Dividendo solve for x: G3]
+V2x+2+V2x-1 =3
+V2x+2—-—Vex-1
+
+(ii) Which term of the Arithmetic Progression (A.P.) 15, 30, 45, 60... is 300? [3]
+
+Hence find the sum of all the terms of the Arithmetic Progression (A.P.)
+
+723 511 10
+
+
+--- PAGE 11 ---
+(iii) From the top of a tower 100 m high a man observes the angles of depression of two 14]
+ships A and B, on opposite sides of the tower as 45° and 38° respectively. If the foot
+of the tower and the ships are in the same horizontal line find the distance between
+the two ships A and B to the nearest metre.
+(Use Mathematical Tables for this question.)
+b
+45 3°
+100 m
+A Cc B
+Question 10
+{i) Factorize completely using factor theorem: [4]
+20 - 2 -13x-6
+(ii) Use graph paper to answer this question. (6]
+During a medical checkup of 60 students in a school, weights were recorded as
+follows:
+Weight (in kg) | Number of Students
+28 - 30 20
+30 - 32 4
+32-34 10
+34-36 13
+36 - 38 15
+38-40 9
+40 - 42 5
+42-44 | 2
+Taking 2 cm = 2 kg along one axis and 2 cm = 10 students along the other axis draw
+an ogive. Use your graph to find the: .
+(a) median
+(b) upper Quartile
+(c) number of students whose weight is above 37 kg
+723 SU u _

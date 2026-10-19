@@ -1,0 +1,33 @@
+COMPUTER APPLICATIONS
+Maximum Marks: 100
+Time allowed: Two hours
+Answers to•this Paper must he written on the paper provided separmely.
+You will not be allowed to write during the first 15 minutes.
+This time is to he spent in reading the question paper.
+The time given at the head of this Paper is the time allowed for writing the answers,
+This Paper is divided into two Sections.
+Attempt all questions from Section A and any four questions from Section B.
+The intended marks for questions or parts of questions are given in brackets[ I.
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+Question 1
+Choose the correct answers to the questions from the given options.
+(Do not copy the questions. write the correct answers only.)
+A mechanism where one class acquires thc properties of another class:
+(a) Polymorphism
+(b) Inheritance
+(c) Encapsulation
+(d) Abstraction
+Identify the type of operator &&:
+(a)
+(b)
+(c)
+(d)
+ternary
+unary
+logical
+relational
+Tbis paper consists of8 printed pages.
+123 861
+[201
+Turn Over

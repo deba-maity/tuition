@@ -1,0 +1,20 @@
+| —e
+Question 7 tity
+Define a class pin code and store the given pin codes in a single dimensional array Sort
+these pin codes in ascending order using the Selection Sort technique only. Display the
+sorted array.
+
+110061. 110001, 110029, 110023, 110055, 110006, 110019, 110033
+Question 8 fis]
+Define a class to accept the gmail id and check for its validity.
+A gmail id is valid only if it has:
+
+>@
+
+> . (dot)
+
+> gmail
+
+> com
+Example: icse2024@gmail.com is a valid gmail id.
+MeO SO

@@ -1,0 +1,28 @@
+(xiii)
+(xiv)
+(xv)
+(xvi)
+T26 861
+What is the type of parameter to be given for the method parselnt()?
+(a) double
+(b) String
+(c) char
+(d) int
+To extract the word NOW from the word "ACKNOWLEDGEMENT", the
+Java statement is used.
+Choose the correct number to fill in the blank.
+String at = {"Atasi", "Aditi", "Anant", "Amit", "Ahana"};
+System.out.println(a[11.charAt(1) + 's*" + a121.charAt(2));
+The output of the above statement is:
+(a) da
+(c) ti
+Which of the following String methods returns a negative value?
+(a)
+(b)
+(c)
+(d)
+length()
+equals()
+compareTo()
+charAt()
+6

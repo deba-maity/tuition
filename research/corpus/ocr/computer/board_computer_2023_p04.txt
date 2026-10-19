@@ -1,0 +1,36 @@
+(xiii)
+(xv)
+(xvi)
+T23
+int x = (int) 32.8; is an example Of
+(a) implicit
+(b) automatic
+(c) explicit
+(d) coercion
+typecasting.
+The code obtained after compilation is known as:
+(a) source code
+(b) object code
+(c) machine code
+(d) java byte code
+Missing a semicolon in a statement is what type of error?
+(a) Logical
+(b) Syntax
+(c) Runtime
+(d) No error
+Consider the following program segment and select the output of the sarne
+when n = IO :
+switch(n)
+{case IO :
+case 4 : break;
+default : System.out.println(n);
+(a)
+(c)
+(d)
+20
+10
+4
+20, 40
+10
+10
+4

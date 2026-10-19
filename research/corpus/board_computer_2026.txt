@@ -1,0 +1,537 @@
+
+--- PAGE 01 ---
+COMPUTER APPLICATIONS
+
+Maximum Marks: 100
+Time allowed: Two hours
+1. Answers to this Paper must be written on the paper provided separately.
+2. You will not be allowed to write during the first 15 minutes.
+3. This time is to be spent in reading the question paper.
+
+4. The time given at the head of this Paper is the time allowed for writing the answers.
+
+| 5. This Paper is divided into two Sections.
+6. Attempt all questions from Section A and any four questions from Section B.
+
+7. The intended marks for questions or parts of questions are given in brackets[ ].
+
+Instruction for the Supervising Examiner
+
+Kindly read aloud the Instructions given above to all the candidates present in the |
+
+Examination Hall.
+
+This paper consists of 12 printed pages.
+126 861 Turn Over
+
+
+--- PAGE 02 ---
+Question 1
+
+Choose the correct answers to the questions from the given options,
+(Do not copy the questions, write only the correct answers.)
+(i) The full form of JVM is:
+
+(a) Java Visible Machine
+(b) Java Virtual Mode
+(c) Java Virtual Machine
+(d) Java Visible Mode
+(ii) Which of the following occupies 2 bytes of storage?
+(a) 25
+(b) AM
+(c) 35.2
+(d) \\
+Gi) Ina statement c = c + (x * d+ e); which variable is an accumulator?
+(a) d
+(b) ¢
+(c) e
+(d) x
+
+[20]
+
+— 2
+126 861
+
+
+--- PAGE 03 ---
+(iv) Which of the following is NOT an access specifier?
+(a) private
+(b) protected
+(c) package
+(d) public
+(v) What is the output of the statement Math.pow (36, 6/5); ?
+(a) 36.0
+(b) 10
+(c) 73.71
+(d) 6.0
+
+(vi) Read the if program segment given below:
+if (a> b)
+z=25;
+else
+z=35;
+Which one of the following is the correct conversion of the if program
+
+Segment to ternary?
+
+(a) z=a>b?35:25;
+(b) z=a>b?25:35;
+(c) z=a>b:35225;
+(d) z=a>b:25735;
+
+(vii) The output of the statement:
+System.out.printIn(Character.toUpperCase(‘b’) + 2); is:
+(a) 66
+
+(b) 100
+(c) 68
+(d) 98
+
+T26 861 3 Turn Over
+
+
+--- PAGE 04 ---
+(viii)
+
+(ix)
+
+726861
+
+Consider the following statements:
+
+Computer desktop = new Computer( );
+
+Computer Mainframe = new Computer( );
+Name the objects of the class given above:
+(a) Desktop, Mainframe
+(b) desktop, Mainframe
+(c) Computer, Mainframe
+(d) Computer, desktop
+
+The earth spins on its axis completing one rotation in a day. The earth revolves
+around the sun in 365 days to complete one revolution. What is the Java
+
+concept depicted in the given picture?
+
+ROTATION (vs) REVOLUTION
+
+HOURS / DAY DAYS / YEAR
+
+(a) Array
+(b) Condition
+(c) Nested loop
+
+(d) While loop
+
+
+
+--- PAGE 05 ---
+(x)
+
+(xi)
+
+(xii)
+
+In the following method Prototype to accept a character, an integer and return
+
+YES or NO, fill in the blank to complete the method prototype.
+
+public someMethod (char ch, int n)
+(a) boolean
+(b) String
+(c) int
+(d) double
+
+In a calculator which Java feature allows multiple methods named calculate()
+
+for the different operations?
+(a) abstraction
+
+(b) inheritance
+
+(c) encapsulation
+
+(d) polymorphism
+
+Assertion (A): The result of the Java expression 3 + 7/2 is 6.
+
+Reason (R): According to the hierarchy of operators in Java, addition is
+
+done first followed by division.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+726 861
+
+mn
+
+Turn Over
+
+
+--- PAGE 06 ---
+(xiii)
+
+(xiv)
+
+(xv)
+
+(xvi)
+
+What is the type of parameter to be given for the method parselnt( )?
+(a) double
+
+(b) String
+
+(c) char
+
+(d)_ int
+
+To extract the word NOW from the word “ACKNOWLEDGEMENT”, the
+Java statement “ACKNOWLEDGEMENT”. substring(3, ) is used.
+
+Choose the correct number to fill in the blank.
+
+(a) 6
+
+(b) 7
+
+(c) 5
+
+(d) 8
+
+String a[ ]= {"Atasi", "Aditi", "Anant", "Amit", "Ahana"},
+System.out.printIn(a[1].charAt(1) + “*” + a[2].charAt(2));
+
+The output of the above statement is:
+
+(a) da
+
+(b) d*a
+
+(c) ti
+
+(d) t*i
+
+Which of the following String methods returns a negative value?
+(a) length()
+
+(b) equals()
+
+(c) compareTo()
+
+(d) charAt()
+
+126 861
+
+
+
+--- PAGE 07 ---
+(xvii)
+
+(xviii)
+
+(xix)
+
+An array with 3 elements is arranged in ascending order as follows:
+
+[4,173 |mfi[4]3 |jm[il|3 | 4)
+
+U VU
+
+Name the technique used:
+
+(a) Bubble sort
+
+(b) Linear Search
+(c) Selection sort
+(d) Binary Search
+
+The sales made by 5 salesmen selling 5 products is stored in a two-dimensional
+
+array of integer data type. How many bytes does the array occupy?
+(a) 25
+
+(b) 200
+
+(c) 50
+
+(d) 100
+
+Assertion (A): The substring() method modifies the original String.
+
+Reason (R): The substring() method can extract part of a String starting
+
+from a specific index.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+T26 261
+
+7 Turn 0...
+
+
+--- PAGE 08 ---
+(Xx)
+
+In constructor overloading all constructors should have the same name as of
+
+the class but with a different set of
+(a) Access specifiers
+
+(b) Classes
+
+(c) Return type
+
+(d) Parameters
+
+Question 2
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+126 861
+
+Rewrite the following program segment using a for loop.
+inta=5, b= 10;
+while (b > 0)
+{b-=2;
+}
+
+System.out.printin (a * b);
+Evaluate the Java expression:
+x=a*h%(+t+ot(+t+a)t+(--b;
+ifa=7, b=8,c=2
+Write the Java expression to find the sum of cube root of x and the absolute
+value of y.
+Users must be above 10 years to open a self-operated bank account. Write this
+
+logic using a ternary operator and store the result (the eligibility message) in a
+
+String variable named idStatus and print it.
+Give the output of the following program segment:
+
+String S = “GRACIOU: ”.substring(4);
+
+System. out.printin(S);
+System.outprintin ( “GLAMOROUS”. endsWith(S));
+
+(2)
+
+(2
+
+2
+
+2
+
+[2]
+
+
+
+--- PAGE 09 ---
+(vi)
+
+(vii)
+
+(viii)
+
+(ix)
+
+126.861.
+
+Give the output of the following program segment and mention how many
+
+times the loop is executed.
+
+int K = 1;
+do
+{K+=2;
+
+System.out.printin (K);
+} while (K <= 6);
+
+The following program segment calculates and displays the factorial of a
+number. [Example : Factorial of 5 is 1x 2x3x4x5= 120)
+
+int p,n = 5, f= 0;
+
+for (p =n; p> 0; p—-)
+
+S*= Pi
+
+System.outprintin(p;
+Name the type of error if any; correct the statement to get the desired output.
+
+int X[ JE] = 4, 5}, £7, 2s 19, 7, GS
+Write the index of the maximum element and the index of the minimum
+element of the array.
+The following program segment swaps the first element and the second
+element of the given array without using the third variable, fill in the blanks
+with appropriate java statements:
+
+void swap()
+
+{ int x] ] = {4, 8, 19,24, 15};
+
+_
+
+(2) ;
+
+/0f = x/0]/ x11};
+
+Spstem.outprintin(x[O]+" "+x][1P: }
+
+[2]
+
+2]
+
+[2]
+
+
+--- PAGE 10 ---
+(x) Name the following: [2]
+(a) The return data type of the method equals().
+(b) The String method which has no parameter and returns a String.
+SECTION B (60 Marks)
+(Answer any four questions from this Section.)
+
+The answers in this section should consist of the programs in either BlueJ environment or any
+program environment with Java as the base.
+Each program should be written using variable description / mnemonic codes so that the logic of
+the program is clearly depicted.
+
+Flowcharts and algorithms are not required.
+
+Question 3 [15]
+Define a class named StepTracker with the following specifications: ea)
+
+Member Variables: sia
+
+String name — __ stores the user's name. tea
+
+int sw — stores the total number of steps walked by the user.
+
+double cb — stores the estimated calories burned by the user.
+
+double km — stores the estimated distance walked in kilometers.
+
+Member Methods:
+
+void accept() — to input the name and the steps walked using Scanner class
+
+methods only.
+
+void calculate() — calculates calories burned and distance in km based on steps
+
+walked using the following estimation table:
+
+i Metric Calculation Formula
+ic alories Burned steps walked 0.04 (e.g., | step burns 0.04 calories)
+
+| Distance (Km) | steps walked / 1300 (e.g., 1300 steps is approx. | km) |
+Display the calories burned, distance in km and the user's name.
+
+Void display() -
+Write a main method to create an object of the class and invoke the methods.
+
+126 861 - 10
+
+
+--- PAGE 11 ---
+Question 4 {15}
+Write a program to accept the designations of 100 employees in a single dimensional array.
+
+Accept the designation from the user and print the total number of employees with the
+designation given by the user as input.
+
+Example:
+
+Traince | Manager | Chef Manager | Director | Manager
+
+a 1 1 | | —
+
+Input: Manager Output: 3
+
+Question 5 {15}
+Write a program to accept a two-dimensional integer array of order 4 x 5 as input from
+
+the user. Check if it is a Sparse Matrix or not. A matrix is considered to be a sparse, if the
+
+total number of zero elements is greater than the total number of non-zero elements. Print
+appropriate messages.
+
+Example:
+
+L ——{ Number of zero elements = 11
+| 0 o/]2)0
+— Number of non zero elements = 9
+i 1 0 1} 0} 0 \: :
+L ie Matrix is a Sparse Matrix
+0/312 0/0,
+Question 6 {15}
+
+Write a program to accept a number and check if it is a Mark number or not. A number
+is said to be Mark when sum of the squares of each digit is an even number as well as the
+last digit of the sum and the last digit of the number given is same.
+Example: n= 246
+
+sum =2x2+4x4+6x6=56
+
+56 is an even number as well as last digit is 6 for both sum as well as the number.
+
+Teel HW Turn Over
+
+
+--- PAGE 12 ---
+Question 7 (15]
+
+Define a class to overload the method format as follows:
+void format (): To print the following pattern using Nested for loops only:
+12345
+2345
+345
+45
+5 .
+int format (String s): To calculate and return the sum of ASCII codes of each
+character of the String.
+Example: CAB
+Output: 67 + 65 + 66
+198
+void format (int n): To calculate and display the sum of natural numbers up to n
+given by the formula.
+
+n(n + 1)
+2
+
+Question 8 [15]
+
+Write a program to accept a word and print the Symbolic of the accepted word.
+
+Symbolic word is formed by extracting the characters from the first consonant, then add
+
+characters before the first consonant of the accepted word and end with “TR”.
+
+Example: AIRWAYS Symbolic word is RWAYSAITR
+BEAUTY Symbolic word is BEAUTYTR
+
+https://www. pyqonline.com
+Whatsapp @ 9300930012
+
+Send your old paper & get 10% to 40%
+are Tet Tae set a 10 vrs S 40 wad aw oe,
+
+Paytm or Google Pay &
+
+26 861 12

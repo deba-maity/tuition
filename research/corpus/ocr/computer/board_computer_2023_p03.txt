@@ -1,0 +1,34 @@
+(viii)
+retums a char:
+(a) check()
+(b) void check (int x)
+(c) check (int x)
+(d) charchcck (int x)
+(ix)
+number of values that a method can return is:
+Predict output Of the following code snippet: String P
+x)
+int a = Integer.parseInt(P);
+int b = Integer.vaIueORQ);
+(a) 20
+(b) 20 22
+(c) 2220
+(d) 22
+The String class method to join two strings is:
+(a) concat(String)
+(b) <string>.joint(string)
+(c) concat(char)
+(d) Concat()
+(xii)
+The output of the ffnction 6):
+(b) pos
+T2J 861
+Write a method prototype name cheek() which takes an integer argument and
+(a)
+(c)
+(d)
+POSI
+MPO
+MPOS
+3
+Turn Over

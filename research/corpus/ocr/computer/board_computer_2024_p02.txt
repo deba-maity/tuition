@@ -1,0 +1,31 @@
+(iii)
+(iv)
+(v)
+(vi)
+T24 861
+int x = 98: char Ch = (char)x: what is the value in Ch?
+(d) 97
+The output of the statement "CONCENTRATION".indexOfCT') is:
+The access specifier that gives least accessibility is:
+(a) package
+(b) public
+(c) protected
+(d) private
+The output of the statement is:
+(a)
+(b)
+(c)
+(d)
+11
+-11
+0
+13
+Which of the following is an escape sequence character in Java?
+(a)
+(b)
+(c)
+(d)
+/n
+/t
+//n
+2

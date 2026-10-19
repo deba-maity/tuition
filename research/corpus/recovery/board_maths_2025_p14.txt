@@ -1,0 +1,18 @@
+owas
+F . : made {3
+(i) © Ahollow sphere of external diameter 10 cm and internal diameter 6 cm is melted and 13)
+into a solid right circular cone of height 8 cm, Find the radius of the cone 50 formed.
+=22
+[Use x 7 ]
+/\
+A
+(ii) Ms. Sushmita went to a fair and participated in a game. The game consisted ofabox having [3]
+number cards with numbers from 01 to 30. The three prizes were as per the given table:
+[Pree | Number on the card drawn at random is a
+even number which is also a multiple of 3
+Find the probability of winning a:
+(a) Wall Clock
+(b) Water Bottle
+(c) Purse
+———— OOOO
+725511 M4

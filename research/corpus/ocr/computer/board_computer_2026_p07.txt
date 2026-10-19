@@ -1,0 +1,24 @@
+An array with 3 elements is arranged in ascending order as follows:
+(xvii)
+Name the technique used:
+(a) Bubble sort
+(b) Linear Search
+(c) Selection sort
+(d) Binary Search
+The sales made by 5 salesmen selling 5 products is stored in a two-dimensional
+(xviii)
+array of integer data type. How many bytes does the array occupy?
+(a) 25
+(b) 200
+(c) 50
+(d) 100
+Assertion (A): The substring() method modifies the original String.
+(xix)
+Reason (R): The substring() method can extract part of a String starting
+from a specific index.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+7
+Turn O

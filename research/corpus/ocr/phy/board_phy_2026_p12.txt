@@ -1,0 +1,19 @@
+(ii)
+(iii)
+[3]
+A type of glass block has a refractive index of I .8.
+(a) Calculate the speed of light in this glass.
+(Given speed oflight in air 3 x ms-1)
+(b) If the width of this block is doubled, then what will be the speed of light
+in the block?
+(a) Name the electromagnetic radiation used to detect fake currency.
+(b) Redraw the diagram given below and complete the path ofthe light ray AB
+through the glass prism till it emerges out of the prism. Critical angle of
+the glass is 420.
+300
+[4]
+Question 5
+(i) An object placed in front of a convex lens, forms an image of same size on a
+screen. Moving the object 12 cm closer to the lens results in the formation ofa
+real image which is three times the size of the object.
+Calculate the focal length of the lens.

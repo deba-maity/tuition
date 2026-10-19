@@ -1,0 +1,65 @@
+(ii)
+(iii)
+holders:
+Age in years
+20-25
+25 -30
+30-35
+35-40
+40 — 45
+45 - 50
+50-55
+55-60
+Mr. (iuptn invested in buying 100 sharcs of a company at 100/0 premium. The
+dividend declarcd by thc company is 12%. Find:
+(n) thc number of shares purchascd by him
+(h) his annual dividend
+A life insurancc agent found thc following data for distribution of ages of 100 policy
+Policy Holdcrs
+(frequency)
+2
+4
+12
+20
+28
+22
+8
+4
+Cumulative frequcncy
+2
+6
+18
+38
+66
+88
+96
+100
+On a graph sheet draw an ogive using the given data. Take 2 cm = 5 years along one axis
+and 2 cm = IO policy holders along the other axis. Use your graph to find:
+(a) The median age.
+(b) Number of policy holders whose age is above 52 years.
+Question IO
+Rohan bought the following eatables for his friends •
+[41
+13]
+S. No.
+2
+Item
+Laddu
+Pastries
+Soham Sweet Mart .
+• Bill
+Price
+Quantity
+500 per kg
+2 kg
+100 per piece
+12 pieces
+T24
+Calculate :
+(a) Total GST paid.
+(b) Total bill amount including GST.
+11
+Rate of GST
+5%
+Turn Over

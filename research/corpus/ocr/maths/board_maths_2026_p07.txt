@@ -1,0 +1,38 @@
+(d) product AB is not possible
+Assertion (A): The 9th term ofa Geometric Progression (G.P.)
+6, —12, 24, — 48... is a positive term.
+Reason (R): The value of (—2)8 is always positive.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+Question 2
+(Niv)
+-1 231
+(xv)
+-1 57].
+Given matrix A —
+of order:
+(c)
+2
+1
+and matrix B
+— 41. Product AB is a matrix
+(i)
+(ii)
+T26 511
+The fourth and seventh terms of an Arithmetic Progression (A.P.), are 60
+and 114 respectively. Find the:
+(a) first term and common difference.
+(b) sum of its first IO terms.
+—1
+-13
+and B —
+Given, A —
+Find the values of 'a' and 'b'
+and product AB —
+7
+4
+[4]
+[41
+Turn Over

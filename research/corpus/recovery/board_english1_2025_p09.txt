@@ -1,0 +1,25 @@
++ Rahul not only plays the guitar but also the drums. |
+(Use: ‘as weil as’)
+(a) Rahul plays the guitar as well as the drums.
+(6) Rahul plays the guitar as well the drums.
+(c) Rahul plays the guitar as well as he does the drums.
+(d) Rahul play’s the guitar and the drums as well.
+3. She said she would not be available.
+(Add a question tag)
+(@) __ Didn’t she say that she would not be available?
+(b) She said she would not be available, did she?
+(c) She said she would not be available, didn’t she?
+(d) She said she would not be available, wouldn’t she?
+4. This is the most beautiful painting in the exhibition.
+(Begin: No other... ww)
+(a) No other painting is as beautiful as this exhibition.
+(b) No other painting in this exhibition is beautiful.
+(©) No other painting is beautiful as this painting in the exhibition.
+(4) _ No other painting in the exhibition is as beautiful as this one.
+5. I prefer aerobics to yoga.
+(Use: ‘rather’)
+(a) would rather do aerobics to yoga,
+(b) _ would rather do aerobics than yoga.
+(c) I would rather prefer aerobics than yoga.
+(d) I would rather do yoga than aerobics,
+TSR QS

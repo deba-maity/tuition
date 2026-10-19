@@ -1,0 +1,52 @@
+(151
+Question 5
+Define a class to overload the ftnction print as 10110ws:
+void print()
+void print(int n)
+Question 6
+to print the following format
+2
+3
+4
+5
+2
+3
+4
+5
+2
+3
+4
+5
+2
+3
+4
+5
+TO check whether the number is a lead number. A
+Icad number is the orr whose sum of even digits are
+equal to sum of odd digits.
+e.g. 3669 odd digits sum = 3 + 9 = 12
+even digits sum = 6 + 6 = 12
+3669 is a lead number.
+Define a class to accept a String and print the number of digits, alphabets and special
+characters in the string.
+Example: S - 'SKAPILDEV@83"
+Output: Number of digits — 2
+Number of Alphabets — 8
+Number of Special characters — I
+Question 7
+Define a class to accept values into an array of double data type of size 20. Accept a double
+value from user and search in the array using linear search method. If value is found
+display message ' 'Found" with its position where it is present in the array. Otherwise
+display message 'Snot found"
+Question 8
+Define a class to accept values in integer array of size IO. Find sum of one digit number
+and sum of two digit numbers entered. Display them separately.
+Example: Input:
+{2, 12.4, 9, 18, 25, 3, 32, 20, 1}
+[15]
+1151
+[151
+T2J
+Output: Sum of one digit numbers : 2 +4 + 9 + 3 A. 1 = 19
+Sum of two digit numbers : 12 + 18 +25 + 32 + 20 = 107
+8

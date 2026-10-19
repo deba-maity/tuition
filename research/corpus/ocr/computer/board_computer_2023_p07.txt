@@ -1,0 +1,44 @@
+Write the value of n after execution:
+char ch
+int n ech + 5;
+SECTION B (60 Marks)
+(Answer any four questions from this Section.)
+[21
+The answers in this section should consist of the programs in either BlueJ environment or uny
+program environment with java as the base.
+üchprogram should be written using variable description / mnemonic codes so that the logic ofthe
+program is clearly depicted.
+Flowcharts and algorithms are not required
+Question 3
+[151
+Design a class with the following specifications:
+Class name:
+Member variables:
+Member methods:
+void accept()
+void allocation() —
+Student
+name — name of student
+age — gge of student
+mks —marks obtained
+stream — stream allocated
+(Dcclare the variables using appropriate data types)
+Accept name, age and marks using methods of Scanner class.
+Allocate the stream as per following criteria:
+> = 200 and < 300
+> = 75 and 200
+< 75
+strearn
+Science and Computer
+Commerce and Computer
+Arts and Animation
+Try Again
+Display student name, age, mks and stream allocated.
+void print()
+Call all the above methods in main method using an object.
+05]
+Question 4
+Define a class to accept IO characters from a user. Using bubble sort technique arrange
+them in ascending order. Display the sorted array and original array.
+Turn Over
+T23861

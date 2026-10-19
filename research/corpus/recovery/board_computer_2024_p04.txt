@@ -1,0 +1,26 @@
+(xii) Which of the following data type cannot be used with switch case construct?
+(a) int
+(b) char
+(c) String
+(4) double
+(xiii) Which of the following are entry controlled loops?
+1. for
+2. while
+3. do..while
+4. switch
+(a) only!
+(bt) land2
+(c) land3
+(d) 3and4
+(xiv) Method which reverses a given number is:
+(a) Impure method
+(b) Pure method
+(c) Constructor
+(d) Destructor
+(xv) If the name of the class is “Yellow”, what can be the possible name for its
+constructors?
+(a) yellow
+(b) YELLOW
+(c) Yell
+(4) Yellow
+724 861 a

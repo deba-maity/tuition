@@ -1,0 +1,571 @@
+
+--- PAGE 01 ---
+MATHEMATICS
+
+Maximum Marks: 80
+Time allowed: Two and half hours
+Answers to this Paper must be written on the paper provided separately.
+You will not be allowed to write during first 15 minutes.
+This time is to be spent in reading the question paper.
+
+The time given at the head of this Paper is the time allowed for writing the answers.
+
+Attempt all questions from Section A and any four questions from Section B.
+
+All working, including rough work, must be clearly shown, and must be done on the same sheet as the
+
+rest of the answer.
+we Omission of essential working will result in loss of marks.
+The intended marks for questions or parts of questions are given in brackets [ ]
+
+Mathematical tables and graph papers are to be provided by the school.
+
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+Question 1
+Choose the correct answers to the questions from the given options. [15]
+(Do not copy the questions, write the correct answers only.)
+
+(i) For an Intra-state sale, the CGST paid by a dealer to the Central government is
+% 120. If the marked price of the article is Z 2000, the rate of GST is:
+
+{a) 6%
+(b) 10%
+(c) 12%
+(4) 16.67%
+
+This paper consists of 12 printed pages.
+724511 Turn Over
+
+
+--- PAGE 02 ---
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+(vi)
+
+What must be subtracted from the polynomial x? +x? - 2x + 1,80 that the result is
+exactly divisible by (x - 3)?
+
+(a) -31
+
+(b) -30
+
+(c) 30
+
+(d) 31
+
+The roots of the quadratic equation px? - qx + r= 0 are real and equal if:
+(a) p= 4qr
+
+(bo) g?=4pr
+
+(c) -g?=4pr
+
+(d) p> 4qr
+
+If matrix A = - | and A? = (5 Ap then the value of x is:
+(a) 2
+
+(b) 4
+
+() 8
+
+(d) 10
+
+The median of the following observations arranged in ascending order is 64.
+Find the value of x:
+
+27, 31, 46, 52, x, x+4, 71, 79, 85, 90
+(a) 60
+
+(b) 61
+(ce) 62
+(d) 66
+Points A (x, y). B (3, -2) and C (4, -5) are collinear. The value of y in terms of x is:
+(a) 3x-1]
+(b) 11-3x
+(c) 3x-7
+(d) 7-3x
+
+724511
+
+
+--- PAGE 03 ---
+(vii) The given table shows the distance covered and the time taken by a train moving
+ata uniform speed along a straight track.
+
+00
+2
+
+The values of x and y are:
+
+' Distance (in m)
+
+| Vime (in sec)
+
+(a) x=4,y= 150
+
+(b) x =3,y= 100
+
+(ce) x=4. y= 100
+
+(d) x =3,y= 150
+
+(viii) The 7 term of the given Arithmetic Progression (A.P.):
+
+1/1 1
+141) (42)
+a'\a a
+
+© (Fre)
+”)
++ 8)
+
+ale
++
+
+) (
+
+(c)
+
+ale
+
+(ix) The sum invested to purchase 15 shares of a company of nominal value % 75 available
+ata discount of 20% is: .
+(a) 760
+(b) %90
+(c) % 1350
+(d) %900
+(x) The circumcentre of a triangle is the point which is:
+(a) at equal distance from the three sides of the triangle.
+‘hy at cqual distance from the three vertices of the triangle.
+-¢) _ the point of intersection of the three medians.
+
+(d) the point of intersection of the three altitudes of the triangle.
+
+‘ T24 SJ 3 Turn Over
+
+
+--- PAGE 04 ---
+(x1)
+
+(xii)
+
+(xiii)
+
+(xiv)
+
+Statement 1: sin? @ + cos? @ = 1
+
+Statement 2: cosec? 6 + cot? @ = 1
+Which of the following is valid?
+
+(a) only 1
+
+(b) only 2
+
+(c) both 1 and2
+
+(d) neither 1 nor 2
+
+In the given diagram, PS and PT are the tangents to the circle. SQ || PT and
+ZSPT = 80°. The value of ZQST is:
+
+(a) 140°
+(b) 90° >»
+(c) 80° Q
+
+d) 50°
+(da) T
+
+Assertion (A): A die is thrown once and the probability of getting an even
+
+_ 2
+number is a
+
+Reason (R): | The sample space for even numbers on a die is {2, 4, 6}
+(a) Ais true, R is false.
+
+(b) Ais false, R is true.
+
+(c) Both A and R are true.
+
+(d) Both A and R and false.
+
+A rectangular sheet of paper of size 11 cm x 7 om is first rotated about the side
+11 cm and then about the side 7 cm to form a cylinder, as shown in the diagram.
+
+The ratio of their curved surface areas is:
+
+(a) 1:1
+
+E
+(c) 11:7 llcm
+
+ll cm
+
+7cm
+
+724 511
+
+
+--- PAGE 05 ---
+(xv) In the given diagram, AABC ~ APQR. [f AD and PS are bisectors of ZBAC and
+ZQPR respectively then:
+
+A
+(a) AABC ~ APQS ;
+(b) AABD ~ APQS /
+(c) AABD ~ APSR /\
+B D CO S R
+
+(d) AABC ~ APSR
+
+Question 2
+
+asl e=[} fjanuc=[t ° (41
+
+Find the values of x and y, if AB=C.,
+
+(ii) A solid metallic cylinder is cut into two identical halves along its height (as shown (4)
+
+in the diagram). The diameter of the cylinder is 7 em and the height is 10 em. Find:
+(a) The total surface area (both the halves).
+
+(b) The total cost of painting the two halves at the rate of % 30 per cm?
+22
+(Use r= 2)
+
+(iii) 15, 30, 60, 120... are in G.P. (Geometric Progression). (4]
+(a) Find the n'* term of this G.P. in terms of n.
+
+(b) How many terms of the above G.P. will give the sum 945?
+
+Question 3
+
+(i) Factorize: sin? + cos?@ [4]
+Hence, prove the following identity:
+
+sin? + cos? 6
+
++si =
+sin 8 + cos @ sin6cos6 = 1
+
+124 $11 5 Turn Over
+
+
+--- PAGE 06 ---
+a
+
+(iii)
+
+In the given diagram, O is the centre of the circle. PR and PT are two tangents
+
+drawn from the external point P and touching the circle at Q and § respectively.
+MN is a diameter of the circle. Given ZPQM = 42" and ZPSM = 25°.
+
+Find:
+
+(a) ZOQM
+(b) ZQNS
+(c) ZQOS
+
+(d) ZQMS
+P
+
+Use graph sheet for this question. Take 2 cm = | unit along the axes.
+(a) Plot A(0. 3), B(2. 1) and C(4, -1).
+
+(b) Reflect point B and C in y-axis and name their images as B' and C'
+
+respectively. Plot and write coordinates of the points B' and C’.
+(c) Reflect point A in the line BB' and name its images as A’.
+(d) Plot and write coordinates of point A’.
+
+(e) Join the points ABA'B' and give the geometrical name of the closed figure so
+formed.
+
+SECTION B (40 Marks)
+
+(Attempt any four questions from this Section.)
+
+Question 4
+
+(i)
+
+(ii)
+
+Suresh has a recurring deposit account in a bank. He deposits ¥ 2000 per month and the
+bank pays interest at the rate of 8% per annum. If he gets 2 1040 as interest at the time of
+
+maturity, find in years total time for which the account was held.
+
+The following table gives the duration of movies in minutes.
+
+‘Duration — | 199 _ 110 | 110-120 | 120-130 | 130 - 140 | 140 - 150 | 150 - 160
+| (in minutes) | |
+
+‘No. of |
+| movies 5 10 17 8 6 4 |
+
+Using step - deviation method, find the mean duration of the movies.
+
+(4)
+
+(5]
+
+(3)
+
+G3)
+
+724511
+
+6
+
+
+--- PAGE 07 ---
+(iii) rp oto) 64 (4)
+
+(a—b)? 27
+
+P
+
+(a) Find S42
+a-b
+
+(b) Hence using properties of proportion, find a: b.
+
+Question 5
+
+(i) The given graph with a histogram represents the number of plants of different heights [5]
+
+grown in a school campus. Study the graph carefully and answer the following questions:
+
+16
+14
+
+Hw
+
+NUMBER OF PLANTS
+
+Fr ce
+
+HEIGHT (in ems)
+(a) Make a frequency table with respect to the class boundaries and their corresponding
+frequencies.
+(b) State the modal class.
+(c) Identify and note down the mode of the distribution.
+
+(d) Find the number of plants whose height range is between 80 cm to 90 cm,
+
+724511 7 Turn Over
+
+
+--- PAGE 08 ---
+(The angle of elevation of the top of a 100 m high tree from two points A and Bon the {5}
+opposite side of the tree are 52" and 45° respectively. Find the distance AB, to the nearest
+
+metre Dd
+
+100m
+
+Question 6
+
+w Solve the following quadratic equation for x and give your answer correct to three [3]
+significant figures: 2x?-10x+5=0
+
+(Use mathematical tables if necessary)
+
+(ii) Then term of an Arithmetic Progression (A.P.) is given by the relation Th = 6(7—n). — [3]
+Find:
+
+(a) _ its first term and common difference
+
+ib) sum of its first 25 terms
+
+(iii) In the given diagram AADB and AACB are two right angled triangles with (4)
+ZADB = ZBCA = 90°. If AB = 10 cm. AD = 6 cm, BC = 2.4 cm and DP=4.5cm
+
+(a) Prove that AAPD ~ ABPC
+(b) Find the length of BD and PB
+(c) Hence, find the length of PA
+
+(d) Find area AAPD : area ABPC
+
+724511 8
+
+
+
+--- PAGE 09 ---
+Question 7
+
+0)
+
+(ii)
+
+(iii)
+
+In the given diagram, an isosceles ABC is inscribed in a circle with centre O. (31
+PQ is a tangent to the circle at C. OM is perpendicular to chord AC and ZCOM = 65°.
+
+Find:
+
+(a) ZABC
+(b) ZBAC
+(c) ZBCQ
+
+Solve the following inequation, write down the solution set and represent-it on the real (3]
+
+number line.
+
+7x
+“34x57 +2<8+2x,x6/
+
+In the given diagram, ABC is a triangle, where B(4,— 4) and C(- 4, - 2). Disa pointon [4]
+AC. Yp
+
+(a) Write down the coordinates
+of A and D.
+
+(b) Find the coordinates of the
+centroid of AABC.
+
+(c) If D divides AC in the ratio
+k: 1, find the value of k.
+
+(d) Find the equation of the line
+BD. C4, -
+
+724511
+
+9 Turn Over
+
+
+--- PAGE 10 ---
+Question 8
+
+(The polynomial 3x? + Rx? — 18x + & has (x = 1) as a factor. Find the value of k Hence
+factorize the resulting polynomial completely.
+
+(ii) The following letters A, D, M,N, O, §, U, Y of the English alphabet are written on separate
+cards and put in a box. The cards are well shuffled and one card is drawn at random. What
+
+is the probability that the card drawn is a letter of the word,
+(a) MONDAY?
+
+(b) which does not appear in MONDAY?
+
+(c)_ which appears both in SUNDAY and MONDAY?
+
+Gii) Oil is stored in a spherical vessel occupying 3/4 of its full capacity. Radius of this spherical
+vessel is 28 em. This oil is then poured into a cylindrical vessel with a radius of 21 em.
+
+Find the height of the oil in the cylindrical vessel (correct to the nearest cm).
+
+22
+Take x = ——
+OF
+
+7
+(i) The figure shows a circle of radius 9 cm with O as the centre. The diameter AB produced
+
+meets the tangent PQ at P. If PA = 24 cm, find the length of tangent PQ.
+Q
+
+‘mT
+
+21em
+
+Question 9
+
+13)
+
+13)
+
+{4]
+
+13]
+
+724511 10
+
+
+--- PAGE 11 ---
+(i)
+
+Mr. Gupta invested 2 33000 in buying % 100 shares of a company at 10% premium. The (3)
+
+dividend declared by the company is 12%, Find:
+
+(a) the number of shares purchased by him.
+
+(b) his annual dividend
+
+Gil) A life insurance agent found the following data for distribution of ages of 100 policy [4]
+holders:
+Age in years Policy Holders Cumulative frequency |
+a ; (frequency) _ |
+20-25 “3 ~ 2
+25 -30 4 6
+30-35 12 18
+35-40 20 38
+40-45 28 66
+45-50 22 88
+50-55 8 96
+55-60 4 100
+On a graph sheet draw an ogive using the given data. Take 2 cm = 5 years along one axis
+and 2 cm = 10 policy holders along the other axis. Use your graph to find:
+(a) The median age.
+(b) Number of policy holders whose age is above 52 years.
+Question 10
+(i) Rohan bought the following eatables for his friends : [3]
+
+Soham Sweet Mart : Bill
+S. No. Item Price Quantity Rate of GST
+1 Laddu % 500 per kg 2kg 5%
+2 Pastries = 100 per piece 12 pieces 18%
+Calculate :
+
+(a) Total GST paid.
+
+(b) Total bill amount including GST.
+
+724511
+
+Turn Over
+
+
+--- PAGE 12 ---
+(ii)
+
+(iii)
+
+(a) Ifthe lines Ax -y + 4 =0 and 2y = 6x + 7 are perpendicular to each other. find the
+
+value of k.
+(b) Find the equation of a line parallel to 2y = 6x + 7 and passing through (-I, 1)
+
+Use ruler and compass to answer this question. Construct ZABC = 90°, where
+AB = 6cm, BC =8 cm.
+
+(a) Construct the locus of points equidistant from B and C.
+(b) Construct the locus of points equidistant from A and B.
+
+(c) Mark the point which satisfies both the conditions (a) and (b) as O. Construct the
+locus of points keeping a fixed distance OA from the fixed point O.
+
+(d) Construct the locus of points which are equidistant from BA and BC.
+
+[3]
+
+[4]
+
+724511
+
+12
+

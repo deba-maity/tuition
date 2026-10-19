@@ -1,0 +1,493 @@
+
+--- PAGE 01 ---
+Lv69CZTTH
+
+| COMPUTER APPLICATIONS
+
+Maximum Marks: 100
+Time allowed: Two hours
+Answers to this Paper must be written on the paper provided separately.
+2, You will not be allowed to write during the first 15 minutes.
+3. This time is to be spent in reading the question paper.
+
+4. The time given at the head of this Paper is the time allowed for writing the answers.
+
+5. This Paper is divided into two Sections.
+
+6. Attempt all questions from Section A and any four questions from Section B. |
+
+7. The intended marks for questions or parts of questions are given in brackets{ ].
+
+Instruction for the Supervising Examiner
+
+Kindly read aloud the Instructions given above to all the candidates present in the
+
+Examination Hail. i
+
+This paper consists of 12 printed pages.
+T25 861 Turn Over
+
+
+--- PAGE 02 ---
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+
+Question I
+Choose the correct answers to the questions from the given options.
+
+(Do not copy the questions, write only the correct answers.)
+(i) Character class methods are found in the package called:
+(a) java.util
+(bf java.lang
+(c) java.awt
+(d) java.io
+(ii) System.out.printIn('Z'+32); will display:
+(a) z
+(b) Z
+(A 122
+(4) 154
+
+(iii) double x [ ]={2.5,4. 5,5.5,6.4}; occupies bytes.
+
+(a) 16
+(b) 4
+(c) 8
+
+dah 32
+
+(iv) The output of 42/6%2 is:
+
+1
+(b) 1
+
+(c) 2
+(d) 0
+
+0
+
+T25 861 2
+
+
+--- PAGE 03 ---
+”
+eS eee
+‘Keyboard Printer
+“Jie<
+Scanner Barcode Scanner Microphone
+Consider the Two dimensional array P2/[3], of peripherals (input / output
+devices) given above, state the index of the device Barcode Scanner.
+WH PUNE
+(b)  PfOJ[1]
+(c) P[1}[2]
+(4) Pfo}{o]
+(vi) Which of the following is user defined data type?
+1. array v 3. class Y
+. double 4. boolean
+(a) only]
+(@ = land3
+(c) only2
+(d) only 4
+(vii) Select the infinite loop:
+
+(a) for(int i=1;i<=10;i++)
+for(int i=2; i!=0 ;i-=3)
+(c) for(int i=5 ;i<=5;i++)
+
+(d) for(int i =1;i>=1,; i - -)
+
+T25 861 3 Turn Over
+
+
+--- PAGE 04 ---
+The output of Math.max(-7, Math.min(-S ,-4)) is:
+
+eY -5
+
+(viii)
+
+(b) +4
+(c) -7
+(d) error
+(ix) Which of the following is true for the given object creation statement?
+
+Game cricket = new Game();
+
+&_Game is an object of cricket class
+(b) New keyword creates object Game
+
+(cy Game is a class and cricket is an object
+
+(d) | Game and cricket are objects
+
+* (x) Post office is an example for access specifier.
+
+Gh public
+
+® local
+
+(c) protected
+
+(d) private
+
+(xi) Assertion (A): In switch case break statement avoids fall through.
+
+Reason (R): break statement helps to execute only one case at a time.
+C7) Both (A) and (R) are true and (R) is a correct explanation of (A).
+
+(b) Both (A) and (R) are true and (R) is not a correct explanation of (A).
+(c) (A) is true and (R) is false.
+
+(d) (A) is false and (R) is true.
+
+T25 861 4
+
+
+--- PAGE 05 ---
+(xii) A physical education teacher asks the students to do the side stretch as shown
+
+he teacher uses?
+
+below, 10 times. Which programming construct l
+
+if \@
+
+(b) switch
+
+IS for
+(4) ifelse if ( cnt )
+(xiii) The index (subscript) of the last element of an array arl Jis: is:
+(a) ar.length( )
+(b) ar ].length
+(c) ar.length()-1
+
+a ar.length-|
+
+(xiv) Assertion (A): A clock is a real-life example of nested loops.
+
+Reason (R): The hour hand moves through 12 positions, while the minute
+
+hand moves through 60 positions within each hour.
+(a) Both (A) and (R) are true and (R) is a correct explanation of (A).
+(b) Both (A) and (R) are true and (R) is not a correct explanation of (A).
+(eh (A) is true and (R) is false.
+(d) (A) is false and (R) is true.
+(xv) Which of the following pairs of methods will cause a compile-time error due
+
+to incorrect method overloading?
+(a) void test(int a, int b) and void test(double a, double b)
+(b) void test(int a, double b) and void test(double a, int b)
+
+(c) void test(int a, double b) and void test(int a)
+
+WS: void test(int a) and int test(int a)
+
+T25 861 5 “Turn Ov
+
+
+--- PAGE 06 ---
+5” 10 25.0?
+
+oy Which of the following converts 2.
+
+(a) Double.Parsedouble(“25™)
+
+(b) Double.parse(“25"")
+Ww Double.parseDouble(“25")
+
+(d) Double.parseDouble(25)
+
+(xvil) Consider the program segment:
+int p=0;
+
+for(p=4 ; p>O ; p- =2f7)
+System.out.print(p);
+System.out.printla(p);
+
+The above statements will display:
+
+(a) 42
+(b) 4200
+(c) 3
+
+eh 00
+
+(xviii) System.out.printin("I said,\“It\'s wise to obey elders.\””);
+The output of the above statement is:
+(a) I said,'It is wise to obey elders.’
+(8) I said, “It’s wise to obey elders.”
+(c) I said,It's wise to elders.
+
+(d) ““It's wise to obey elders.”
+
+T25 861 6
+
+
+--- PAGE 07 ---
+(xix)
+
+(xx)
+
+Mot: .
+What is the output of the statement given below?
+
+“ANGER”. compareTo(“ANGEL ”
+(a) 3 7:
+
+HK +
+
+(ox 6
+
+(d) 0
+
+Conside .
+r the following Program segment in which the statements are jumbled.
+
+Choose the
+correct order of Statements to calculate and return the factorial of 4.
+Sor (k=1; k<=4; k++) ——s |
+
+Question 2
+
+(i)
+
+(ii)
+
+(iii)
+
+return fa; ——-s 2
+
+long fa=1,k; > 3
+
+fa*=k; ——+ 4
+
+(a) 1,2,3,4
+
+WS 3,1,4,2
+
+(c) 3,1,2,4
+
+(d) 1,3,2,4
+
+Write the java expression to find the product of {quare root of P and the square [2]
+
+root of Q)using the methods of Math class.
+
+Write the output of the following String method: (2]
+String x= “ falent” ; String y="matrix” ;
+System.outprint(x.substring(3). concat(y.substring(3)) ; >
+
+Write the Java statement for creating an object named ‘sifra’ of the class [2]
+
+‘Robot’, which takes three double parameters.
+
+T25 861
+
+7 Turn Over
+
+
+--- PAGE 08 ---
+liv) Convert the given loop into exit controlled loopy ae
+
+int a,b;
+
+for (a=10 ,b=1; a>=I ja-=2)
+{ :
+b+=a;
+
+b++;
+
+i.
+Sstem.out print(b);
+N27
+(v) Consider and give the output of the following program: {2}
+
+class report
+{ inta,b;
+report()
+{ a=10;
+b=15;
+}
+report(int x, int y)
+{ a=x;
+b=y;
+}
+void print()
+f System.out.printin(a*b);
+}
+static void main()
+
+{ report r= new report();
+LO
+
+reprint);
+report p = new report(4, 5);
+
+p-print();
+
+T25 861 3
+
+
+--- PAGE 09 ---
+(viil)
+
+(ix)
+
+sitive integer onl ly » [2]
+
+Va code t
+following code was Written h calculate the surface area of a cone, the (2|
+Y him
+Surface area Of cone is A=nr|
+class area b= Vr? he
+
+——
+
+S ecify the 4 e Of the er, i corre
+P' ‘ype of the cd for in the above program, c ct and write the
+program to be error free,
+
+Consid i
+nsi ler the following array and answer the questions given below: [2]
+int af } = {12,10,8,4,6,2,3,5, 7
+
+(a) What is the output of System. out print(a/0j-+a/5)):2
+
+(b) What is the index (subscript) of the largest element of the array af ]?
+
+(a) Write the Java statement to initialise the first 6 odd numbers ina 3 x 2 array, [2]
+(b) What is the result of x/O/[1] + x/2][1] of the above array?
+
+Give the output of the following program segment and specify how many times (2)
+the loop is executed.
+String 5 = “JAVA”;
+
+Sor(i=0;i<s.length();i+=2)
+System.out.println(s.substring(i); [
+
+725 861
+
+9 Turn Over
+
+
+--- PAGE 10 ---
+SECTION B (60 Marks)
+
+(Answer any four questions from this Section.)
+
+The answers in this section should consist of the programs in either BlueJ environment or any
+program environment with Java as the base.
+Each program should be written using variable description / mnemonic codes so that the logic of
+the program is clearly depicted.
+
+Flowcharts and algorithms are not required.
+
+Question 3 (15)
+Define a class named CloudStorage with the following specifications:
+
+. Member Variables:
+
+- int acno - stores the user's account number.
+
+: int space ~ Stores the amount of storage space in GB purchased by
+the user.
+
+- double bill - stores the total price to be paid by the user.
+
+° Member Methods:
+- void accept() - prompts the user to input their account number and
+Storage space using Scanner class methods only.
+- void calculate() - calculates the bill total price based on the storage space
+
+purchased using the pricing table provided:
+
+| Storage range | Price per GB (Rs) |
+
+First 15 GB 15 |
+Next 15 GB 13
+|_ Above 30 GB 11
+- void display() - displays the account number, storage space and bill to
+be paid.
+
+Write a main method to create an object of the class and invoke the methods of the class
+
+with respect to the object.
+
+725 861 10
+
+
+--- PAGE 11 ---
+15
+auestion 115]
+
+Define a class to accept values into a 4 x 4 integer array, Calculate and print the NORM
+
+of the array.
+NORM is the square root of sum of squares of all elements.
+1 | 2 1 | 3
+2 | | 6
+6 | 1 | | 2 |
+3 4 | 6} 3)
+
+Sum of squares of elements = 1+4+1+9+25444143619436414449+16+3649 = 201
+NORM = Squareroot of 201 = 14,1 7744687875785
+
+Question [15]
+
+Define a class to accept a String and Print if it is a Super string or not. A String is Super
+
+if the number of uppercase letters are equal to the number of lower case letters.
+[Use Character & String methods only]
+
+Example : “COmm!TmeNt”
+Number of Uppercase letters — 5
+Number of Lowercase letters — §
+
+String is a Super String
+
+Question 6 [15]
+Define a class to initialise the following data in an array,
+Search for a given character input by the user, using the Binary Search technique.
+
+Print “Search Successful” if the character is found otherwise print “Search is not
+
+Successful”.
+
+‘A’, ‘H’, ‘N’, ‘P’, ‘Ss’, °U’, ‘WwW’, ‘y’, ‘Z’, ‘b’, ‘a’
+
+T25 861 1] Turn Over
+
+
+--- PAGE 12 ---
+Questiqn / {15}
+
+Define a class to overload the method print() as follows:
+void print()- To printthe given format using nested loops.
+@#@4@
+@#@#@
+@#@H@
+@#@#@
+
+double print(double a, double b)- To display the sum of numbers between 4 and
+with difference of 0.5.
+
+e.g. ifa=1.0,b=4.0
+Output is: 1.0 + 1.5+2.0+2.5 + ..ccseererrrere
+
+int print(char chl, char ch2) — compare the two characters and return the ASCII code
+
+of the largest character.
+
+Questiony6 {15}
+
+Define a class to accept a number. Check if the sum of the largest digit and the smallest
+
+digit is an even number or an odd number. Print appropriate messages.
+
+Sample Input: 6425 3748
+Largest digit: 6 8
+
+Smallest digit: 2 3
+
+Sample Output: Sum is even Sum is odd
+
+725 861 12

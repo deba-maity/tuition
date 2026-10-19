@@ -1,0 +1,22 @@
+ow Which of the following converts “25" to 25.08?
+(a) Double.Parsedouble(“25™)
+(b) Double.parse(“25")
+wh Double.parseDouble(“25")
+(d) Double.parseDouble(25)
+(xvii) Consider the program segment:
+int p=0;
+Sor(p=4 ; p>O ; p- =2f)
+System.out.print(p);
+System.out.printin(p);
+The above statements will display:
+(a) 42
+(b) 4200
+© 3
+5 00
+(xviii) System.out.printin("I said,\“I\'s wise to obey elders.\""");
+The output of the above statement is:
+(a) I said,'It.is wise to obey elders.’
+03) I said, “It's wise to obey elders.”
+(c) I said,It’s wise to elders.
+(d) ‘““It's wise to obey elders.”
+T2586)

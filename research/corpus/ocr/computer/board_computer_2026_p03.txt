@@ -1,0 +1,32 @@
+(iv)
+(v)
+(vi)
+(vii)
+T26 861
+Which of the following is NOT an access specifier?
+(a) private
+(b) protected
+(c) package
+(d) public
+What is the output of the statement Math.pow (36, 6/5); ?
+(a) 36.0
+(b) 1.0
+(c) 73.71
+(d) 6.0
+Read the if program segment given below:
+if (a > b)
+z=25;
+else
+z=35;
+Which one of the following is the correct conversion of the if program
+segment to ternary?
+(a) : 25;
+(c) z=a>b: 35 ? 25;
+The output of the statement:
++ 2); is:
+(a) 66
+(b) 100
+(c) 68
+(d) 98
+3
+Turn Over

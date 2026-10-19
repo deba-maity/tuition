@@ -1,0 +1,32 @@
+(v)
+(vi)
+(vii)
+T25 861
+Mouse
+Scanner
+Keyboard
+Barcode Scanner
+Printer
+Microphone
+Consider the Two dimensional array P/2J[3], of peripherals (input / output
+devices) given above, state the index of the device Barcode Scanner.
+Which of the following is user defined data type?
+2.
+(a)
+(c)
+(d)
+array v
+double
+only I
+I and 3
+only 2
+only 4
+3. class v/
+4. boolean
+Select the infinite loop:
+(a) for(int O;i++)
+for(int i=2; ;i-=3)
+(c) for(int
+(d) for(mt i- )
+3
+Turn Over

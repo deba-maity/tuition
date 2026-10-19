@@ -1,0 +1,29 @@
+(NIV) Each of the substances given below is supplied with same amount oc heat.
+Which one will attain the highest temperature?
+Substance
+Specific heat
+capacity (cal/g0C)
+(a) Aluminium
+(b) Copper
+(c) Iron
+Lead
+Lead
+0.031
+Aluminium Copper
+0.21
+0.095
+Iron
+0.115
+(xv)
+The following figure shows a small bar magnet falling freely through a copper
+ring. For the observer at A, the direction of the induced current will be:
+s
+Copper ring
+(a) clockwise when magnet is above and below the ring
+OZ anticlockwise when magnet is above and below the ring
+anticlockwise when magnet is above the ring and clockwise when the
+magnet is below the ring
+(d) clockwise when magnet is above the ring and anticlockwise when the
+magnet is below the ring
+T25 521
+6

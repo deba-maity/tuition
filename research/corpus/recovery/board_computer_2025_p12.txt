@@ -1,0 +1,21 @@
+Question {15}
+Define a class to overload the method print() as follows:
+void print()- To printthe given format using nested loops.
+@#@H@
+@#@t@
+@#@H@ :
+@H@H@
+double print(double a, double b)— To display the sum of numbers between 4 and 5
+with difference of 0.5.
+e.g. ifa=1.0,b=4.0
+Output is: 10+ 15+ 2042.5 + vreccccecreee +40
+int print(char ch1, char ch2) - compare the two characters and return the ASCII code
+of the largest character.
+Questio {15]
+en to accept a number. Check if the sum of the largest digit and the smallest
+digit is an even number or an odd number. Print appropriate messages.
+Sample Input: 6425 3748
+Largest digit: 6 8
+Smallest digit: 2 3
+Sample Output: Sum is even Sum is odd
+Te 2 2060C~t“‘éOSOSOS™S*”*C;«dRSSUUUUU

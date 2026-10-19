@@ -1,0 +1,39 @@
+SECTION B (60 Marks)
+(Answer any four questions from this Section.)
+The answers in this section should consist of the programs in either BlueJ enviromnent or any
+program environment with Java as the base.
+Each program should be written using variable description / mnemonic codes so that the logic of
+the program is clearly depicted.
+Flowcharts and algorithms are not required.
+Question 3
+[151
+Define a class named CloudStoragc with the following specifications:
+Member Variables:
+int acno
+int space
+double bill
+Member Methods:
+void accept()
+void calculate()
+void display()
+- stores the user's account number.
+stores the amount of storage space in GB purchased by
+the user.
+- stores the total price to be paid by the user.
+prompts the user to input their account number and
+storage space using Scanner class methods only.
+calculates the bill total price based on the storage space
+purchased using the pricing table provided:
+Stora e ran e Price er GB Rs
+First 15 GB
+Next 15 GB
+Above 30 GB
+15
+13
+11
+- displays the account number, storage space and bill to
+be paid.
+Write a main method to create an object of the class and invoke the methods of the class
+with respect to the object.
+T25 861
+10

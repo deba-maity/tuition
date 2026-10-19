@@ -1,0 +1,29 @@
+(xiv)
+Assertion (A): In the electrolysis of acidified water, the volume of hydrogen
+liberated is twice the volume of oxygen formed.
+Reason (R): Water has hydrogen and oxygen in the ratio of I by volume.
+(a) (A) is true but (R) is false.
+(b) (A) is false but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and(R) are true. but (R) is not the correct explanation of (A).
+In the electrolysis of molten aluminium oxide for extraction of aluminium, the
+following reactions take place:
+2.
+3.
+4.
+A 13+ + 3e— Al
+202- 02 + 4e-
+C + 02 C02
+2A13+ + 302
+A1203
+The reaction that takes place at the negative electrode is:
+(a)
+(b)
+(c)
+(d)
+T26 522
+1
+2
+3
+4
+Turn Over

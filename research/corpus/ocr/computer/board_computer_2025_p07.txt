@@ -1,0 +1,29 @@
+(.xix)
+(XX)
+Question 2
+What is the output of the statement given below?
+"ANGER
+Consider the following program segment in which the statements are jumbled.
+Choose the correct order of statements to calculate and return the factorial of 4.
+for (k=l; 1
+return fa;
+long fa = I, k;
+3
+(a)
+(c)
+(d)
+Write the java expression to find the product of (quare root of P and the square
+root of Q sing the methods of Math class.
+Write the output of the following String method:
+(ii)
+(iii)
+T25 861
+String x= Alént" ;
+String ;
+Write the Java statement for creating an object named 'sifra' of the class
+'Robot', which takes three double parameters.
+[2]
+[2]
+[21
+7
+Turn Over

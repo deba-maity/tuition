@@ -1,0 +1,35 @@
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+T24 861
+if (a>b&&b>c) then largest nurnber is:
+(d) wrong expression
+What is the output of
+(a) 10.0
+(b) 11.0
+(c) 12.0
+(d) 9.0
+What is the method to check whether a character is a letter or digit?
+(a) isDigit(char)
+(b) isLetterOrDigit()
+(c) isLetterOrDigit(char)
+(d) isLETTERorDIGIT(char)
+Ihe extension of a Java source code file is:
+(a) exe
+(b) obj
+(c) jvm
+(d) java
+The number of bytes occupied by a character array of four rows and three
+columns are:
+(a)
+(b)
+(c)
+(d)
+12
+24
+96
+48
+3
+Turn Over

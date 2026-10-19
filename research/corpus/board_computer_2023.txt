@@ -1,0 +1,366 @@
+
+--- PAGE 01 ---
+COMPUTER APPLICATIONS
+
+Maximum Marks: 100
+Time allowed: Two hours
+Answers to this Paper must be written on the paper provided separately.
+You will not be allowed to write during the first 15 minutes.
+This time is to be spent in reading the question paper.
+
+The time given at the head of this Paper is the time allowed for writing the answers.
+
+This Paper is divided into two Sections.
+
+Attempt all questions from Section A and any four questions from Section B.
+
+The intended marks for questions or parts of questions are given in bracketsf J.
+
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+
+Question 1 : {20}
+Choose the correct answers to the questions from the given options.
+(Do not copy the questions, write the correct answers only.)
+(i) A mechanism where one class acquires the properties of another class:
+(a) Polymorphism
+(b) Inheritance
+(c) Encapsulation
+(d) Abstraction
+(ii) Identify the type of operator &&:
+(a) ternary
+(b) unary
+(c) logical
+
+(d) relational
+
+This paper consists of 8 printed pages.
+723 861 ; . Turn Over
+
+
+--- PAGE 02 ---
+(iii)
+
+(iv)
+
+)
+
+(vii)
+
+‘The Scanner class method used to accept words with space:
+
+(a) next()
+
+> (b)  nextLineQ
+
+(c) NextQ)
+
+(4) _nextString()
+
+The keyword used to call package in the program:
+
+(a) extends
+
+(b) export
+
+(c) import
+
+(d) package
+
+What value will Math.sqrt (Math.ceil (15.3)) return?
+
+(a) 16.0
+
+(b) 16
+
+(c) 4.0
+
+@) 5.0
+
+The absence of which statement leads to fall through situation in switch case
+
+statement?
+
+(a) continue
+
+(b) break
+
+(c) return
+
+(d) System.exit(0)
+
+State the type of loop in the given program segment:
+for (int i= 5;i!=0;i-=2)
+System.out.println(i);
+
+(a) finite
+
+(b) infinite
+
+(c) null
+
+(d) fixed
+
+723 861
+
+(e}
+
+
+--- PAGE 03 ---
+(viii) Write a method prototype name cheek() which takes an integer argument and
+
+returns a char:
+
+(a) char check()
+
+(b) void check (int x)
+(c) check (int x)
+
+(d) char check (int x)
+
+(ix) The number of values that a method can return is:
+(a) 1
+(b) 2
+(©) 3
+.(d) 4
+& Predict the output of the following code snippet: String P = "20", Q="22";
+int a = Integer.parseInt(P);
+int b = Integer. valueOf(Q);
+System. out printin(a+™"+b);
+(a) 20
+{b) 20 22
+© 2220
+(d) 22
+>) The String class method to join two strings is:
+(a) concat(String)
+(b) <string> joint(string)
+(c) concat(char)
+(d) Concat()
+(xii) The output of the function "COMPOSITION" substring(3, 6):
+(2) POS!
+(b) POS
+(c) MPO
+(d) MPOS
+
+723 861 3 Turn Over
+
+
+--- PAGE 04 ---
+(xiii) int x= (int) 32.8; is an example of _____ typecasting.
+(a) implicit
+(b) automatic
+(c) explicit
+(d) coercion
+oe The code obtained after compilation is known as:
+(a) source code .
+(b) object code
+(c) machine code
+
+(d) java byte code
+
+(xv) Missing a semicolon in a statement is what type of error?
+(a) Logical ,
+(b) Syntax
+(c) Runtime
+
+(d) No error
+
+(xvi) Consider the following program segment and select the output of the same
+when n= 10: :
+switch(n)
+{case 10 : System.out.printIn(n*2);
+case 4 : System.out println(n*4); break;
+default : System.out.println(n);
+
+}
+@ 2
+)
+(c) 20,40
+
+123 861 4
+
+
+--- PAGE 05 ---
+(xvii) A method which docs not modify the value of variables is termed as:
+
+(a) Impure method
+(b) Pure method
+(c) ” Primitive method
+(d) User defined method
+(xviii) When an object of a Wrapper class is converted to its corresponding primitive
+data type, it is called as _
+(a) Boxing
+(b) Explicit type conversion
+{c) Unboxing
+(d) Implicit type conversion
+&) The number of dits occupied by the value ‘a’ are:
+(a) 1 bit
+(b). 2 bits
+{c) 4 bits
+(d) 16 bits
+(» Method which is a part of a c/ass rather than an instance of the class is termed
+{ as —_ -
+(a) Static method
+(b) Non static method
+(c) Wrapper class
+
+(d) String method
+
+Question 2
+(i) Write the Java expression for (a + b)*. (2)
+Kd) Evaluate the expression when the value of x = 4: (2]
+x* eee xt xtt tx :
+
+723 861 5 ‘Turn Over
+
+
+--- PAGE 06 ---
+(iii) Convert the following do. ..while loop to for loop: 2]
+
+int x=10;
+
+do
+
+{x-5
+System.out.print(x);
+}while (>=1);
+
+(iv) Give the output of the following Character class methods: 2)
+
+(a) Character.toUpperCase (‘a’)
+
+() Character isLetterOrDigit(#)
+
+(v) Rewrite the following code using the if-else statement: (2]
+int m= 400;
+double ch = (m>300) ? (m / 10.0) * 2: (m/ 20.0) - 2;
+
+(vi) Give the output of the following program segment: [2]
+
+int n = 4279; int d;
+
+while(n>0) ~~
+{d=n%10;
+System.out.printin(d);
+n=n/100;
+
+}
+(vii) Give the output of the following String class methods: (2)
+
+(a) "COMMENCEMENT" . lastIndexOf('M’)
+(b) "devote" . compareTo("DEVOTE")
+
+(viii) Consider the given array and answer the questions given below: [2]
+int x[ = {4,7,9,66,72,0,16};
+
+(a) What is the length of the array?
+(b) What is the value in x[4]?
+(ix) Name the following: (21
+(o) What is an instance of the class called?
+
+(b) The method which has same name as that of the class name.
+
+723 861 6
+
+
+--- PAGE 07 ---
+ey Write the value of n after execution: Q]
+char ch =‘d’;
+
+intn=ch+ 5;
+
+SECTION B (60 Marks)
+(Answer any four questions Srom this Section.)
+The answers in this section should consist of the programs in either BlueJ environment or any
+Program environment with java as the base.
+Each program should be writien using variable description / mnemonic codes so that the logic of the
+Program is clearly depicted.
+
+Flowcharts and algorithms are not required. *
+
+Question 3 {15}
+Design a class with the following specifications:
+
+Class name: Student
+
+Member variables: name — name of student
+
+age — age of student
+mks ~marks obtained
+stream — stream allocated
+
+(Declare the variables using appropriate data types)
+
+Member methods:
+void accept() — Accept name, age and marks using methods of Scanner class.
+void allacation()— Allocate the stream as per following criteria:
+
+mks stream
+
+>= 300 Science and Computer
+>= 200 and < 300 Commerce and Computer
+>=75 and 200 Arts and Animation
+<75 Try Again
+
+void print() - Display student name, age, mks and stream allocated.
+
+Call all the above methods in main method using an object.
+
+[15]
+Question 4
+Define a class to accept 10 characters from a user. Using bubble sort technique arrange
+
+them in ascending order. Display the sorted array and original array.
+Turn Over
+
+723 861
+
+
+--- PAGE 08 ---
+1
+Question 5 {15}
+
+Define a class to overload the function print as follows:
+void print() to print the following format
+1otol
+2 2
+3 3
+4 4
+5 5
+void print(int n) To check whether the number is a lead number. A
+lcad number is the one whose sum of even digits are
+equal to sum of odd digits.
+e.g. 3669 odd digits sum = 3 +9 = 12
+even digits sum = 6 + 6 = 12
+3669 is a lead number.
+
+uk wn —
+wk wN
+
+Question 6 {I5)
+Define a class to accept a String and print the number of digits, alphabets and special
+characters in the string.
+Example: S = “KAPILDEV@83”
+Output: Number of digits — 2
+
+Number of Alphabets - 8
+
+Number of Special characters — |
+
+Question 7 115)
+Define a class to accept values into an array of double data type of size 20. Accept a double
+
+value from user and search in the array using linear search method. If value is found
+
+display message “Found” with its position where it is present in the array. Otherwise
+
+display message “not found”.
+
+Question 8 {15}
+Define a class to accept values in integer array of size 10. Find sum of one digit number
+and sum of two digit numbers entered. Display them separately.
+Example: Input: af ] = {2, 12,4, 9, 18, 25, 3, 32, 20, 1}
+Output: Sum of one digit numbers :2+4+9+341=19
+Sum of two digit numbers : 12 + 18 +25 + 32 + 20 = 107
+
+T23K6r Bo

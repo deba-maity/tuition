@@ -1,0 +1,26 @@
+(iii)
+X, Y, Z and C are the points on the circumference ofa circle with centre 'O' AB is a
+tangent to the circle at 'X' and ZY = XY. Given LOBX = 320 and LAXZ 660. Find:
+(a) LBOX
+(b) LCYX
+(c) LZYX
+(d) LOXY
+estion 10
+0
+660
+x
+c
+If 1701 is the nth term of the Geometric Progression (G.P.) 7.21.63
+(a) the value of 'n'
+(b) hence find the sum of the 'n' terms ofthe G.P.
+(ii) Inthe given diagram 'O' is the centre ofthe circle. Chord SR produced meets the tangent
+XTP P.
+s
+o
+(a) Prove that APTR-åPST
+x
+(b) ProvethatPT2=PRxPS
+(c) IfPR=4cm and PS = 16 cm, find the length of the tangent
+T2S511
+15
+Turn Over

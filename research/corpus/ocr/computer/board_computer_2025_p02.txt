@@ -1,0 +1,29 @@
+SECTION A (40 Marks)
+(Attempt all questions from this Section )
+Question I
+Choose the correct answers to the questions from the given options.
+(Do not copy the questions, write only the correct answers.)
+Character class methods are found in the package called:
+(iii)
+(iv)
+T25 861
+(a) java. util
+(bf java. lang
+(c) java.awt
+(d) java. io
+System.out.println('Z'+32); will display:
+U 122
+(d)
+154
+double x occupies
+(a)
+16
+gf 32
+The output of 42/6%2 is:
+bytes.
+(b)
+(c)
+(d)
+IO
+2
+2

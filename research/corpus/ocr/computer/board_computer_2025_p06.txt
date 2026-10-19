@@ -1,0 +1,25 @@
+(xvii)
+(xviii)
+T25 861
+Which of thc following converts "25 • ' to 25M!
+( a) Double.
+Double.parseDoubIe("25")
+(d) Double.parseDoubIe(25)
+Consider the program segment:
+int p=O;
+System. o ut.print(p) ;
+System. out.println(p),•
+The above statements will display:
+(a) 42
+(b) 4200
+(c)
+said,l "ltl 's wise to obey elders. I
+The output of the above statement is:
+(a)
+(c)
+(d)
+I said,'Jt is wise to obey elders.'
+I said, "It's wise to obey elders."
+I said,lt's wise to elders.
+"'It's wise to obey elders."'
+6

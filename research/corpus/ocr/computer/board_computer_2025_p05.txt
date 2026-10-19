@@ -1,0 +1,34 @@
+(xii)
+(xiii)
+(xiv)
+(xv)
+T25 861
+A physical education teacher asks the students to do the side stretch as shown
+below, IO times. Which programming construct the teacher uses"
+if
+(a)
+(b) switch
+for
+(d) if else if
+Side
+Stretch
+The index (subscript) of the last element of an array arl / is:
+(a) ar.length( )
+(b) ar[ l. length
+(c) ar.length()-l
+'df ar.length-l
+Assertion (A): A clock is a real-life example of nested loops.
+Reason (R): Ihe hour hand moves thrnngh 12 positions, while the minute
+hand moves through 60 positions within each hour.
+(a) Both (A) and (R) are true and (R) is a correct explanation of (A).
+(b) Both (A) and (R) are true and (R) is not a correct explanation of (A).
+(A) is true and (R) is false.
+(d) (A) is false and (R) is true.
+Which of the following pairs of methods will cause a compile-time error due
+to incorrect method overloading?
+(a) void test(int a, int b) and void test(double a, double b)
+(b) void test(int a, double b) and void test(double a, int b)
+(c) void test(int a, double b) and void test(int a)
+"void test(int a) and int test(int a)
+5
+Turn Ov

@@ -1,0 +1,41 @@
+SECTION B (60 Marks)
+(Answer anyfour questions from this Sectlon.)
+The answers in this section should consist of the programs In either BlueJ environment or any
+program environment with Java a.c the base.
+Each program should be written using variable description / mnemonic codes so that the logic oflhe
+program Is clearly depicted
+Flowcharts and algorithms are not required.
+Question 3
+DTDC a courier company charges for the courier based on the weight ofthe parcel. Define
+a class with the following specifications:
+(151
+class name:
+Manber variables:
+Member methods:
+void accept ( ) —
+void calculate ( ) —
+void print ( ) -
+void main ( ) —
+T-24861
+courier
+narne — name of the customer
+weight — weight of the parcel in kilograms
+address — address of the recipient
+bill — amount to be paid
+type — domestic, SI'- intemational
+to accept the details using the methods of the Scanner class only.
+to calculate the bill as per the following criteria:
+Weight in Kgs
+First 5 Kgs
+Next 5 Kgs
+Above IO Kgs
+Rate per Kg
+Rs.800
+Rs.700
+Rs.500
+An additional amount of Rs. 1500 is charged ifthe type of the courier
+is I (Intemational)
+To print the details
+to create an object of the class and invoke the methods
+9
+Turn Over

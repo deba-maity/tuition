@@ -1,0 +1,38 @@
+Question 4
+Write a program to accept the designations of I employees in a single dimensional array.
+Accept the designation from the user and print the total number of employees with the
+designation given by the user as input.
+Example:
+Manager
+Trainee
+Chef
+Input: Manager Output: 3
+Question 5
+Manager
+Director
+Manager
+[15]
+Write a program to accept a two-dimensional integer array of order 4 x 5 as input from
+the user. Check if it is a Sparse Matrir or not. A matrix is considered to be a sparse, if the
+total number of zero elements is greater than the total number of non-zero elements. Print
+appropriate messages,
+Example:
+4
+0
+2
+o
+o
+3
+Question 6
+Number of zero elements = I I
+Number of non zero elements = 9
+Matrix is a Sparse Matrix
+[151
+Write a program to accept a number and check if it is a Mark number or not. A number
+is said to be Mark when sum of the squares of each digit is an even number as well as the
+last digit of the sum and the last digit of the number given is same.
+Example: n = 246
+sum =2x2+4x4+6x6— 56
+56 is an even number as well as last digit is 6 for both sum as well as the number.
+Turn Over
+T26 861

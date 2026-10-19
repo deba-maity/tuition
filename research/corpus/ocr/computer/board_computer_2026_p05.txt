@@ -1,0 +1,27 @@
+(x)
+(xi)
+(xii)
+T26 861
+In the following method prototype to accept a character, an integer and retum
+YES or NO, fill in the blank to complete the method prototype.
+public
+someMethod (char Ch, int n)
+(a) boolean
+(b) String
+(c) int
+(d) double
+In a calculator which Java feature allows multiple methods named calculate()
+for the different operations?
+(a) abstraction
+(b) inheritance
+(c) encapsulation
+(d) polymorphism
+Assertion (A): The result of the Java expression 3 + 7/2 is 6.
+Reason (R): According to the hierarchy of operators in Java, addition is
+done first followed by division.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+5
+Turn Over

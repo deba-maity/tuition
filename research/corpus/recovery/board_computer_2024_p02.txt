@@ -1,0 +1,26 @@
+qi) int x = 98; char ch = (char)x: what is the value in ch?
+(a) b
+(b) A
+(c) B
+(d) 97
+iii) The output of the statement "CONCENTRATION". indexOf('T’) is:
+(a) 9
+(b) 7
+(c) 6
+(4d) (-1)
+(iv) The access specifier that gives least accessibility is:
+(a) package
+(b) public
+(c) protected
+(d) private
+(v) The output of the statement "talent" .compareTo("genius") is:
+(a) 11
+(b) -11
+(c) 0
+(d) 13
+(vi) Which of the following is an escape sequence character in Java?
+(a) Mm
+(b) \t
+© A
+(4) /m
+mmaSCS~SSCSSC“‘CSséstSCSCSCststststsSSS

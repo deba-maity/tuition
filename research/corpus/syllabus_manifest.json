@@ -1,0 +1,90 @@
+[
+  {
+    "subject": "bio",
+    "url": "https://docs.aglasem.com/view/2e2d5f92-f4b4-11e9-be4f-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "6ea3d0f45ba3bee62678392a37bae72f492313ef43b225be1d2493af35596d4e",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2e2d5f92-f4b4-11e9-be4f-02f21f5619c4/2e2d5f92-f4b4-11e9-be4f-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "computer",
+    "url": "https://docs.aglasem.com/view/2e4fccee-f4b4-11e9-8018-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "6af2ac116e34fe10347c3bd99eb5e2a7860f201ac370c07bedd861ea0f4280a2",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2e4fccee-f4b4-11e9-8018-02f21f5619c4/2e4fccee-f4b4-11e9-8018-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "maths",
+    "url": "https://docs.aglasem.com/view/2e8fec98-f4b4-11e9-aad1-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "f8c45ad1e6fd5e2f9fdc069947c4e5e4897a3d51fdea124a8a3ed1c1785fab9f",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2e8fec98-f4b4-11e9-aad1-02f21f5619c4/2e8fec98-f4b4-11e9-aad1-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "hindi",
+    "url": "https://docs.aglasem.com/view/889e6390-516f-4be3-8a29-b7ae4ec4c0d1",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "e94515fe249528a6415a68398611d32cf8d497cf17baddd2f92f826af314a2e3",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/889e6390-516f-4be3-8a29-b7ae4ec4c0d1/889e6390-516f-4be3-8a29-b7ae4ec4c0d1.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "chem",
+    "url": "https://docs.aglasem.com/view/2e2cc6b8-f4b4-11e9-8453-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "52655b1aaf3d922dcc8d9de2fd42e1cf01e526e122bb6e508fb953b3f348fb01",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2e2cc6b8-f4b4-11e9-8453-02f21f5619c4/2e2cc6b8-f4b4-11e9-8453-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "geo",
+    "url": "https://docs.aglasem.com/view/2e70f93c-f4b4-11e9-be2b-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "c51e17c4ad4a4fff2cb8c7eae677bb7da278a09f543133456f7b0beb949f5854",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2e70f93c-f4b4-11e9-be2b-02f21f5619c4/2e70f93c-f4b4-11e9-be2b-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "histciv",
+    "url": "https://docs.aglasem.com/view/2e760d82-f4b4-11e9-b985-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "f10aca3286ea0dae9d1e92b5d1a7728201aa09bc4f1e001243931b1b4cbec90f",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2e760d82-f4b4-11e9-b985-02f21f5619c4/2e760d82-f4b4-11e9-b985-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "subject": "phy",
+    "url": "https://docs.aglasem.com/view/2eadb854-f4b4-11e9-acaa-02f21f5619c4",
+    "publisher": "CISCE; mirrored document",
+    "status": "text available",
+    "sha256": "bd34f84c592204f6581a0bfa15527f33974e269d12a3a58d02294e92cae5f5ec",
+    "pdf_links": [
+      "https://cdn.aglasem.com/aglasem-doc/2eadb854-f4b4-11e9-acaa-02f21f5619c4/2eadb854-f4b4-11e9-acaa-02f21f5619c4.pdf"
+    ],
+    "pdf_download_error": "HTTP Error 403: Forbidden"
+  }
+]

@@ -1,0 +1,15 @@
+(viii) Assertion (A): Tiny air molecules scatter blue light mote than red light.
+Reason (R): The refractive index of a medium is greater for blue light than
+red light.
+(a) (A) is true but (R) is false.
+(b) (A) is false but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(ix) In the circuit given below, identify the lamp (Li, L2, Ls or L4) whose failure
+would not interrupt the power supply to the other lamps:
+(a) Li
+(b) Ly
+(c) Ls
+(d) Le
+a
+726 521 5

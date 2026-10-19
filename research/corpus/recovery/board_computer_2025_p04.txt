@@ -1,0 +1,23 @@
+(viii) The output of Math.max(-7, Math.smin(-5 ,-4)) is:
+ey” -5
+(b) +4
+(c) -7
+(d) error
+(ix) Which of the following és true for the given object creation statement?
+Game cricket = new Game();
+&_Game is an object of cricket class
+(b) New keyword creates object Game
+oy Game is a class and cricket is an object
+(d) Game and cricket are objects
+(x) Post office is an example for access specifier.
+ah public
+® local
+(c) protected
+(d) private
+(xi) Assertion (A): In switch case break statement avoids fall through.
+Reason (R): break statement helps to execute only one case at a time.
+7) Both (A) and (R) are true and (R) is a correct explanation of (A).
+(b) Both (A) and (R) are true and (R) is not a correct explanation of (A).
+(c) (A) is true and (R) is false.
+(d) (A) is false and (R) is true.
+72586100

@@ -1,0 +1,24 @@
+(x) Assertion(A): If sin?A + sinA = 1 then cos*A + cos?A =1
+Reason(R): 1 —sin?A = cos?A
+(a) (A) is true, (R) is false.
+(b) (A) is false, (R) is true.
+WS Both (A) and (R) are true, and (R) is the correct reason for (A).
+(d) Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+(xi) In the given diagram AABC ~ AEFG. If ZABC = 2 EFG = 60°, then the
+length of the side FG is: G F
+ta Sem
+(b) 20cm Bem
+(c) 25cm
+(d) 30cm
+Sem \
+3em Sen
+eC
+wd ' em E
+(xii) If the volume of two spheres is in the ratio 27 : 64, then the ratio of their
+radii is: .
+(ay 3:4
+{b) 4:3
+(c) 9:16
+(dd) 16:9
+eee
+725511 5 Turn Over

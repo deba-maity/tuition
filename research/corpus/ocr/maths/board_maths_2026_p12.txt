@@ -1,0 +1,41 @@
+Question 7
+35 —40
+40 — 45
+45 - 50
+50-55
+60 - 65
+65 - 70
+70-75
+A flagpole is erected at the top ofa building. The angle ofelevation of the top
+and foot of the flagpole from a point 100 m away, on the same level as that
+of the foot ofthe building, are 330 and 310 respectively. Find the height of the
+flagpole. Give your answer correct to the nearest metre.
+(Use Mathematical Tables for this question.)
+c
+3r
+100 m
+Using a graph paper, draw an ogive for the following distribution which
+shows a record of weight in kilograms of 100 students.
+(ii)
+T26 511
+[5]
+Weight (in kg)
+55
+60
+Number of students
+4
+6
+10
+24
+26
+17
+8
+5
+Use your ogive to estimate the following:
+(a)
+(b)
+(c)
+the median weight of the students.
+percentage of students whose weight is 60 kg or more.
+the weight above which 20% of the students lie.
+12

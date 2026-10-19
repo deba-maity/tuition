@@ -1,0 +1,26 @@
+(ii)
+(iii)
+T26
+A survey was conducted on 300 families having 2 children each. The results
+obtained are given below.
+Number Of girl child
+Number of families
+2
+95
+165
+0
+40
+Total
+300
+If one family is selected at random, find the probability that it will have:
+(a) one girl child
+(b) one or more girl child
+(c) no boy child
+In the given figure 'O' is the centre of the circle. PQ is a tangent to the circle
+at B and AB = AC. If LCBQ = 400, find the unknown angles x, y, z and w.
+D
+c
+400
+Q
+16
+[4]

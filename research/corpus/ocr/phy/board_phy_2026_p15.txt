@@ -1,0 +1,31 @@
+(iii)
+A ball of mass 20 g falls from a height 0f45 m. It rebounds from the ground to
+a height of 40 m. Calculate:
+(a) the initial potential energy of the ball.
+(b) the speed of the ball at which it hits the ground.
+(c) the loss in kinetic energy on striking the ground.
+[g = IO m/s2]
+Question 7
+(i)
+(ii)
+T26 521
+To lift a load of 30 kgf, Suhas uses a single fixed pulley, while Radha uses a
+single movable pulley. The displacement of efforts in both the cases are equal.
+In an ideal situation calculate the ratio of:
+(a)
+(b)
+(c)
+(a)
+(b)
+the efforts in the two cases.
+the potential energy gained by the loads in the two cases.
+the efficiencies in the two cases.
+One end of a plastic foot ruler is held tightly at the edge ofa table and the
+other end is plucked. Name the vibrations produced in the ruler.
+Now the ruler is pushed inside partially and plucked again from its free
+end. State with a reason whether the frequency of vibration increases or
+decreases.
+[3]
+[3]
+15
+Turn Over

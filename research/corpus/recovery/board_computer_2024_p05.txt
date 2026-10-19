@@ -1,0 +1,30 @@
+(xvi) Invoking a method by passing the objects of a class is termed as:
+(a) Call by reference
+(b) Call by value
+(c) Call by method
+(d) Call by constructor
+
+(xvii) The correct statement to create an object named mango of class fruit:
+(a) Fruit Mango= new fruit();
+(b) fruit mango = new fruit();
+(c) Mango fruit=new Mango();
+(d) fruit mango= new mango();
+
+(xviii) Assertion (A): Static method can access static and instance variables.
+
+“ : Reason (R): Static variable can be accessed only by static method.
+
+(a) Assertion and Reason both are correct.
+(b) Assertion is true and Reason is false.
+(c) Assertion is false and Reason is true.
+(d) Assertion and Reason both are false.
+
+(xix) What is the output of the Java code given below?
+String color [] = {"Blue", "Red", "Violet"};
+System.out printIn(color[2].length());
+(a) 6
+(bs) 5
+(c) 3
+(d) 2
+
+a a SY

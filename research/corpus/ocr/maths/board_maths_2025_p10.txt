@@ -1,0 +1,20 @@
+(iii)
+A solid wooden capsule is shown in Figure 1. The capsule is formed ofa cylindrical block
+and two hemispheres.
+Find the sum of total surface area of the three parts as shown in Figure 2. Given, the radius
+of the capsule is 3.5 cm and the length of the cylindrical block is 14 cm.
+22
+(Use
+Figure 1
+Question 6
+Figure 2
+(i) Use a graph paper for this question taking 2 cm = I unit along both axes.
+(a) Plot A(l, 3), B(l, 2) and C(3, 0).
+(b) Reflect A and B on the x-axis and name their images as E and D respectively. Write
+down their coordinates.
+(c) Reflect A and B through the origin and name their images as F and G respectively.
+(d) Reflect A, B and C on they-axis and name their images as J, I and H respectively.
+(e) Join all the points A, B, C, D, E, F, G, H, I and J in order and name the closed figure
+so formed.
+T25 511
+10

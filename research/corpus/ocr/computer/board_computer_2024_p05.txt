@@ -1,0 +1,32 @@
+(xvi)
+(xvii)
+(xviii)
+(xix)
+T24 861
+Invoking a method by passing thc objects of a class is termed as:
+(n) Call by rcfcrcncc
+(b) Call by value
+(c) Call by method
+(d) Call by constructor
+The correct statement to create an object named mango of class fruit:
+(a) Fruit Mango— new fruit();
+(b) fruit mango = new fruit();
+(c) Mango fruit—new Mango();
+(d) fruit mango= new mango();
+Assertion (A): Static method can access static and instance variables.
+Reason (R): Static variable can be accessed only by static method.
+(a) Assertion and Reason both are correct.
+(b) Assertion is true and Reason is false.
+(c) Assertion is false and Reason is true.
+(d) Assertion and Reason both are false.
+What is the output of the Java code given below?
+String color [ ] = {"Blue", "Red", "Violet"};
+(a)
+(b)
+(c)
+(d)
+6
+5
+3
+2
+Turn Over

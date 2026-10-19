@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>ICSE 2027 · Evidence and Practice</title><link rel="stylesheet" href="styles.css?v=20261011-audit"></head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" aria-label="Study navigation">
+    <div class="brand"><div class="brand-mark" aria-hidden="true">10</div><div><h1>ICSE 2027</h1><p>Evidence &amp; Practice</p></div></div>
+    <label for="homeSubjectSelect">Your subject</label><select id="homeSubjectSelect" class="subject-picker"></select>
+    <nav class="subject-nav" aria-label="Study sections"><button type="button" data-view="overview">Revision plan</button><button type="button" data-view="evidence">Paper evidence</button><button type="button" data-view="questions">Question bank</button><button type="button" data-view="practice">Practice worksheet</button></nav>
+    <div class="source-note"><span>Teacher resources</span><a href="ICSE_2027_Evidence_and_Revision_Guide.md">All-subject guide</a><a href="ICSE_Hindi_2027_Practice_and_Prediction_Pack.md">Hindi pack</a><a href="research/question_inventory.csv" download>Question inventory</a></div>
+  </aside>
+  <main class="workspace">
+    <header class="topbar"><div><p class="eyebrow">Class X · local study dashboard</p><h2 id="viewTitle">Revision plan</h2></div></header>
+    <div class="audit-banner"><strong>A study priority is not a prediction.</strong> Keep recently tested syllabus topics. The evidence tab gives the source and reason for each recommendation.</div>
+    <div id="hindiBookControl" class="panel compact" hidden><label for="hindiPair">School’s two Hindi textbooks</label><select id="hindiPair"><option value="">Choose the pair taught at school</option><option value="sahitya-naya">Sahitya Sagar + Naya Raasta</option><option value="sahitya-ekanki">Sahitya Sagar + Ekanki Sanchay</option><option value="naya-ekanki">Naya Raasta + Ekanki Sanchay</option></select><p id="hindiPairNote" class="muted"></p></div>
+    <section id="overview" class="view active"><div id="homeStatsGrid" class="stats-grid"></div><div id="subjectOverview"></div><details class="panel"><summary>Scope and evidence limits</summary><ul id="patternNotes" class="note-list"></ul></details></section>
+    <section id="evidence" class="view"><div id="previousPapers"></div></section>
+    <section id="questions" class="view"><div class="panel bank-controls"><div><label for="topicFilter">Topic</label><select id="topicFilter"></select></div><div><label for="questionSearch">Search questions</label><input type="search" id="questionSearch" placeholder="Search a skill, text or prompt"></div><p id="questionCount" aria-live="polite"></p></div><div id="subjectTopics" class="reviewed-bank"></div></section>
+    <section id="practice" class="view"><div class="practice-builder"><div><h3>Build a revision worksheet</h3><p id="practiceIntro"></p></div><div class="practice-controls">
+      <div><label for="worksheetTopic">Topic</label><select id="worksheetTopic"></select></div><div><label for="difficultySelect">Difficulty</label><select id="difficultySelect"><option value="Balanced">Balanced</option><option value="Normal">Normal</option><option value="Medium">Medium</option><option value="Hard">Hard</option></select></div><div><label for="setSize">Drills</label><select id="setSize"><option value="4">4</option><option value="8" selected>8</option><option value="12">12</option></select></div>
+      <button id="generatePaperBtn" class="primary-btn" type="button">Generate worksheet</button><button id="downloadPaperBtn" class="secondary-btn" type="button" disabled>Print / Save PDF</button><button id="downloadTextBtn" class="secondary-btn" type="button" disabled>Download Markdown</button><label class="key-control"><input id="includeKey" type="checkbox"> Include teacher checkpoints in exports</label>
+    </div></div><div id="paperOutput" class="paper-output" aria-live="polite"></div></section>
+  </main>
+</div>
+<div id="loading" class="loading" role="status">Loading reviewed content…</div>
+<script src="icse_2027_data.js?v=20261011-audit"></script><script src="app.js?v=20261011-audit"></script>
+</body>
+</html>

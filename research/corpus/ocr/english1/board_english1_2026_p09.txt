@@ -1,0 +1,34 @@
+2.
+3.
+4.
+5.
+T26 011
+One should keep one's promises.
+(Begin with: Promises ...9
+(a) Promises should keep one.
+(b) One's promises are not meant to be kept.
+(e) Promises should be kept.
+(d) Promises are one's to keep.
+He said, have passed the examination.
+(Begin: He said that...
+(a) He said that he had passed the examination.
+(b) He said that he passed the examination.
+(c) He said that he has paised the examination.
+(d) He said that he will pass the examination.
+He finished his exercise and pyt»is books away.
+(Begin: Having
+(a) Having his books put away: he exercised.
+(b) Having put his books away, he finished his exercise.
+(c) Having finished his exercise, he put his books away.
+(d) Having to finish his exercise, he put his books away.
+Unless she practises every day, she will not be able to meet her goal.
+(Begin with: If...)
+(a)
+(b)
+(c)
+(d)
+If she practises every e will be able to meet her goal.
+If she practises every will not be able to meet her goal.
+If she does not practise every day, her goal will be met.
+If she practises every day, her goal will not be met.
+10

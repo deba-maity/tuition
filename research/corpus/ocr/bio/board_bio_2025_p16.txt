@@ -1,0 +1,18 @@
+(v)
+T25 523
+A farmer cultivates a unique species of tomato plants. The two traits selected
+for breeding were: Colour of the fruits and height of the plants. The farmer
+initially crosses a homozygous tall plant bearing red fruits (TTRR) with a
+dwarf plant bearing yellow fruits (ttrr) and the genotype of all the offsprings
+of the Fl generation was TtRr. Next, he crosses two Fl generation plants
+(TtRr).
+(2
+With
+red fruits
+Dwarf plant with
+yellow fruits
+(a) Explain the phenotype of the offsprings of the Fl generation obtained
+from the initial cross.
+(b) Mention the phenotypic ratio of the F2 generation offsprings.
+(c) State Mendel 's Law of Independent Assortment.
+16

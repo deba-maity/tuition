@@ -1,0 +1,657 @@
+
+--- PAGE 01 ---
+| CcOST6TTA |
+
+I
+
+PHYSICS
+(SCIENCE PAPER - 1)
+
+| Maximum Marks: 80
+| Time allowed: Two hours
+1 Answers to this Paper must be written on the paper provided separately.
+
+2. You will not be allowed to write during first 15 minutes
+|
+| 3. This time is to be spent in reading the question paper.
+
+\
+| 4. The time given at the head of this Paper is the time allowed for writing the answers.
+|
+i
+
+5. Section A is compulsory. Attempt any four questions from Section B.
+
+| 6. The intended marks for questions or parts of questions are given in brackets [ ].
+
+Instruction for the Supervising Examiner
+
+Kindly read aloud the Instructions given above to all the candidates present in the
+
+Examination Hall.
+
+This Paper consists of 16 printed pages.
+725 521 Turn Over
+
+
+--- PAGE 02 ---
+SECTION A (40 Marks)
+
+(Attempt all questions from this Section.)
+
+Question 1
+
+Choo
+
+(Do not cop
+
+(i)
+
+(ii)
+
+(iii)
+
+ge the correct answers lo the questions from the given options
+; [15]
+
+y the questions, write the correct answers only.)
+
+A body is acted upon by two equal and opposite forces, that are NOT along the
+same straight line. The body will:
+
+(a) remain stationary
+
+oY have only rotational motion
+
+(c) have only rectilinear motion
+
+(d) have both rectilinear and rotational motion
+
+Which among the following is a vector quantity?
+
+(a) work
+
+(b) power
+(c) energy
+
+ing of 4 candle?
+
+OM moment of couple
+
+ct energy transformation during bum
+
+What is the corre
+
+
+--- PAGE 03 ---
+(iv) When a ray of light passes from one optical medium to another, which of the
+following physical quantities does NOT change?
+(a) Amplitude of the wave
+(by Frequency of the wave
+(c) Wavelength of the wave
+(d) Speed of the wave
+
+(v) — Which one of the following combinations is the correct ascending order of
+
+electromagnetic waves in terms of wavelength?
+(ay gamma-rays, visible light, microwaves
+(b) microwaves, visible light, gamma-rays
+(c) gamma-rays, microwaves, visible light
+(d) microwaves, gamma-rays, visible light
+
+(vi) Fora lever, a graph is plotted with load on Y-axis and effort on X-axis. Which
+
+of the following represents the slope of the graph?
+fas Mechanical advantage
+
+(b) Velocity ratio
+
+(c) 1/ Velocity ratio
+
+(d) 1 / Mechanical advantage
+
+(vii) For a real image formed by a convex lens, the ratio of 1: O = 2 : 5, then the
+
+abject is: (I is the height of the image and O is the height of the object)
+(a) between O and F
+
+Ab) beyond 2F
+
+(c) atF
+
+(d) between F and 2F
+
+725 521 3 Turn Over
+
+
+--- PAGE 04 ---
+ii) A ray of light is incident normally ona face of an equilateral prism. The ray gets
+(vl / y
+
+totally reflected at the second refracting surface. The total deviation produced
+
+in the path of the ray is:
+
+(a) 30°
+(b) 60°
+(c) 90°
+id) 120°
+
+(ix) In a closed circuit containing a bulb and a cell, the electromotive force (€) and
+the terminal voltage (V) is related as.
+
+(Given 1 is current and r is internal resistance.)
+
+(a) V=e+lr
+
+_) V=e-Ir
+(c) V=erlr
+(d) V=exilr
+
+(x) A metal piece of mass 5 g has thermal capacity 2.5 JK"! Ifthe mass of the metal
+
+is tripled, then its specific heat capacity will be:
+
+JK!
+
+~
+Un
+
+(a)
+
+in
+a
+
+(b) 2.5)
+
+(c) L.SJg'Kt
+
+
+--- PAGE 05 ---
+(xi) Assertion (A): As the level of water in a tall measuring cylinder kept under
+
+running tap rises, the pitch of sound gradually increases.
+
+Reason (R): Frequency of sound is inversly proportional to the length of the
+
+water column.
+wo Both (A) and (R) are true and (R) is correct explanation of (A).
+(b) Both (A) and (R) are true and (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+
+(xii) In the given circuits Y and Z, the resistors, Ri and Rz, are connected in:
+
+Y Zz
+-—— AW
+&, lk
+R,
+rl *e
+
+(a) series in both the circuits
+
+Wh parallel in both the circuits
+(c) parallel in ¥ and series in Z
+(d) series in Y and parallel in Z
+
+(xiii) A radioactive element P emits one a-particle and transforms to a new element Q.
+
+What will be the position of the element Q in the periodic table?
+(a) One group to the left of P
+
+(b) One group to the right of P
+
+(c) Two groups to the right of P
+
+RC Two groups to the left of P
+
+725521 : 5 ; Turn Ove
+
+
+--- PAGE 06 ---
+Each of the substances given below is supplied with same amount of heat.
+
+(atv)
+Which one will attain the highest temperature?
+ — TT oO es — —T a ~~ ee }
+| Substance [ Lead | Aluminium | Copper | — Iron
+| ~ Specific heat a meen eee eee
+| capacity (cal/g?C) | 0.031 | 021 0.095 | ol 5
+
+(a) Aluminium
+(b) Copper
+(c) Iron
+
+(a Lead
+
+(xv) _ The following figure shows a small bar magnet falling freely through a copper
+
+ring. For the observer at A, the direction of the induced current will be:
+
+Ss
+| és,
+
+Cc > Copper ring
+
+Ss
+
+N
+
+(a) clockwise when magnet is above and below the ring
+
+er anticlockwise when magnet is above and below the ring
+
+NG we anticlockwise when magnet is above the ring and clockwise when the
+
+magnet is below the ring
+
+(d) clockwise when magnet is above the ring and anticlockwise when the
+
+magnet is below the ring
+
+725 821 6
+
+
+--- PAGE 07 ---
+Question 2
+(i) Complete the following by choosing the correct answers from the bracket: (6]
+
+(a) In uniform circular motion the centrifugal force acts
+
+[towards the centre /away from thécentre /along the tangential direction].
+
+(b) Refractive index of a medium is independent of
+
+[temperature / angle of ineidence / wavelength of light].
+
+(c) Heat absorbed during change of phase depends on [mds /
+
+change in temperature / specific heat capacity] of the substance.
+
+(d) Emf ofa cell is [greater than / less than / eqital to] the
+terminal voltage when the cell is in open circuit.
+
+(e) Ina step-up transformer the turns ratio is [more than V/
+less than 1 / equal to 1].
+
+(f) The nuclear radiation with lowest ionizing power is
+
+[a/B/¥}.
+
+(ii) Anon-uniform kite is hanging freely from the branch of a tree as shown. Study (2]
+the figure and answer the following:
+
+«_—_| Branch
+of a tree
+
+Kite
+
+(a) Fill in the blank.
+
+(P, Q, R or S) is the most probable position of its centre of
+gravity.
+
+(b) Support your answer to (a) with a reason.
+
+725521 7 Turn Over
+
+
+--- PAGE 08 ---
+(iii) The displacement-time graph of a sound wave produced by a vibrating wire is (2)
+
+shown below.
+
+TIME
+
+DISPLACEMENT
+
+2 I A
+
+ow will you adjust the tension in the wire, to reduce the length of PR?
+
+Which characteristic of sound is affected by the reduction in the length of
+PR? odvwn ‘
+
+Question 3
+
+(i) A ray of light enters a rectangular glass slab submerged in water at an angle of | — [2]
+
+incidence 55°. Does this ray undergo total internal reflection when it moves
+
+from water to glass? Justify your answer. (7) he critical angle for glass-water
+,) . Ma ee
+
+interface is 54°.)
+
+(ii) According to the NEW colour convention which colour of wire is connected to: (2]
+(a) the metal body of the appliance ° -
+(b) the switch of the appliance”
+
+(iii) (a) Which of the two, alternaitfg current or direct current, produces a varying (2)
+
+magnetic field when it flows through a conductor?
+(b) State the frequency of the alternating current supply in IndiaSe 12+
+
+(iv)  Calcuate the amount of heat absorbed by 200 g of paraffin wax to melt completely [2]
+at its melting point.
+
+[Specific latent heat of fusion of paraffin wax = 146 Jg",
+
+T25 521 8
+
+
+--- PAGE 09 ---
+(v) Copper Wire is wound around a steel bar FT. Current is allowed to pass through
+
+the coil for some time and then the bar is removed.
+(a) Draw only the magnetised bar FT and mark its poles.
+
+(b) Trace two magnetic lines of force around FT clearly indicating the
+
+F T
+
+direction.
+
+fyi), A current flows through a metallic conductor for a long period of time. State
+/ the change you would expect in its: (A)
+
+‘2) Resistance
+
+(vii) Curium is a radioactive element with the symbol 742Cm named in honour of
+Madam Curie. The graph of number of protons vs number of neutrons for
+
+some elements are shown below:
+
+number of
+protons
+
+98
+
+94+ S@-—+
+
+92 number of
+
+146148 150 152 154 neutrons
+
+(a) Which point on the graph indicates the element Cm?
+
+(b) Which point on the graph indicates daughter nucleus after Cm undergoes
+
+radioactive decay of | a followed by 2 B*
+_ ~
+
+(c) State the mass number of the daughter nucleu
+we Se
+
+[2]
+
+[2]
+
+(3)
+
+25521 9 Turn Over
+
+
+--- PAGE 10 ---
+(i)
+
+(ii)
+
+9§21
+
+SECTION B (40 Marks)
+
+(Attempt any four questions from this Section. )
+
+cues
+(3)
+
+H
+(a) Out of the three rays (I, Xw shown in the diagram, which ray will suffer
+
+Total Internal Reflection while inside the prism? (Critical angle of the
+
+prism is 42°.)
+(b) Copy the diagram to complete the path of the ray which you have named
+
+in (a) till it comes out of the prism.
+
+A rectangular glass block of refractive index 1.5 has an air bubble trapped inside (3]
+
+it as shown in the diagram. When seen from the surface AB, it appears to be
+
+4m deep.
+
+Glass block
+
+B
+
+Oair bubble
+
+15cm
+
+—_ s2» Cc
+. Calculate the actual depth of the air bubble from the surface AB.2* GF,
+
+(b) For which colour of light, blue or yeltw, the apparent depth will be greater?
+
+.
+(c) Turning the glass block upside down, DOES NOT change the apparent depth
+
+of the air bubble. State True or False, ———~
+
+
+
+--- PAGE 11 ---
+(iii)
+
+(a)
+
+An object is placed at 2F position of a convex lens, Draw a ray diagram (4]
+
+showing the formation of the image.
+
+ow will the size of the image change if we, ONLY replace the lens in the
+
+above arrangement with another lens of a greater focal length? |
+
+——
+
+question
+
+An object is placed in front of a concave lens at a distance of 45 cm from it. If [3]
+
+its image is formed at-e-distanee of 30 cm from the lens, cglculate the focal
+length of the leg. 4
+
+(iii)
+
+Two rays PQ aad RS are incident on a rectangular glass b ‘ock as shown in the (3]
+
+diagram. Observe the diagram and answer the questions that follow.
+
+Which of these two rays will:
+
+(a)
+(b)
+(©)
+(a)
+
+(b)
+
+have greater lateral displacement on emerging out of the block?
+travel with greater speed in the block?
+scatter more in the atmosphere?
+
+Name the radiations: [4]
+1. for which a quartz prism is used to study the spectrum. \
+
+2. which are used in remote sensing devices.
+
+3. which are used in traffic signals in India.
+
+Name one property common to all electromagnetic radiations.
+
+725 521
+
+11
+
+
+--- PAGE 12 ---
+Question 6
+
+(i) Akash takes a uniform meter scale and suspends a weightof? N at one end 'X'
+and a weight of 5 N on the other end 'Y'. He then balances the ruler horizontally
+
+ona knife edge placed at 70 cm from X. Draw a diagram of the arrangement
+
+re
+
+and calculate the weight of the rule
+
+(ii) Three levers X, Y, Z of equal lengths are shown in the diagram.
+
+Xx
+
+(a) Which class of lever do these belong to?
+
+(b) Among these (X, ¥ or Z) which one will give the maximum mechanical
+
+advantage? Justify your answer.
+ee
+
+[3]
+
+3)
+
+725521 12
+
+
+--- PAGE 13 ---
+(ii) I4)
+
+a
+
+/
+\ /
+\ Q / 3m
+Ground | *
+
+Richa weighing 40 kgf leaves point P on her skateboard and reaches point Q on
+
+the ground with velocity 10 ms". Calculate:
+
+(a) the kinetic energy of Richa at point Q
+
+(b) the vertical height of point P above the ground. (Use g as 10 m/s? and
+neglect friction)
+
+(c) the kinetic energy of Richa at point P_ (W**'e moving from Q to R, she
+
+loses 500 J of energy against fricti
+
+Question 7
+
+(i) Draw a block and tackle system of pulleys with velocity ratio equal to 3. (3]
+
+(ii) A submarine in the sea, sends ultrasonic ping and a stopwatch is started [3]
+simultaneously. The stopwatch stops on receiving the reflected wave from an
+obstacle and reads 1 minute 40 seconds. Calculate the distance of the obstacle
+
+from the submarine. (Speed of sound in water 1500 ms!)
+
+125 §21 13 Turn Over
+
+
+--- PAGE 14 ---
+[4]
+
+The diagrams given below show two sound boxes A and B with wires of
+
+(iii) ;
+same length (1) and tension (/0 kgf) but different cross-sectional areas.
+Simultaneously, vibrating tuning forks of frequency 300 Hz are placed on the
+boxes A and B. The paper rider falls off in case of B but not in case of A.
+(a) Name and explain the phenomenon responsible for the falling off of the
+paper rider in B.
+(b) The wire A resonates with a tuning fork of frequency ‘f. Is {f” greater
+than, less than or equal to 300 Hz? Justify your answer.
+Question 8
+(i) The diagram shows wiring in a meter room of a building. (3]
+(a) What is the current rating of device X?
+(b) What is the difference between the switch Z shown in the diagram and the
+switches you use to operate different appliances at home?
+(c) What is the unit of the physical quantity displayed in Y?
+T25 521 — ee
+
+14 a
+
+
+--- PAGE 15 ---
+study the diagram given below and answer the questions that follow: (3)
+
+(i)
+x 14a
+gU :
+@+ +
+Neutron 3Y + Energy
+2354 “\
+a:
+S2kr
+(a) Name the process depicted in the diagram.
+(b) What is the value of X?
+(c) Identify Y, the missing product of the reaction.
+(iii) (4)
+
+Three identical bulbs Bi, Bz, and Bs each of power rating 18 W, 12 V are
+
+connected to a battery of 12 V.
+(a) Calculate:
+1. the resistance of each bulb
+2, the current drawn from the cell
+
+(b) If the bulb Bs is removed from the circuit, then will the brightness of the
+
+i 2
+bulb By increase, decrease or remain the same?
+
+Ts $21 15 —
+
+
+--- PAGE 16 ---
+Question
+
+(i)
+
+(ii)
+
+(iii)
+
+30 g of.ice at 0°C is used to bring down the temperature of a certain mass of [3]
+water at 70°C to 20°C. Find the mass of water. [Specific heat capacity of wer
+= 4.2 Jg'°C" and specific latent heat of ice = 336 Jg'J ~~!
+(a) A certain amount of heat will warm | g of material X by 10°C and I g of = [3]
+material Y by 40°C. Which material has higher specific heat capacity?
+has higher spec ;
+(b) Which material, 4 or Would you select to make a calorimeter?
+(c) The specific heat capacity of a substance remains the same when it
+changes its state from solid to liquid. State teu False.
+[4]
+
+A copper rod PQ carrying current is kept in a magnetic field as shown in the
+
+diagram.
+
+(a) The copper rod PQ will move towards C. State True or False.
+(b) Name the law used to determine the direction of motion of PQ.
+
+(c) What will be the effect on the force experienced, if the rod PQ is replacee
+
+by another copper rod of same length but of greater cross-sectional area
+a
+
+(d) Justify your answer in (c).
+
+T25 521
+
+16

@@ -1,0 +1,52 @@
+Question 4
+Define a class to overload the method perform as follows:
+double perfom (double r, double h)
+void perform (int r, int c)
+void perform (int m, int n, char Ch)
+Question 5
+to calculate and return the value of
+Curved surface area of cone
+CSA
+Usc NESTED FOR LOOP to generate the
+following format
+r = 4, c = 5 output —
+12345
+12345
+12345
+12345
+to print the quotient of the division of m and
+n if Ch is Q else print the remainder of the
+division of m and n if Ch is R
+Define a class to accept a number from user and check if it is an EvenPa1 number or not.
+(The number is said to be EvenPal number when number is palindrome number (a number
+is palindrome if it is equal to its reverse) and sum of its digits is an even number.)
+Example: 121 — is a palindrome number
+Sum ofthe digits — 1+2+1 = 4 which is an even number
+Question 6
+Define a class to accept values into an integer array of order 4 x 4 and check whether it is
+a DIAGONAL array or not. An array is DIAGONAL if the sum of the left diagonal
+elements equals the sum of the right diagonal elements. Print the appropriate message.
+Example:
+[151
+[15]
+[15]
+3
+2
+5
+T24 861
+4
+5
+3
+3
+2
+2
+2
+7
+5
+3
+7
+Sum of the left diagonal elements =
+3+5+2+1=11
+Sum of the right diagonal elements =
+5+2+3+1=11
+10

@@ -1,0 +1,24 @@
+(x)
+(xi)
+(xii)
+T26 521
+Equal volumes of water are added to three cylindrical jars A, B and C of same
+height and radii rA, rB and rc respectively with rB < rA < rc. If you blow air into
+the mouth of these jars, which tube will produce the shrillest note?
+(d) All will produce the notes of same shrillness
+A metallic wire is stretched in such a way that its new length becomes twice the
+original length. How does its specific heat capacity change?
+(a) becomes double
+(b) becomes 4 times
+(c) becomes %
+(d) remains the same
+The correct formula to calculate the equivalent resistance of two resistors
+RI and R2 when connected in parallel, is:
+(a)
+RIR2
+RiR2
+(c)
+RIR2
+RIR2
+(d)
+6

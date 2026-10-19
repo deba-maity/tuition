@@ -1,0 +1,21 @@
+COMPUTER APPLICATIONS
+Time allowed: Two hours
+Answers to this Paper must be written on the paper provided separately.
+You will not be allowed to write during the first 15 minutes.
+This time is to be spent in reading the question paper.
+The time given at the head of this Paper is the time allowed for writing the answers.
+This Paper is divided into two Sections.
+Attempt all questions from Section A and any four questions from Section B.
+The intended marks for questions or parts of questions are given in brackets{ ].
+SECTION A (40 Marks)
+° (Attempt all questions from this Section.)
+Question 1 [20]
+Choose the correct answers to the questions from the given options.
+(Do not copy the questions, write the correct answers only.)
+An @
+Consider the above picture and choose the correct statement from the following:
+(a) Polygon is the object and the pictures are classes
+(b) Both polygon and the pictures are classes
+(c) Polygon is the class and the pictures are objects
+(d) Both polygon and the pictures are objects
+724 861 Turn Over

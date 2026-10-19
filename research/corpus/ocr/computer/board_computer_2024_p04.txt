@@ -1,0 +1,43 @@
+(xii)
+(xiii)
+(xiv)
+(w)
+124 861
+Which of the following data type cannot be used with switch case construct?
+(a) int
+(b) char
+(c) String
+(d) double
+Which of the following are entry controlled loops?
+1.
+2.
+3.
+4.
+for
+while
+do..while
+switch
+(a)
+(b)
+(c)
+(d)
+only I
+I and 2
+I and 3
+3 and 4
+Method which reverses a given number is:
+(a) Impure method
+(b) Pure method
+(c) Constructor
+(d) Destructor
+If name of the class is "Yellow", what can be the possible name for its
+constructors?
+(a)
+(b)
+(c)
+(d)
+yellow
+YELLOW
+Yell
+Yellow
+4

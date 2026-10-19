@@ -1,0 +1,34 @@
+(iv) Convert the given loop into exit controlled loop¢ A & [2]
+int a,b;
+for (a=10 ,b=1; a>=I ja-=2)
+f .
+b+=a;
+b+;
+stem.ounprint();
+NL
+v Consider and give the oufput of the following program: [2]
+(v) 8 P
+class report
+{ inta,b;
+report()
+{ a=10;
+b=15;
+}
+report(int x, int y)
+{ aes
+b=y;
+}
+void print()
+System.out pri *b);
+{ System.outprintin(a*b),
+}
+Static void main()
+{ report r = new report();
+—_—
+rprintQ;
+report p = new report(4, 5);
+p.printQ;
+}
+}
+eee
+T25 861 8

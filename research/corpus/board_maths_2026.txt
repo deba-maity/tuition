@@ -1,0 +1,558 @@
+
+--- PAGE 01 ---
+MATHEMATICS
+
+Maximum Marks: 80
+Time allowed: Three hours
+1. Answers to this Paper must be written on the paper provided separately.
+2. You will not be allowed to write during first 15 minutes.
+3. This time is to be spent in reading the question paper.
+
+4. The time given at the head of this Paper is the time allowed for writing the answers,
+
+|
+|
+|
+5. Attempt all questions from Section A and any four questions from Section B. |
+
+6. All working, including rough work, must be clearly shown, and must be done on the |
+same sheet as the rest of the answer. |
+7. Omission of essential working will result in loss of marks.
+
+8. The intended marks for questions or parts of questions are given in brackets [ ]
+
+9. Mathematical tables and graph papers are to be provided by the school.
+
+| Instruction for the Supervising Examiner
+
+Kindly read aloud the Instructions given above to all the candidates present in the
+
+Examination Hall.
+
+~ This paper consists of 16 printed pages.
+
+726511 Turn Over
+
+
+--- PAGE 02 ---
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+Question 1
+
+Choose the correct answers to the questions from the given options.
+
+[15]
+
+(Do not copy the questions, write the correct answers only.)
+
+(i) (x + 3),1,(8x — 7) and —5 are in proportion. The value of x is:
+(a) -l
+(b) 1
+(c) -S
+(d) 5
+
+(ii) The marked price of a refrigerator is = 12,000 and GST paid by the customer
+is = 2,160. The rate of GST is:
+
+(a) 5%
+(b) 12%
+(c) 18%
+(d) 28%
+(iii) Rakhi’s mobile number has the following integers:
+
+1, 6, 9, 8 9, 1, 7, 8,9
+
+The mode of the above given data is:
+
+(a) |
+(b) 6
+(c) 8
+
+(d) 9
+
+126511 2
+
+
+--- PAGE 03 ---
+(iv)
+
+(vi)
+
+A and B opened a recurring deposit account in a bank which is paying simple
+interest at 9% per annum. A deposited % 1,500 for one year and B deposited
+
+% 1,200 for 15 months. The amount invested by:
+(a) A is % 27 more than B
+
+(b) A is = 300 more than B
+
+(©) A is 2 300 less than B
+
+(d) Both A and B are same (2 18,000)
+
+Find the equation of a line whose y-intercept is 6 and is parallel to x-axis.
+(a) y=6
+
+(b) x=6
+
+(c) xt+y=6
+
+(d) y-x=6
+
+Asha buys @ 20 shares of a company which pays 9% dividend at such a price
+that she gets a return of 12% on her investment. At what price did she buy
+
+each share?
+(a) %20
+(b) 215
+(c) 225
+
+(@) @18
+
+726 S511
+
+3 Turn Over
+
+
+--- PAGE 04 ---
+(vii)
+
+(viii)
+
+The total surface area of a solid sphere (S1) and a solid hemisphere (Sz), as
+
+shown in the diagram, are equal. The ratio of radii R and r is:
+
+Si S2
+(a) 1:1
+
+(b) 2:1
+(c) V3:2
+(d) 2: V3
+
+In the given diagram, O is the centre of the circle and ABCD is a cyclic
+
+quadrilateral. If ZCDE = 65°, then the value of x is:
+B
+
+(a) 32.5°
+(b) 65°
+(c) 115°
+
+(d) 130°
+
+126511 — 4 —
+
+
+--- PAGE 05 ---
+(ix) The nature of roots of quadratic equation 3x? - 6x — 3 = 0 are:
+(a) real and equal
+(b) _ real, distinct and rational
+
+(c) real, distinct and irrational
+
+(d) no real roots
+
+(x) Assertion (A): Ifa die is rolled, the probability of getting a number greater
+
+than 6 is >.
+
+Reason (R): There are six possible outcomes when rolling a die,
+
+{1, 2, 3, 4, 5, 6}.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+(xi) If the areas of two similar triangles are in the ratio 9 : 64, then the ratio of
+
+their corresponding altitudes is:
+(a) 3:8
+
+(b) 2:1
+
+(c) 9:64
+
+(d) 8:3
+
+12651 1 - ~ 5 7 ; ‘Turn Over
+
+
+--- PAGE 06 ---
+(xii) What must be added to x? + 7x?
+
++ 3x +2 so that the result is completely
+divisible by (x + 2)?
+
+(a) -40
+
+(b) -16
+
+(c) 16
+
+(d) 40
+(xiii) In the given diagram, AAOB is a right-angled triangle and C is the mid-point
+
+of AB. The coordinates of the point which is equidistant from the three
+vertices of AAOB is:
+
+Y
+
+(a) (@y)
+(b) (x)
+
+T26 511
+
+
+--- PAGE 07 ---
+(xi) Given matrix A = [i 3] and matrix B = (2 — 4]. Product AB is a matrix
+of order:
+(a) 2x2
+(b) 2x1
+(c) 1x2
+(d) product AB is not possible
+(xv) Assertion (A): The 9" term of a Geometric Progression (G.P.)
+6, -12, 24, — 48... is a positive term.
+Reason (R): The value of (-2)° is always positive.
+(a) (A) is true and (R) is false.
+(b) (A) is false and (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+Question 2
+(i) The fourth and seventh terms of an Arithmetic Progression (A.P.), are 60 [4]
+and 114 respectively. Find the:
+(a) _ first term and common difference.
+(b) sum of its first 10 terms.
+(ii) Given, A = [: i and B = i “i and product AB = (? ! . (4]
+
+Find the values of ‘a’ and ‘b’.
+
+- 7 7 7 —_ Turn Over
+
+
+--- PAGE 08 ---
+(iii) In the given diagram, O is the centre of the circle and the tangent DE touches
+
+the circle at B. If, ZADB = 32°, Find the values of x and y.
+E
+
+Question 3
+
+(i)
+
+(ii)
+
+126511 —
+
+The polynomial kx? + 3x? — 11x — 6 when divided by (x + 1), leaves a
+
+remainder of 6.
+(a) Find the value of k.
+
+(b) Using the value of & factorise completely the polynomial
+kx3 + 3x? - 11x -6
+
+An eye drop bottle is prepared consisting of a hemisphere, a cylinder and a
+conical cap, as shown in the given diagram. Height of the cylindrical and
+
+conical parts are each, equal to the diameter (7 cm). Find the:
+
+(a) minimum height of the cylindrical box required
+
+to pack this bottle.
+
+(b) volume of the liquid medicine (shaded part) in =---+--->
+
+the bottle. Give your answer to the nearest
+
+whole number. (Use 7 = =)
+
+[4]
+
+[4]
+
+(4)
+
+
+
+--- PAGE 09 ---
+(iii)
+
+Use ruler and compass for the following construction: [5]
+(a) construct an equilateral triangle ABC of side 5 cm.
+(b) construct the circumcircle of AABC.
+
+(c) construct the locus of points which are equidistant from AB and BC.
+
+Mark the point where the circumcircle and locus meet, as D.
+
+(d) give the geometrical name of quadrilateral ABCD.
+
+SECTION B (40 Marks)
+
+(Attempt any four questions from this Section.)
+
+Question 4
+
+(i) Prove that: (3]
+(sec@ — cos0)(cosec@ — sin@) = sin@cosé
+
+(ii) The cost price ofa TV set is % 20,000. The shopkeeper marked it for 24,000. [3]
+He sells it to a customer at a discount of 10% on the marked price. If the sale
+is intra-state and the rate of GST is 12%, find the:
+(a) discounted price of the TV set.
+(b) amount paid by the customer to clear the bill.
+
+(iii) In the given diagram, DE || BC and AD : DB =2: 3. (4]
+
+(a) Prove that: AADE ~ AABC and
+hence find DE : BC
+
+(b) Prove: ADFE ~ ACFB
+
+(c) Given, area of ADFE = 16 square
+units, find the area of ACFB.
+
+726511
+
+9 ; Turn Over
+
+
+--- PAGE 10 ---
+Question 5
+
+(i) The histogram drawn on the graph represents the number of Students of
+
+different heights (in cm). 3]
+
+! Scale: x-axis, 2 cm = 10 em of height
+y-axis, 2 cm = 2 students
+
+Number of Students.
+
+ow >x
+
+100 110 120 130 «140 «150-160 170
+Height (cm)
+Using the graph, answer the following:
+
+(a) the number of students whose height is 150 cm and above.
+
+(b) the modal height.
+
+(c) _ the total number of students.
+
+126 511 10
+
+
+--- PAGE 11 ---
+(ii) A(-10,-2) and B(2, 10) are two end points of a line segment. If AB intersects (3)
+the x-axis at P, find the:
+(a) ratio in which ‘P’ divides AB.
+(b) coordinates of point P.
+(iii) Solve the quadratic equation (x — 2)? — 5x — 3 = 0 and give your answer [4]
+correct to 3 significant figures.
+(Use Mathematical Tables for this question if necessary.)
+Question 6
+(i) Kabir bought 120 shares of a company with nominal value = 100, available B]
+at a premium of 25. Find:
+(a) the money invested by Kabir in buying these shares.
+(b) the rate of dividend, if he received Z 1,080 as dividend from these shares
+after one year.
+(c) his rate of return.
+(ii) Find the mean of the following frequency distribution using step-deviation (3]
+method.
+Take assumed mean = 28
+|
+| “ 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48
+| Interval
+L
+| Frequency 10 20 14 16 18 22
+L |
+(iii) : we _ 3 [4]
+The difference of two natural numbers is 5 and sum of their reciprocals is ra
+Find the two numbers.
+Wl Turn Over
+
+726511
+
+
+--- PAGE 12 ---
+Question 7
+
+(i)
+
+(ii)
+
+A flagpole is erected at the top of a building. The angle of elevation of the top
+
+and foot of the flagpole from a point 100 m away, on the same level as that
+of the foot of the building, are 33° and 31° respectively. Find the height of the
+
+flagpole. Give your answer correct to the nearest metre. D
+
+(Use Mathematical Tables for this question.)
+
+Using a graph paper, draw an ogive for the following distribution which
+
+shows a record of weight in kilograms of 100 students.
+
+Weight (in kg) Number of students
+35 - 40 4
+40 - 45 6
+45 - 50 10
+50 - 55 24
+| 55-60 26
+60 - 65 17
+65 - 70 8
+70-75 5
+
+Use your ogive to estimate the following:
+(a) the median weight of the students.
+
+(b) percentage of students whose weight is 60 kg or more.
+
+(c) the weight above which 20% of the students lie.
+
+(5]
+
+(5]
+
+726511
+
+12
+
+
+--- PAGE 13 ---
+Question 8
+
+(i) Rohit and Vinay both opened a recurring deposit account in a bank for 2 years
+at 8% simple interest. Vinay deposited % 300 per month. On maturity, Rohit’s
+
+interest was % 800 more than Vinay’s interest. Find the:
+(a) _ interest earned by Vinay.
+(b) sum deposited by Rohit every month.
+
+(ii) The fourth term of a Geometric Progression (G.P.) is 16 and its seventh term
+is 128. Find its:
+
+(a) common ratio
+(b) first term
+
+(iii) Use graph sheet for this question. Take 2 cm = 1 unit along both x and y axis.
+Graphically represent parallelogram OABC, where O(0, 0), A(2, 3), BOS, 3)
+and C(3, 0).
+
+Reflect OABC:
+(a) on the x-axis and name its image as ODEC.
+(b) through the origin and name its image as OIJH.
+
+(c) on the y-axis and name its image as OFGH.
+
+Question 9
+(i) Solve the following inequation, write the solution set and represent it on the
+
+real number line.
+
+2x-3 Xx
+-><S1,xER
+
+-1<
+3 5
+
+[3]
+
+(3)
+
+[4]
+
+23]
+
+Ts 7 - 13 Turn Over
+
+
+--- PAGE 14 ---
+(ii) Use the following graph and answer the given questions: 8)
+
+|
+| | | |
+x'e—t }+—_—}-——+ i t {+>
+
+2 21 0 1 3 5 6
+it
+Vv
+y"
+
+(a) Write the co-ordinates of points A, B and C.
+
+(b) Find the equation of a line passing through the mid-point of AC and
+parallel to AB.
+
+126511 14
+
+
+--- PAGE 15 ---
+(iii)
+
+A solid wooden toy is prepared by joining a cone, a cylinder and a sphere, as
+shown in the given diagram. The radius of each of the three solids is 7 cm
+
+and heights of each of the cone and the cylinder is 24 em. Find:
+(a) the total surface area of the given solid.
+
+(b) the cost of painting the total surface at the rate of & 0.50 per cm’.
+
+_ 22
+(Use 2 = 7)
+
+Question 10
+
+(i)
+
+26 S11
+
+[4]
+
+24cm
+24cm
+Oban
+Dt
+Sab (3]
+= ,atb
+If x qab a
+x
+(a) Find: —
+. 1 ,.xta
+(b) Using properties of proportion, find: toa
+- 15 oe ‘Turn Over
+
+
+--- PAGE 16 ---
+(ii)
+
+(iii)
+
+A survey was conducted on 300 families having 2 children each. The results (3]
+
+obtained are given below.
+
+| Number of girl child 2 1 0 Total
+
+Number of families | 95 165 40 300
+
+If one family is selected at random, find the probability that it will have:
+(a) one girl child
+
+(b) one or more girl child
+
+(c) no boy child
+
+In the given figure ‘O” is the centre of the circle. PQ is a tangent to the circle (4]
+
+at B and AB = AC. If ZCBQ = 40°, find the unknown angles x, y,z and w.
+
+726 S11
+
+16

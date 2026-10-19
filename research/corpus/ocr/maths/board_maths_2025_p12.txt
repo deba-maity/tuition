@@ -1,0 +1,22 @@
+In the given graph, P and Q are points such that PQ cuts off intercepts of 5 units and
+3 units along thex-axis andy-axis respectively. Line RS is perpendicular to PQ and passes
+through the origin. Find the:
+(a) coordinates of P and Q
+(b) equation of line RS
+5 qnii
+(iii) Refer to the given bill.
+A customer paid 0000 (rounded off to the nearest ZI O) to clear the bill.
+Note: 5% discount is applicable on an article if IO or more such articles are purchased.
+BILL
+Article
+M.P. (0
+190
+50
+Quantity
+G.S.T.
+12
+1 80/0
+Check whether the total amount paid by the customer is correct or not. Justify your answer
+with necessary working.
+T25 511
+12

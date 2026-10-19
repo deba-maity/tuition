@@ -1,0 +1,36 @@
+(viii)
+Two notes are produced from two different musical instruments, such that they have
+sarne loudness and same pitch. The produced notes differ in their:
+(a) Waveform
+(b) Frequency
+(c) Wavelength
+(d) Speed
+(ix)
+(x)
+(xi)
+(xii)
+T2JS21
+When a current I flows through a wire of resistance R for time t then the electrical
+energy produced is given by:
+(a) 12Rt
+(b) IR2t
+(c) IRt
+(d) IRt2
+Choose the correct relation for e.m.f. (e) and terminal voltage V:
+(a) V (always)
+(b) V > c [always]
+(c) c (when the cell is in use]
+(d) None of these
+If the strength of the current flowing through a wire is increased, the strength of the
+magnetic field produced by it:
+(a) decreases
+(b) increases
+(c) remains the same
+(d) first increases then decreases
+Specific latent heat of a substance:
+(a) is directly proportional to the mass
+(b) is directly proportional to the change in the temperature
+(c) depends on the material
+(d) is inversely proportional to the mass
+3
+Turn Over

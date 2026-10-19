@@ -1,0 +1,17 @@
+(ii) The reverse side of a three-pin plug with incorrect connection of wires is shown B]
+in the diagram below.
+blue wire _~ Ra; ‘
+1 ¥ / green wire
+‘ /
+(a) Identify the fauit in the above connection,
+(b) Mention a risk factor involved, if the user operates the appliance without
+correcting it.
+(c) Will the appliance function in the Present situation? (Yes or No)
+Ob AO}
+(iii) In the combinations of resistors shown below, calculate: [4]
+122 62
+Le tce
+(a). the resistance across AB when the switch S is open.
+(b) the resistance across AB when the switch S is closed.
+a
+726 521 17 ' Turn Over

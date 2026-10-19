@@ -1,0 +1,23 @@
+(ili) Two persons A and Bare standing in front of a cliff in the same line 170mapart = [4]
+as shown in the diagram. Person B fires the gun and hears the echo in 3s. Then
+the person A standing in front of the person B fires the gun.
+(The speed of sound in air is 340 m/s.)
+170m
+Cliff
+A B
+(a) Calculate:
+1. the distance of the person B from the cliff.
+2. the minimum time in which B hears the gunshot fired by A.
+(b) Fill in the blank. The echo is softer (less loud) than the original sound due
+to the decrease in of the wave. (amplitude / frequency) .
+Question 8
+(i) Bulb A rated 160 W, 40 V and Bulb B rated 40 W, 40 V are connected as shown [3]
+in the diagram. (V;)
+160 W, 40 V W)
+(y) (y) 40 W, 40 V
+A B
+40V
+(a) Calculate the ratio Vi : Vz
+(b) Ifthe bulb A fuses, the current in the circuit remains the same.
+State True or False.
+126521 16 oo

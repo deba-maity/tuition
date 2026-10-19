@@ -1,0 +1,22 @@
+Question 5
+The histogram drawn on the graph represents the number of students of
+different heights (in cm).
+y-axis, 2 cm = 2 students
+-V
+Scale: x-axis, 2 cm
+130 140
+120
+100 110
+Height (cm)
+= IO cm of height
+-8
+z
+150
+160
+170
+Using the graph, answer the following:
+(a) the number of students whose height is 150 cm and above.
+(b) the modal height.
+(c) the total number of students.
+10
+T26511

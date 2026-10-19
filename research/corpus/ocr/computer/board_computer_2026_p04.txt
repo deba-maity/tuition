@@ -1,0 +1,32 @@
+(viii)
+(ix)
+T26 861
+Consider the following statements:
+Computer desktop = new Computer( );
+Computer Mainframe = new Computer( );
+Name the objects of the class given above:
+(a) Desktop, Mainframe
+(b) desktop, Mainframe
+(c) Computer, Mainframe
+(d) Computer, desktop
+The earth spins on its axis completing one rotation in a day. The earth revolves
+around the sun in 365 days to complete one revolution. What is the Java
+concept depicted in the given picture?
+ROTATION
+vs
+REVOLUTION
+365/1
+DAYS YEAR
+(a)
+(b)
+(c)
+(d)
+24
+HOURS
+Array
+Condition
+Nested loop
+While loop
+1
+DAY
+4

@@ -1,0 +1,25 @@
++ iii) A ray of light is incident normally on a face of an equilateral prism. The ray gets
+totally reflected at the second refracting surface. The total deviation produced
+in the path of the ray is:
+(a) 300
+(b) 600
+(c) 900
+120
+(i.x)
+T25
+In a closed circuit containing a bulb and a cell, the electromotive force (E) and
+the terminal voltage ( V) is related as.
+(Given I is current and r is internal resistance.)
+(a)
+(c)
+(d)
+A metal piece of mass 5 g has thermal capacity 2.5 JK-I. Ifthe mass of the metal
+is tripled, then its specific heat capacity will be:
+(a)
+(b)
+(c)
+7.5 JK-i
+2.5 JK-I
+1.5
+0.5 Jg-lK-l
+4

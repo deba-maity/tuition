@@ -1,0 +1,23 @@
+(xiii) The marked price of an article is 21375. If the CGST is charged at a rate of
+4%, then the price of the article including GST is:
+(a) 255
+(b) 2110
+(c) %1430
+(dy 21485
+(xiv) The solution set for 0 < -= <2,x € Zis:
+eS” (-5,-4,-3,-2,-1}
+(vb) {-6,-5,-4,-3,-2,-1}
+(c) {-5,-4,-3,-2,-1,0}
+(d) {-6,-5,-4,-3,~2,-1,0}
+(xv) Assertion(A): The mean of first 9 natural numbers is 4,5.
+Sum of all the observations
+Reason(R): Mean = Total number of observations
+(a) (A) is true, (R) is false.
+(A) is false, (R) is true.
+(c) Both (A) and (R) are true, and (R) is the correct reason for (4 -
+(d) Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+Question 2
+(i) Solve the following quadratic equation 2x? — 5x — 4 =0 [4]
+Give your answer correct to thres significant Sigires,. oS
+(Use mathematical tables for this question)
+mat tt*~<“<=CSsS -

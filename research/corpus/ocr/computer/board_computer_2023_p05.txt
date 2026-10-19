@@ -1,0 +1,34 @@
+(xvii)
+(xviii)
+Question 2
+T23 861
+A method which does not modifi the value of variables is termed as:
+(a) Impure method
+(b) Pure method
+(c) Primitive method
+(d) User defined method
+When an object Of a Wrapper class is converted to its coresponding primitive
+data type. it is called as
+(a) Boxing
+(b) Explicit type conversion
+(c) Unboxing
+(d) Implicit type conversion
+The number of bits occupied by the value 'a' are:
+(a) I bit
+(b) 2 bits
+(c) 4 bits
+(d) 16 bits
+Method which is a part of a class rather than an instance of the class is termed
+as:
+(a)
+(b)
+(c)
+(d)
+Static method
+Non static method
+Wrapper class
+String method
+Write the Java expression for (a + b)X.
+Evaluate the expression when the value of x = 4.
+[21
+Turn Over

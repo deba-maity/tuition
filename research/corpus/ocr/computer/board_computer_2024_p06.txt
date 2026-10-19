@@ -1,0 +1,24 @@
+(XX)
+Which of the following mathematical methods returns only an integer?
+(a) Math.ceil(n)
+(b) Math.sqrt(n)
+(c) Math. floor(n)
+(d) Math.round(n)
+Question 2
+(ii)
+(iii)
+(iv)
+T24 861
+Write Java expression for:
+Evaluate the expression when x is 4:
+Rewrite the following do while program segment using for:
+do
+x++;
+} while (x<=20);
+System.out.println(x * y
+Give the output of the following program segment. How many times is the loop
+executed?
+System.out.println(x);
+System.out.printIn(x*2);
+6
+[2]

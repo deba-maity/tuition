@@ -1,0 +1,567 @@
+
+--- PAGE 01 ---
+PHYSICS
+(SCIENCE PAPER 1)
+
+Maximum Marks: 80
+Time allowed: Two hours
+Answers to this Paper must be written on the paper provided separately.
+You will not be allowed to write during first 15 minutes.
+This time is to be spent in reading the question paper.
+
+The time given at the head of this Paper is the time allowed for writing the answers.
+
+Section A is compulsory. Attempt any four questions from Section B.
+
+The intended marks for questions or parts of questions are given in brackets | ].
+
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+
+Question 1
+
+Choose the correct answers to the questions from the given options. {15}
+
+(Do not copy the questions, write the correct answers only.)
+
+(i) When a bell fixed on a cycle rings, then the energy conversion that takes place is:
+(a) gravitational potential energy to sound energy
+(b) kinetic energy to sound energy
+(c) sound energy to electrical energy
+
+(d) sound energy to mechanical energy
+
+(ii) A door lock is opened by turning the lever (handle) of length 0.2 m. If the moment of
+force produced is | Nm, then the minimum force required is:
+(a) SN
+(b) 10N
+(c) 20N
+(d) 0.2N
+
+This Paper consists of 12 printed pages.
+724521 Turn Over
+
+
+--- PAGE 02 ---
+(iii)
+
+(iv)
+
+(v)
+
+(vi)
+
+i. . | a coleutloti in
+A force *F* moves load from A to Cas shown in the figure below, For the caleulatio
+
+of the work done, Which of these lengths would you use as the displacement:
+
+(a) 3m C
+
+>
+(b) 4m 3m
+(c) 5m os
+(d) 7m A 4m B
+
+A radioactive nucleus containing 128 nucleons cmits 2 [ - particle, Afier jb - emission
+the number of nucleons present in the nucleus will be:
+
+(a) 128
+
+(b) 129
+
+(c) 124
+
+(d) 127
+
+Assertion (A): Ultraviolet radiations are scattered more as compared to the microwave
+
+radiations.
+
+Reason (R): Wavelength of ultraviolet radiation is more than the wavelength of
+
+microwave radiation.
+(a) Both A and R are true.
+(b) Ais true but R is false.
+(c) Ais false but R is truc.
+(d) Both A and R are false.
+
+When the stem of vibrating tuning fork is pressed on a table, the tabletop starts
+
+vibrating. These vibrations are definitely an example of:
+(a) resonance
+
+(b) natural vibrations
+
+(c) forced vibrations
+
+(d) damped vibrations
+
+T24521
+
+
+
+--- PAGE 03 ---
+(Vii) Which of the following is a class IMI lever?
+
+(a) Pair of scissors
+(b) Wheelbarrow
+(c) Crowbar
+
+448) Human forearm
+
+(viii) ‘The specific resistance of a conductor depends on its;
+(a) length
+fo) material
+(c) area of cross section
+
+(d) radius
+
+(ix) Identify the option that displays the correct wiring with correct colour code:
+
+™ (b)
+
+Brown wire Yellaw wire
+
+(c) (4)
+
+[Mans] Blue wire
+
+Brown wire Yellow wire
+
+Brown wire
+
+724521 3 Turn Over
+
+
+--- PAGE 04 ---
+(x) The potential difference between terminals of a cell ina closed electric circuit is:
+
+& tenninal voltage
+(b)  clectra motive force
+(c) voltage drop
+
+{d) none of these
+
+(xi) During melting of ice at 0°C the:
+(a) energy is released and temperature remains constant.
+§) energy is absorbed and temperature remains constant.
+(c) energy is relcased and temperature decreases.
+(d) nergy is absorbed and temperature increases.
+
+(xii) Linear magnification(m) produced by a concave lens is:
+oO) m<l
+(b) m>1
+(c) m=1
+
+(d) m=2
+
+(xiii) A radioactive clement is placed in an evacuated chamber. Then the rate of radioactive
+
+decay will:
+
+(a) Decrease
+
+(b) Increase
+
+(c) Remain unchanged
+
+4d) Depend on the surrounding temperature
+
+724 $21 4
+
+
+--- PAGE 05 ---
+(xiv) The graph given below shows heat energy supplied against change in temperature when
+no energy is lost to the surrounding. The slupe of this graph will give:
+12) Specific heat capacity hem energy
+(b) Latent heat of fusion
+
+(c) Latent heat of vaporization
+
+(gd) Heat capacity
+{
+
+(0,0) —>
+
+change in temperature
+
+(xv) A block of glass is pushed into the path of the light as shown below. Then the
+converging point X will:
+
+| 3X
+wan
+
+(a) Move away from the slab
+
+yp Move towards the slab
+
+B
+(c) Not shift b 1
+(d) Move towards the left side of the lens 4
+Question 2
+(i) (a) In the following atoms, which one is a radioisotope? Give one use of this isotope. [3]
+0! CNY, He!
+
+(b) Name the class of the lever shown in the picture below:
+
+ee
+
+(ii) Fill in the blanks: [2]
+
+(a) When a stone tied to a string is rotated in a horizontal plane, the tension in the
+
+string provides force necessary for circular motion.
+
+(b) Work done by this force at uny instant is
+
+T24 521 5 Turn Over
+
+
+--- PAGE 06 ---
+(iii)
+
+(iv)
+
+(vii)
+
+Anon uniform beam of weight 120 N pivoted at one end is shown in the diagram below.
+
+Calculate the value of F to keep the beam in equilibrium.
+
++, 020m... :
+<-->" :
+Pryot * CG.
+fe)
+0.80 m
+Weight
+120. N
+
+Meera chose to use a block and tackle system of *9” pulleys instead ofa single movable
+
+pulley to lift a heavy load.
+(a) What is the advantage of using a block and tackle system over & single movable
+pulley?
+
+(b) Why should she connect more number of pulleys in the upper fixed block?
+
+Sumit docs 600 J of work in 10 min and Amit docs 300 J of work in 20 min. Calculate
+
+the ratio of the powers delivered by them.
+
+5 bulbs are connected in series in a room. One bulb is fused. It is removed and
+
+remaining 4 bulbs are again connected in series to the same circuit. What will be the
+
+effect on the following physical quantities? (Increases, Decreases, Remain Same)
+
+(a) Resistance
+
+(b) Intensity of light
+
+Rohan conducted experiments on echo in different media. He observed that a minimum
+distance of tx’ meters is required for the echo to be heard in oxygen and ‘y’ meters in
+benzene. Compare ‘x’ and ‘y’, Justify your answer,
+
+Speed of sound in oxygen: 340 ms!
+
+Speed of sound in benzene: 200 ms"
+
+Question 3
+
+(i)
+
+_(a) Ina reading glass what is the position of the object with respect to the convex lens
+
+used?
+
+(b) Why can we not use concave lens for the same purpose?
+
+[2]
+
+(2]
+
+724521
+
+6
+
+
+--- PAGE 07 ---
+(ii)
+
+(iii)
+(iv)
+
+)
+
+A fuse is rated 5 A. Can it be used with a geyser rated 1540 W, 220 V. Write Yes or
+
+No. Give supporting calculations to justify your answer.
+State vo factors affecting the speed of rotation of the coil ina D.C. motor.
+
+How much heat is required to convert 500 g of icc at 0°C to water at 0°C? The latent
+
+heat of fusion of ice is 330 Je".
+
+Copy and complete the nuclear reaction by filling in the blanks.
+
+U5 + on! ——>  5Ba~ + Kr? +3 on!
+
+SECTION B (40 Marks)
+(Attempt any four questions from this Section.)
+
+Question 4
+
+i)
+
+(ii)
+
+(iii)
+
+The image of a candle flame placed at a distance of 36 cm from a spherical lens, is
+
+formed on a screen placed at a distance of 72 cm from the lens. Calculate the focal
+
+length of the lens and its power.
+Below is an incomplete table showing the arrangement of electromagnetic spectrum
+
+in the increasing order of their wavelength. Complete the table.
+
+Gamma X-ray UV | Visible | Infrared | A | Radio
+waves
+
+ray rays | rays”
+
+(a) Identify the radiation A.
+
+(b) Name the radiation used to detect fracture in bones.
+(c) Name one property common to both A and Radio waves.
+(a) Why do we use red colour as a danger signal on the top of a skyscraper?
+
+(b) The diagram below shows the path of a blue ray through the prism:
+
+1. Calculate the critical angle of the
+matcrial of the prism for blue
+
+colour.
+
+2. — What is the measure of the angle
+
+of this prism (A)?
+3. Which colour should replace the blue ray, for the ray to undergo Total
+
+Internal Reflection?
+
+12)
+
+12]
+2]
+
+(2)
+
+B3)
+
+(3)
+
+(4)
+
+‘24521
+
+7 Turn Over
+
+
+--- PAGE 08 ---
+Pusstion 5
+(i)
+
+9
+(a) Refractive index of glass with respect to water is 5.
+
+Find the refractive index of water with respect to glass.
+(b) Name the principle used to find the value in part (a).
+
+9
+(c) Ifwe change the temperature of water, then will the ratio a remain the
+
+same? Write Yes or No.
+(i) Light travels a distance of ‘10x’ units in time ‘f)’ in vacuum and it travels u distance of (3)
+‘x? units in time ‘t)’ in a denser medium. Using this information answer the question
+that follows:
+(a) ‘Light covers a distance of ‘20x’ units in time ‘t)’ in diamond.’ State true or false.
+(b) Calculate the refractive index of the medium in terms of ‘t;'and ‘12’,
+(iii) A monochromatic ray of light is incident on an equilateral prism placed at minimum [4]
+deviation position with an angle of incidence 45° as shown in the diagram.
+(a) Copy the diagram and complete the
+path of the ray PQ.
+(b) State nvo factors on which the angle
+of deviation depends. P
+60"
+Question 6
+(i) (a) Define Centre of Gravity. {3}
+
+(b) A hollow ice cream cone has height 6 cm
+I. Where is the position of its centre of gravity from the broad base?
+
+2. Will its position change when it is filled completely with honey? Write Yes
+
+or No.
+
+
+
+--- PAGE 09 ---
+wi) Marble BI
+
+Tom 10m
+Two identical marbles A and B are rolled down along Path | and Path 2 respectively.
+
+Path | is frictionless and Path 2 is rough.
+(a) Which marble will surely reach the next peak?
+(b) Along which path/s the mechanical energy will be conserved?
+
+(c) Along which path/s is the law of conservation of energy obeyed?
+
+(iii) Given are two pulleys. (41
+
+(a) Copy and complete the labelled diagram connecting the two
+
+pulleys with a tackle to obtain Velocity Ratio = 2.
+
+(b) If Load = 48 kgf and efficiency is 80% then calculate:
+
+1. Mechanical Advantage. (|)
+
+2. Effort needed to lift the load.
+
+J Question 7
+
+(i) (a) Name the waves used in SONAR. [3]
+(b)
+
+170m
+
+°
+
+liff Al R 160m Cliff a\
+
+In the above diagram Lata stands between two cliffs and claps her hands.
+Determine the time taken by her to hear the first echo.
+Speed of sound in air 320 ms".
+
+724521 , 9 “Turn Over
+
+
+--- PAGE 10 ---
+(ii) WW) Complete the following radiouctive reaction:
+Xov +4He > 4317+ 4e
+(bY Uranium is available in two forms U-235 and U-238, Which of the two isotopes
+of Uranium is more fissionable?
+
+Gi) An the given diagram, a vibrating tuning fork is kept near the mouth of a burette filled
+with water. the length of the air column is adjusted by opening the tap of the burette.
+
+Ata length of 5 em of the air column, a loud sound is feard.
+
+——
+—— Tuning
+
+(a) Name the phenomenon illustrated by the above experiment.
+(b) Why is a loud sound heard at this particular length?
+
+(c) Ifthe present tuning fork is replaced with a tuning fork of higher frequency, should
+
+the length of the air column increase or decrease to produce a loud sound? Give
+
+a reason.
+
+Question 8
+(i) ‘The voltage - current readings of a certain material are shown in the table given below:
+
+| Voltage (V) 10V 20V 30V
+| Current (1) | 2A 3A 4A
+
+o
+
+Study the table.
+
+(a) State whether the conductor used is ohmic or non-ohmic.
+
+(b) Justify your answer.
+
+(c) State Ohm's law.
+
+124 $21 10
+
+I4
+
+B]
+
+
+--- PAGE 11 ---
+(ii) Below is the di
+is the diagram of a transformer:
+[3]
+
+iron core
+
+primary coil secondary coil
+
+(a) Identify the type of transformer.
+
+h of the wire is thicker, the primary or the
+
+(b) In this type of transformer whic!
+
+secondary? Give a reason.
+
+{4]
+
+(iii) Study the diagram:
+QQ 62
+
+4V
+
+Calculate the total resistance of the circuit.
+ell.
+
+(a)
+
+(b) Calculate the current drawn from the ¢
+gh 10.2 resistor is greater than, less than of equal
+
+(c) State whether the current throu
+to the current through the 12 Q resistor.
+
+
+--- PAGE 12 ---
+85g of water at (UC be contol to MC by aiding container af tee Vdd the tnninan ol |
+4 Wwe required
+q INpevitte heat eapactty oF wator = 4.2 Jy MCE, Spocttte latent heat of Nealon = Vo et
+AW (a) Why dows it became plewnantty wart when the lakes start fee ing? "
+UN Wator thewees to tin deg, What change would you expect in the average kinetic
+energy af the molecules?
+ww) Which will contain mony heat energy |g at tee at OC or Lg water at we?
+WH Ga) State one feta that afleets the magnitude of induced current in an AC generator I
+AY Given below ix a citwuit to study the magnotic effect of electric current. ABCD is
+
+@ cantboant Kept perpendicular to the conductar XY. A magnetic compass ts
+placed at the point? of the cardboard, Pr and Pare the positions of the magnetic
+
+compass, before and atler passing a current through XY respectively
+
+yn XR
+
+1. Name the rule that is used to predict the direction of deflection of the
+
+Magnetic Compass.
+2. State the direction of current in the conductor (X to Y or Y to X) when the
+circuit is complete
+
+3. If resistance R is increased, then what will be the effect on the magnetic
+lines of force around the conductor?
+
+Whatsapp @ 9300930012
+Send your old paper & get 10/-
+
+Wed Yrs ter AT 3 10 Tat Te,
+Paytm or Google Pay &
+

@@ -1,0 +1,31 @@
+(x)
+(xi)
+(xii)
+T25 511
+Assertion(A): If sin2A + sinA = 1 then cos4A
+1 — sin2A = cos2A
+Reason(R):
+(a) (A) is true, (R) is false.
+(b) (A) is false, (R) is true.
+cos2A = 1
+Both (A) and (R) are true, and (R) is the cotTect reason for (A).
+(d) Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+In the given diagram AABC AEFG. If LABC L EFG = 600, then the
+length of the side FG is:
+(b)
+(c)
+(d)
+IS cm
+20 cm
+25 cm
+30 cm
+15
+2S ctn
+If the volume of two spheres is in the ratio 27 : 64, then the ratio of their
+radii is:
+(b)
+(c)
+(d)
+9:16
+16:9
+Turn Over

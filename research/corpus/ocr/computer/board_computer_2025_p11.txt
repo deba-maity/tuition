@@ -1,0 +1,38 @@
+Quest•
+Define a class to accept values imo a 4 x 4 integer array. Calculate and print the NORM
+of the array.
+NORM is the square root of sum of squares of elements.
+3
+2
+6
+2
+5
+2
+6
+3
+3
+6
+4
+3
+Sum of squares of elements = 1+4+ I +9+25+4+1 +36+9+36+1 +4+9+ 16+36+9 = 201
+NORM = Squareroot of 201
+= 14.177446878757825
+Questio
+Define a class to accept a String and Print if it is a Super string or not. A String is Super
+if the number of uppercase letters are equal to the number of lower case letters.
+[Use Character & String methods only]
+Example : "COmmITmeNt"
+Number of Uppercase letters — 5
+Number of Lowercase letters — 5
+String is a Super String
+Question 6
+Define a class to initialise the following data in an array.
+Search for a given character input by the user, using the Binny Search technique.
+Print "Search Successful" if the character is found otherwise print "Search is not
+Successful".
+1151
+[151
+[151
+T25 861
+11
+Turn Over

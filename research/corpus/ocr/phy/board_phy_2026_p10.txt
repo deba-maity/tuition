@@ -1,0 +1,26 @@
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+T26 521
+A resistance R is connected across a cell with a switch and a rheostat in series,
+A voltmeter is connected parallel across the cell. Current in the circuit is
+increased using the rheostat.
+(a) How will the voltmeter reading change? (increase / decrease / remain the
+same)
+(b) Justify your answer stated in (a) above.
+(a) Define natural vibrations.
+(b) How is this vibration different from damped vibrations in tems of their
+amplitudes?
+A metal piece of thermal capacity 40 JK-I, absorbs 800 J of heat.
+Calculate the rise in the temperature of this metal piece.
+In an AC generator, name the part which has the following functions:
+(a) intensifies the magnetic field.
+(b) maintains electrical contact between the rotating parts and the external
+circuit.
+Give two differences between nuclear fission and nuclear fusion.
+10
+[2]
+[21
+[2]

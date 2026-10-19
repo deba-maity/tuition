@@ -1,0 +1,701 @@
+
+--- PAGE 01 ---
+PHYSICS
+(SCIENCE PAPER - 1)
+
+Maximum Marks: 80
+Time allowed: Two hours
+
+Answers to this Paper must be written on the Paper provided separately.
+
+2. You will not be allowed to write during first 15 minutes,
+| 3. This time ig to be spent in reading the question paper.
+
+4. The time given at the head of this Paper is the time allowed for writing the answers.
+
+5. Section A is compulsory. Attempt any four questions from Section B.
+
+6. The intended marks for questions or parts of questions are given in brackets [ ].
+
+Instruction for the Supervising Examiner
+
+Kindly read aloud the Instructions given abaye to all the candidates present in the
+
+Examination Hall.
+
+This Paper consists of 19 printed pages and 1 blank page.
+
+726 521 Turn Over
+
+
+
+--- PAGE 02 ---
+SECTION A (40 Marks)
+
+(Attempt all questions from this Section.)
+
+Question 1
+Choose the correct answers to the questions from the given options.
+
+(Do not copy the questions, write the correct answers only.)
+
+(i) For a body to be in dynamic equilibrium, its:
+(a) momentum should be zero
+(b) acceleration should be zero
+(c) kinetic energy should be zero
+
+(d) velocity should be zero
+
+(ii) The energy transformatio
+(a) heat to chemical
+(b) chemical to light
+(c) light to chemical
+
+(d) chemical to heat
+
+n taking place during photosynthesis in plants is:
+
+726521 — 2
+
+[15]
+
+
+--- PAGE 03 ---
+(iii) | The Velocity Ratio (VR) of a block and tackle system of two pulleys with the
+
+effort in the upward direction is:
+(a) 1
+(b) 2
+(c) 3
+qd) 4
+
+(iv) From the figure given below, the refractive index of medium B with respect to
+
+medium A (aps) is:
+
+z
+
+Medium B
+
+JZ enennee--f-------e
+
+Sin45°
+@)  Sin30°
+5 5in30"
+(b) Sin45°
+
+sin45°
+© Sin60°
+
+Sin60°
+Sin4s°
+
+(4)
+
+126521 3 Turn Over
+
+
+--- PAGE 04 ---
+(vi)
+
+(vii)
+
+Ww .
+Vhen a blackened bulb thermometer is moved beyond the red region of the
+visible spectrum, there is a rapid rise in the temperature. This is due to the
+
+presence of:
+
+(a) Infrared radiations
+
+(b) Ultraviolet radiations
+(c) X-rays
+
+(d) Radio waves
+
+A fast-moving cyclist stops pedalling on reaching a hilly track. If he continues
+
+s
+to move with the acquired energy, then assuming no loss of energy:
+
+(a) _ his kinetic energy remains constant at all times.
+
+(b) _ his potential energy remains constant at all times.
+
+(c) _ his total mechanical energy continuously increases.
+
+(d) _ his total mechanical energy remains constant.
+
+The distance (V) ofa virtual image formed by a lens of focal length 15 cm never
+
+exceeds a certain finite value, then this value will be:
+
+(a) less than 15 cm
+(b) between 15cm to 30cm
+(c) _ less than or equal to 30 cm
+
+(d) less than or equal to 15cm
+
+126 521 4
+
+
+--- PAGE 05 ---
+(viii)
+
+Assertion (A): Tiny air molecules scatter blue light more than red light.
+Reason (R): The refractive index of a medium is greater for blue light than
+red light.
+
+(a) (A) is true but (R) is false.
+
+(b) (A) is false but (R) is true.
+
+(c)
+(d)
+
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+(ix) In the circuit given below, identify the lamp (Li, L2, Ls or La) whose failure
+would not interrupt the power supply to the other lamps.
+(a) Li
+(b) L2
+(c) Ls
+(d) La
+T26 521 5
+
+
+--- PAGE 06 ---
+(x)
+
+(xi)
+
+(xii)
+
+Equal volumes of water are added to three cylindrical jars A, B and C of same
+
+height and radii ra, rp and rc respectively with ra < ra <rc. If you blow air into
+
+the mouth of these jars, which tube will produce the shrillest note?
+
+(a)
+(b)
+(c)
+(4)
+
+A
+B
+Cc
+
+All will produce the notes of same shrillness
+
+A metallic wire is stretched in such a way that its new length becomes twice the
+
+original length. How does its specific heat capacity change?
+
+(a)
+(b)
+(c)
+(4)
+
+becomes double
+becomes 4 times
+becomes
+
+remains the same
+
+The correct formula to calculate the equivalent resistance of two resistors
+
+R, and R, when connected in parallel, is:
+
+(a)
+
+@)
+
+R, +R,
+R,R2
+
+RiR2
+R, +R,
+
+R,-R,
+RiRz
+
+R,R2
+R, — R2
+
+726 521
+
+
+--- PAGE 07 ---
+(xiii)
+
+(xiv)
+
+The diagram below shows the top view of the Wire A shown by a cross (X),
+
+Carrying current into the Plane of the paper. Which of the compasses is
+
+Correctly aligned with the magnetic fi
+
+eld, produced by the current carrying
+wire?
+
+(a) Only 1 is aligned
+
+(b) Only 2 is aligned
+
+(c) Both 1 and 2 are aligned
+
+(d) Both 1 and 2 are not aligned
+
+Three substances A, B and C of same mass are present at their respective
+melting points. On heating, if they melt completely in 5 minutes, 7 minutes and
+3 minutes respectively, then which substance has the highest specific latent
+heat?
+
+(Assume heat is absorbed at the same rate)
+(a) Substance A
+(b) Substance B
+
+(c) Substance C
+
+(d) All the substances have same specific latent heat
+
+726 $21
+
+7 - : : Turn Over
+
+
+--- PAGE 08 ---
+(xv)
+(a)
+(b)
+(c)
+(d)
+Question 2
+(i)
+
+An atom of lithium contains 3 electrons, 3 protons and 4 neutrons.
+
+Its mass number is:
+
+3
+4
+7
+10
+
+Complete the following by choosing the correct answers from the bracket:
+
+(a)
+
+(b)
+
+(d)
+(e)
+
+(f)
+
+A car is moving in uniform circular motion. The direction of friction
+
+between the tyres and the path is [towards the centre /
+
+tangential to the path].
+
+When a ray of light passes from a denser to a rarer medium, its
+
+wavelength [decreases / increases].
+
+The lid of a calorimeter minimises heat loss by [convection /
+
+radiation].
+
+Quality of sound depends on its [amplitude / waveform].
+
+A substance whose resistance becomes almost negligible at a temperature
+near absolute zero is called a [semiconductor /
+
+superconductor].
+
+radiation deviates minimum in a magnetic field. [Alpha /
+Beta].
+
+(6)
+
+
+--- PAGE 09 ---
+(ii) State nwo factors on which the position of Center of Gravity of a body depends. (2)
+
+(iii) Case 1: Lata cuts a potato into two halves, using a cutter which belongs to a (2]
+Class I lever. She needed effort E1.
+
+Case 2: — Then she cuts one half of this potato again, but this time she needed
+effort E2. If Ei > E2 then:
+
+(a) In which case (1* or 2) was the potato closer to her hand applying the
+
+effort? (Assume normal reaction of the surface of the potato is same in
+
+both cases)
+
+(b) Give a reason for your answer in (a) above.
+
+Question 3
+
+(i) The graph below shows the variation of image distance (v) with the object (2]
+
+distance (u) when an object is kept in front of a lens.
+
+Y
+
+image distance (v)
+
+object distance (u)
+
+yt
+
+(a) Identify the type of lens used.
+
+(b) What would be the magnification (more than I /less than 1 / equal to 1)
+if the object is placed between F and 2F of the above lens?
+
+126 521 9 Turn Over
+
+
+--- PAGE 10 ---
+(ii) A resistance R is connected across a cell with a switch and a rheostat in series. (2]
+
+A voltmeter is connected parallel across the cell. Current in the circuit is
+increased using the rheostat.
+
+(a) How will the voltmeter reading change? (increase / decrease / remain the
+Same)
+
+(b) Justify your answer stated in (a) above.
+
+(iii) (a) Define natural vibrations. (2]
+
+(b) How is this vibration different from damped vibrations in terms of their
+amplitudes?
+
+(iv) A metal piece of thermal capacity 40 JK", absorbs 800 J of heat. [2]
+
+Calculate the rise in the temperature of this metal piece.
+
+(v) | Inan AC generator, name the part which has the following functions: (2]
+(a) intensifies the magnetic field.
+
+(b) maintains electrical contact between the rotating parts and the external
+
+circuit.
+
+(vi) _ Give two differences between nuclear fission and nuclear fusion. (2]
+
+726 521 10
+
+
+--- PAGE 11 ---
+wm) B and C) at (3]
+
+A B Cc
+(a) _ the angle of incidence is maximum.
+
+(b) _ the angle of incidence is minimum.
+
+(c) the angle of incidence is equal to the angle of emergence.
+
+SECTION B (40 Marks)
+
+(Attempt any four questions Srom this Section.)
+
+Question 4
+
+(i) A ray of light enters a glass block from air and comes out from the opposite [3]
+surface. If the angle of refraction at the first surface is not the same as the angle
+
+of incidence at the second surface, then:
+
+(a) What is the product of the ratio = at the first surface and at the second
+surface?
+
+(b) State whether the opposite surfaces are parallel or not parallel.
+
+(c) How did you reach the conclusion in (b) above?
+
+726 521 " Turn Over
+
+
+--- PAGE 12 ---
+(ii)
+
+(ili)
+
+A type of glass block has a refractive index of 1.8. [3]
+
+(a) Calculate the speed of light in this glass.
+(Given speed of light in air 3 x 10° ms"')
+
+(b) If the width of this block is doubled, then what will be the speed of light
+in the block?
+
+(a) Name the electromagnetic radiation used to detect fake currency. [4]
+
+(b) Redraw the diagram given below and complete the path of the light ray AB
+through the glass prism till it emerges out of the prism. Critical angle of
+
+the glass is 42°.
+
+Question 5
+
+()
+
+An object placed in front of a convex lens, forms an image of same size on a [3]
+screen. Moving the object 12 cm closer to the lens results in the formation of a
+
+real image which is three times the size of the object.
+
+Calculate the focal length of the lens.
+
+>
+
+
+--- PAGE 13 ---
+(i) @)
+
+Atmospheric temperature after a hailstorm is greater than the temperature
+during the hailstorm. State True or False.
+
+(b) Which thermal physical quantity of a frying pan changes by making its
+
+base heavier?
+
+(c) State the principle of Calorimetry.
+
+(iii) The given graph represents the cooling curve of a liquid.
+
+Temperature (Pc).
+
+—>)—
+(00) 5. 10 15 20 25 30 , 35 time(s)
+
+(a) State the freezing temperature of the liquid.
+(b) Name the phase change happening at the region QR.
+
+(c) In which state (solid / liquid) does the above substance liberate heat at a
+
+faster rate? Justify.
+
+(3)
+
+[4]
+
+126 521 13 Turn Over
+
+
+--- PAGE 14 ---
+uestion 6
+Two forces. Fi and F2 of equal 0)
+le. Tw
+
+(i) The diagram shows a wheel with a handl :
+wn in the diagram.
+
+magnitudes are acting on the handle as sho
+
+(a) Which force produces negative moment?
+(b) Is the wheel in equilibrium? (Yes or No)
+(c) Justify your answer stated in (b).
+(ii) (a) Name the unit of work done, used in subatomic scale. 3)
+
+(b) To which class of lever does a pair of scissors belong?
+
+(c) A stone is tied to a string and displaced from A to B by application of
+constant force F in three different ways as shown in the diagram below
+
+Arrange the three cases in ascending order of the work done by the force
+(Given AJB is a semi-circle, 6 < 90° and AB = 20 m)
+
+126 $21
+
+
+
+--- PAGE 15 ---
+(iii)
+
+A ball of mass 20 8 falls from a hei
+
+ght of 45 m. It rebounds from the ground to
+a height of 40 m. Calculate:
+
+(a) the initial Potential energy of the ball.
+(b) the speed of the ball at which it hits the ground.
+
+(c) the loss in kinetic energy on striking the ground.
+
+[g = 10 m/s?]
+
+Question 7
+
+(i)
+
+(ii)
+
+To lift a load of 30 kgf, Suhas uses a single fixed pulley, while Radha uses a
+
+single movable pulley. The displacement of efforts in both the cases are equal.
+
+In an ideal situation calculate the ratio of:
+(a) _ the efforts in the two cases.
+
+(b) the potential energy gained by the loads in the two cases.
+
+(c) _ the efficiencies in the two cases.
+
+(a) One end of a plastic foot ruler is held tightly at the edge of a table and the
+
+other end is plucked. Name the vibrations produced in the ruler.
+
+(b) Now the ruler is pushed inside partially and plucked again from its free
+
+end. State with a reason whether the frequency of vibration increases or
+
+decreases.
+
+[4]
+
+[3]
+
+[3]
+
+126 521
+
+15 Turn Over
+
+
+--- PAGE 16 ---
+(iii) Two persons A and B are standing in front of a cliff in the same line 170 m apart [4]
+as shown in the diagram. Person B fires the gun and hears the echo in 3 s. Then
+
+the person A standing in front of the person B fires the gun.
+(The speed of sound in air is 340 m/s.)
+
+(a) Calculate:
+
+1. the distance of the person B from the cliff.
+
+2. the minimum time in which B hears the gunshot fired by A.
+
+(b) Fill in the blank. The echo is softer (less loud) than the original sound due
+
+to the decrease in of the wave. (amplitude / frequency)
+
+Question 8
+
+(i) Bulb A rated 160 W, 40 V and Bulb B rated 40 W, 40 V are connected as shown
+
+)
+
+[3]
+in the diagram.
+
+40V
+
+(a) Calculate the ratio Vi : Vx
+
+(b) If the bulb A fuses, the current in the circuit remains the same,
+
+State True or False.
+
+126 521 : _
+
+16 oo
+
+
+--- PAGE 17 ---
+(ii) The reverse side of a three-pin plug with incorrect connection of wires is shown [3]
+
+in the diagram below,
+
+red wire
+
+green wire
+
+(a) Identify the fault in the above connection.
+
+(b)
+
+Mention a risk factor involved, if the user operates the appliance without
+correcting it.
+
+(c) Will the appliance function in the Present situation? (Yes or No)
+
+opal
+Fa
+
+oor
+(iii) In the combinations of resistors shown below, calculate:
+
+[4]
+
+122 62
+
+(a) the resistance across AB when the switch S is open.
+
+(b) the resistance across AB when the switch S is closed.
+
+726 521 17 Turn Over
+
+
+--- PAGE 18 ---
+Question 9
+
+(i) Anelectric iron rated 1100 W, 220 V is operated for 5 hours. 3)
+Calculate:
+(a) the minimum rating of the fuse required.
+
+(b) the energy consumed in kWh.
+
+(c)_ the cost of the energy consumed, if the rate is = 10 per unit.
+
+(ii) When the magnet as shown in the diagram, is moved towards the coil ata speed [3]
+
+of 5 ms', the galvanometer shows a certain deflection to the right.
+
+=o
+
+Movement
+of magnet
+
+How will the direction and magnitude of deflection change when the coil also
+
+moves with a speed of 5 ms”:
+
+(a) _ in the direction of the motion of the magnet?
+
+(b) in the opposite direction of the motion of the magnet?
+
+726 521 18
+
+
+--- PAGE 19 ---
+(iii) (a) 1. Which element is used in the lining of the special aprons wom by —[4]
+
+workers in nuclear power plants?
+
+2. Why is this element preferred?
+
+(b) 34Na emits a nuclear radiation which does not alter the mass number but
+
+is deflected by a magnetic field.
+1. Name the type of nuclear radiation emitted by ?4Na.
+
+2. Write the equation for this radioactive decay.
+
+https://www.pyqonline.com
+Whatsapp @ 9300930012
+Send your old paper & get 10% to 40%
+TA TU As AT aie 10 TEA A 40 THA aw Te,
+Paytm or Google Pay &
+
+126 521 19

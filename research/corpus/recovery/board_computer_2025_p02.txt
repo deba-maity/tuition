@@ -1,0 +1,26 @@
+SECTION A (40 Marks)
+(Attempt all questions from this Section.)
+Question |
+Choose the correct answers to the questions from the given options. "
+(Do not copy the questions, write only the correct answers.)
+a) Character class methods are found in the Package called:
+(a) java.util
+(bY java.lang
+(c) java.awt
+(d) java.io
+(ii) System.out.printIn('Z'+32); will display:
+(a) z
+(b) Z
+(GH 122
+(d) 154 Cad
+(iii) double x | }={2.5,4.5,5.5,6.4}; occupies___by tess.
+(a) 16
+(b) 4
+(c) 8
+dd 32
+(iv) The output of 42/6%2 is:
+a
+(b) 10
+(c) 2
+(d) 0
+a

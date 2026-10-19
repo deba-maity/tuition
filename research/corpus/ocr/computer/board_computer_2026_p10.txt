@@ -1,0 +1,40 @@
+(x)
+Name the following:
+(a) The return data type of the method equals().
+(b) The String method which has no parameter and returns a String.
+SECTION B (60 Marks)
+(Answer any four questions from rhis Section.)
+[21
+The answers in (his section should consist of the programs in either BlueJ environment or any
+program environment with Java as the base.
+Each program should be written using variable description / mnemonic codes so that the logic of
+the program is clearly depicted.
+Flowcharts and algorithms are not required.
+Question 3
+Define a class named StepTracker with the following specifications:
+[15]
+Member Variables:
+String name
+int sw
+double cb
+double km
+Member Methods:
+void accept()
+void calculate()
+Metric
+stores the user's name.
+stores the total number of steps walked by the user.
+stores the estimated calories burned by the user.
+stores the estimated distance walked in kilometers.
+to input the name and the steps walked using Scanner class
+methods only.
+calculates calories burned and distance in km based on steps
+walked using the following estimation table:
+Calculation Formula
+void display()
+Calories Burned steps walked x 0.04 (e.g., I step burns 0.04 calories)
+Distance (Km) steps walked / 1300 (e.g., 1300 steps is approx. I km)
+Display the calories burned, distance in km and the user's name.
+Write a main method to create an object of the class and invoke the methods.
+T26 861
+10

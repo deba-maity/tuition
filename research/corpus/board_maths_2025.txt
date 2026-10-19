@@ -1,0 +1,607 @@
+
+--- PAGE 01 ---
+og]
+No}
+N
+oO
+uw
+WwW
+&
+nN
+MATHEMATICS
+Maximum Marks: 80
+Time allowed: Three hours
+
+1, Answers to this Paper must be written on the paper provided separately.
+
+2. You will not be allowed to write during first 15 minutes.
+
+3. This time is to be spent in reading the question paper.
+
+4. The time given at the head of this Paper is the time allowed for writing the answers.
+
+5. Attempt all questions from Section A and any four questions from Section B.
+
+6. AU working, including rough work, must be clearly shown, and must be done on the
+
+same sheet as the rest of the answer.
+
+7. Omission of essential working will result in loss of marks.
+
+8. The intended marks for questions or parts of questions are given in brackets [ ]
+
+9. Mathematical tables and graph papers are to be provided by the school.
+
+Instruction for the Supervising Examiner
+Kindly read aloud the Instructions given above to all the candidates present in the
+Examination Hall.
+This paper consists of 16 printed pages.
+725511
+
+Turn Over
+
+
+--- PAGE 02 ---
+SECTION A (40 Marks)
+
+(Attempt all questions from this Section.)
+
+Question 1
+
+Choose the correct answers to the questions from the given options. (15]
+
+(Do not copy the questions, write the correct answers only.)
+(i) The given quadratic equation 3x2 + V7x + 2 = 0 has:
+(a) two equal real roots.
+
+(b) two distinct real roots.
+
+(c) more than two real roots.
+
+(d) no real roots.
+
+(ii) Mr. Anuj deposits %500 per month for 18 months in a recurring deposit
+
+account at a certain rate. If he earns 7570 as interest at the time of maturity,
+
+then his matured amount is:
+) %(500 « 18 + 570)
+
+(b) %(500 x 19 + 570)
+
+(c) %(500 x 18 x 19 + 570)
+(d) %(500 x 9 x 19 + 570)
+
+(iii) Which of the following cannot be the probability of any event?
+
+(d) 67%
+
+725511
+
+
+--- PAGE 03 ---
+(iv) The equation of the line passing through origin and parallel to the line
+3x + 4y + 7 = Ois:
+
+(a) 3x+4y+5=0
+(b) 4x-3y-5=0
+(c) 4x-3y=0
+
+@y 3x+4y=0
+
+(v) IfA= e A then A? is equal to:
+
+@ bd
+Onan
+
+© [0
+
+@ ft dl
+
+(vi) In the given diagram, chords AC and BC are equal. If ZACD = 120°, then
+
+ZAEC is:
+(a) 30 x
+a o
+TN :
+(b) 60°
+(c) 90°
+
+STN 20°
+iy 120° B
+
+725 511 3 Turn Over
+
+
+--- PAGE 04 ---
+(vii)
+
+(viii)
+
+(ix)
+
+The factor common to the two polynomials x? ~ 4 and x° — hoax t4
+is:
+
+(a) (+1)
+
+(b) (x-1)
+
+(c) (x+2)
+
+) (x-2)
+
+A man invested in a company paying 12% dividend on its share. If th
+
+Percentage return on his investment is 10%, then the shares are:
+(a) at par
+(b) below par
+
+2" above par
+
+(d) cannot be determined
+
+Statement 1: The point which is equidistant from three non-collinear
+
+Points D, E and F is the cireumcentre of the ADEF.
+
+Statement 2: The incentre of a triangle is the point where the bisector of
+
+the angles intersects,
+
+(J Both the statements are true,
+(b) Both the statements are false.
+(c) Statement | is true, and Statement 2 is false.
+
+(d) Statement | is false, and Statement 2 is true.
+
+725511
+
+
+--- PAGE 05 ---
+(x) Assertion(A): If sin?A + sinA = 1 then cos*A + cos?A =1
+Reason(R): 1 -sin2A =cos?A
+(a) (A) is true, (R) is false.
+(b) (A) is false, (R) is true.
+WS Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+(d) Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+
+(xi) In the given diagram AABC ~ AEFG. If ZABC = 2 EFG = 60°, then the
+
+length of the side FG is: F
+G on
+(a 1Sem
+(b) 20 cm Wen
+(c) 25cm
+(d) 30cm
+B 1scm \
+3cm! Sem
+c
+» ! 28cm K
+
+(xii) If the volume of two spheres is in the ratio 27 + 64, then the ratio of their
+
+radii is:
+(ay 3:4
+(b) 4:3
+(c) 9:16
+
+(d) 16:9
+
+725511 5 Turn Over
+
+
+--- PAGE 06 ---
+(xiii) The marked price of an article is £1375. If the CGST is charged at a rate of
+
+4%, then the price of the article including GST is:
+
+(a) %55
+(b) 2110
+(c) %1430
+(dy 21485
+
+iv x
+(xiv) The solution set for 0 < “3 <2,x € Zis:
+
+ey” {-5,-4,-3,-2,-9}
+(b) {-6,-5,-4,-3,-2,-}
+(c) (-5,-4,-3,-2,-1,0)
+(d) {-6,-5,-4,-3,-2,-1,0}
+
+(xv) Assertion(A): The mean of first 9 natural numbers is 4.5.
+
+Sum of all the observations
+Total number of observations
+
+(a) (A) is true, (R) is false.
+
+Reason(R): Mean =
+
+QT (A) is false, (R) is true.
+(c) Both (A) and (R) are true, and (R) is the correct reason for (a).
+
+(d) Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+
+Question 2
+
+i Solve the following quadratic equation 2x? — 5x — 4 = 9
+(i)
+
+Give your answer correct lo three significant Sigires,
+
+~ AS
+(Use mathematical tables for this question)
+
+(4]
+
+725 511
+
+
+--- PAGE 07 ---
+ii) Mrs. Rao deposited %250 per month in a recurring deposit account for a (4)
+
+period of 3 years. She received €10,110 at the time of maturity. Find:
+
+(a) _ the rate of inter’
+
+(b) how much more interest Mrs. Rao will receive if she had deposited
+%50 more per month at the same rate of interest and for the same time.
+
+(ii) In AABC, ZABC = 90°, AB = 20 em, AC = 25 cm, DE is perpendicular to {4}
+
+AC such that ZDEA = 90° and DE = 3 cm as shown in the given figure.
+A
+(a) Prove that AABC~ AAED. .
+(b) Find the lengths of BC, AD and AE.
+(c) If BCED represents a plot of land on 4 map 5ip
+—?
+whose actual area on ground is 576 m?, then
+find the scale factor of the map. ~ |
+B
+
+Question 3 -
+
+(i) Use ruler and compass for the following construction. Construct a AABC, (4]
+where AB = 6 cm, AC = 4.5 cm and ZBAC = 120°. Construct a circle -
+circumscribing the AABC. Measure and write down the length of the radius
+ofthe circle. > SD ‘
+
+(ii) _f1 2) ,_][2 1 =[-5 1 [4]
+ad dP a] and © P 2
+Find:
+
+(a) A+C-
+(b) B(A+C) -
+(c) SL
+(d) B(A+C)-5B
+725511
+
+Turn Over
+
+
+--- PAGE 08 ---
+(iii) In the given graph ABCD is a parallelogram. [5]
+
+Seale: x-axis. 2cm =! unit
+yeaxis. 2 cn = 1 unit
+
+A ( +3)
+
+—F
+
+Using the graph, answer the following:
+
+(a) write down the coordinates of A, B, C and D
+
+(b) calculate the coordinates of ‘P* : ee
+; » the point of intersection of th
+diagonals AC and BD. ©
+
+(c) find the slope of sides CB and DA a i
+nd verify that th
+ey represent
+
+parallel lines.
+
+(d) find the equation of the diagonal A
+
+725511
+
+
+--- PAGE 09 ---
+SLC TEGIN B (40 Marks)
+
+c UHV (UHL € 8 Seewon.
+Questions
+v Solve the following ineguation, write the selution set and represent it on the real number (3]
+line.
+ax aoe eat eR
+-4<5 se ix
+3.°°5 5
+
+(ii) The first term of an Arithmetic Progression (A.P.) is 5, the last term is 50 and their sum 1s [
+440. Find:
+
+us
+
+{a) the number of terms n> 46
+(b) common difference A= >
+
+(iii) Prove that:
+
+(cotA + tanA — 1)(sinA + cosA)
+sin3A + cos3A
+
+= secA.cosecA
+
+Question 5
+
+(i) Using properties of proportion, find the value of ‘x’: (3}
+2 _ 2
+6x° + 3x 5_ 9x? + 2x+5 -x#0
+3x-5 2x+5
+ii) fis given that (x — 2) is a factor of polynomial 2x3 — 7x* + kx ~ 2. [3]
+Find:
+
+(a) _ the value of ‘&’.
+
+(b) hence, factorise the resulting polynomial completely.
+
+TS si 9
+
+Turn Over
+
+
+--- PAGE 10 ---
+‘(iii) A solid wooden capsule is shown in Figure 1, The capsule is formed of a cylindrical block jy
+
+and two hemispheres.
+Find the sum of total surface area of the three parts as show
+
+of the capsule is 3.5 cm and the length of the cylindrical block is 14 cm.
+
+n in Figure 2. Given, the radius
+
+(Use r= 2) _
+
+14cm
+
+ww,
+
+Figure 2
+
+Figure 1
+
+Question 6
+
+(i) Use a graph paper for this question taking 2 cm = | unit along both axes.
+
+(a) Plot A(1, 3), B(1, 2) and C(3, 0).
+(b) Reflect A and B on the x-axis and name their images as E and D respectively. Write
+down their coordinates.
+
+(c) Reflect A and B through the origin and name their images as F and G respectively.
+
+(d) Reflect A, B and C on the y-axis and name their images as J, ] and H respectively.
+
+(e) Join all the points A, B, C, D, E, F, G, H, I and J in order and name the closed figure
+
+so formed.
+
+T25 511 10
+
+
+--- PAGE 11 ---
+(ii)
+
+Inthe given diagram, AB is a vertical tower 100 m away from the foot of a 30 storied [5]
+
+building CD. The angles of depression from the point C and E, (E being the mid-point of
+
+CD), are 35° and 14° respectively.
+
+(Use mathematical table for the required values rounded off correct to two places of
+
+decimals only)
+Find the height of the:
+(a) tower AB
+
+(b) building CD
+
+Question 7
+
+(i)
+
+Use a graph paper for this question.
+
+100 m
+
+c
+
+(3)
+
+(Take 2 cm = 10 Marks along one axis and 2 cm = 10 students along another axis).
+
+Draw a Histogram for the following distribution which gives the marks obtained by 164
+
+students in a particular class and hence find the Mode.
+
+Marks 30-40 | 40-50 | 50-60 | 60-70 | 70-80
+Number of 10 26 40 54 34
+Students
+USsiy 11
+
+Turn Over
+
+
+--- PAGE 12 ---
+(iii)
+
+i f 5 units and
+In the given graph, P and Q are points such that PQ cuts off intercepts ©
+
+i i i PQ and passes
+3 units along the x-axis and y-axis respectively. Line RS is perpendicular to Q
+
+through the origin. Find the:
+(a) coordinates of P and Q
+
+(b) equation of line RS
+
+Refer to the given bill.
+
+A customer paid 2000 (rounded off to the nearest 10) to clear the bill,
+
+Note: 5% discount is applicable on an article if 10 or more such articles are purchased,
+ote: 3/7
+
+BILL
+Article M.LP. (2) Quantity Cat ;
+A 190 06 1%
+B = 12 18%
+
+Check whether the total amount paid by the customer is correct or not. Justify your answer
+ec!
+
+with necessary working.
+
+725 511
+
+12
+
+
+--- PAGE 13 ---
+oveuind’s
+
+()
+
+(ii)
+
+A man bought %200 shares of a company at 25% premium. If he received a retum of 5% — [3]
+on his investment. Find the: <2
+
+(a) market value
+(b) dividend percent declarec
+
+(c)_ number of shares purchased, if annual dividend is 71000.
+
+For the given frequency distribution, find the: (3)
+1 (a) mean, to the nearest whole number-
+(b) median
+x 10 I 12 13 14 | 15 16
+f 3 2 2 6 3 | 5 3
+
+(iii) Mr. and Mrs. Das were travelling by car from Delhi to Kasauli for a holiday. Distance [4]
+
+between Delhi and Kasauli is approximately 350 km (via NH 152D). Due to heavy rain
+they had to slow down. The average speed of the car was reduced by 20 km/hr and time
+
+of the journey increased by 2 hours. Find
+
+(a) the original speed of the car. .
+
+(b) with the reduced speed, the number of hours they took to reach their destinatiort
+
+Ar 4
+TS $11 3! Turn Over
+
+
+
+--- PAGE 14 ---
+Questios 9
+
+(i) © Ahollow sphere of external diameter 10 em and internal diameter'6 cm is melte
+
+[Use = 2
+7
+
+(ii) Ms. Sushmita went to a fair and participated in a game. The game consisted of a box having
+
+number cards with numbers from 01 to 30. The three prizes were as per the given table:
+
+———
+
+into a solid right circular cone of height 8 cm. Find the radius of the cone so formed.
+
+Prize
+
+Number on the card drawn at random is a
+
+Wall Clock
+
+perfect square’
+
+Water Bottle
+
+even number which is also a multiple of 3
+
+Purse
+
+prime number
+
+Find the probability of winning a:
+
+(a) Wall Clock
+
+(b) Water Bottle
+
+(c) Purse
+
+725 511
+
+14
+
+d and made
+
+
+
+--- PAGE 15 ---
+(iii) X,¥, Zand C are the points on the circumference of a circle with centre ‘0’. AB isa [4]
+
+tangent to the circle at ‘“X’ and ZY = XY. Given ZOBX = 32" and ZAXZ = 66°. Find:
+(a) 4BOX
+
+(b) 2CYX
+(0) 4ZYX
+
+(@) ZOXY
+
+Qheston 10
+
+(i) If1701 is the 2 term of the Geometric Progression (G.P.) 7. 21. 63 * {3]
+
+(a) the value of ‘n’
+(b) hence find the sum of the ‘n’ terms of the G.P.
+
+(ii) Inthe given diagram ‘O” is the centre of the circle. Chord SR produced meets the tangent [3]
+
+4
+
+Xx
+
+{@) Prove that APTR ~ APST
+
+(b) Prove that PT? = PR x PS
+
+(©) IfPR=4 em and PS = 160m, find the length of the tangent &
+
+12S $1]
+
+15 Turn Over
+
+
+--- PAGE 16 ---
+(iii) The given graph represents the monthly salaries (in 2) of workers of a factory. [4]
+
+! Scale: along x-axis, 2 cm = 72000
+along y-axis, 2. cm = 10 workers
+
+ual to %6,000 but less
+a
+
+ry more than or eq
+
+ber © ing monthly sala
+(gd) number °

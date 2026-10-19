@@ -1,0 +1,23 @@
+SECTION A (40 Marks)
+(Attempt all questions from this Section. )
+Question 1
+[20]
+Choose the correct answers to the questions from the given options.
+(Do not copy the questions, write only the correct answers.)
+(i)
+(ii)
+The full form of JVM is:
+(a) Java Visible Machine
+(b) Java Virtual Mode
+(c) Java Virtual Machine
+(d) Java Visible Mode
+Which of the following occupies 2 bytes of storage?
+(a) 25
+(b) AM
+(c) 35.2
+In a statement c = c + (x * d + e); which variable is an accumulator?
+(iii)
+(a)
+T16 861
+d
+2

@@ -1,0 +1,37 @@
+(v)
+(vi)
+(vii)
+(viii)
+(ix)
+T24 861
+string s2 "54.50";
+String sl =
+double d I );
+double d2=Double.parseDoubIe(s2);
+int (int)(dl +d2);
+What is value of x?
+Consider the following two-dimensional array and answer the questions given
+below:
+- {8, 3,10}, {l, 2,
+int xt It ) ¯
+(a) What is the order of the array?
+(b) What is the value
+Differentiate between boxing and unboxing.
+The following code to compare two strings is compiled, the following syntax
+error was displayed — incompatible types — int cannot be converted to boolean.
+Identify the statement which has the error and write the correct statement. Give
+the output of the program segment.
+void calculate()
+string a = "KING", b = "KINGDOM";
+boolean x = a.compareTo(b);
+System.out.println(x);
+Consider the given program and answer the questions given below:
+class temp
+int a;
+temp()
+[21
+[2]
+[2]
+[2]
+7
+Turn Over

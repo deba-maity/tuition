@@ -1,0 +1,15 @@
+Question
+Define a class pin code and store the given pin codes in n *Ingle dimensional array gort
+these pin codes in ascending order using thc Selection Sort technique only. I)igpløy the
+sorted array.
+110061. 110001. 110029. 110023, 110055, 110006. 110019. 1 10033
+Question 8
+Define a class to accept the gmail id and check for its validity.
+A email id is valid only if it has:
+. (dot)
+gmail
+com
+Example: icse2024@gmail.com is a valid gmail id.
+11
+T24861
+[151

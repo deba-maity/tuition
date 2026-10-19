@@ -1,0 +1,39 @@
+(iii)
+(iv)
+(v)
+O)
+(vii)
+T23 861
+The Scanner class method used to accept words with space:
+(a) next()
+(b) nextLine()
+(c) Next()
+(d) nextString()
+The keyword used to call package in the program:
+(a) extends
+(b) export
+(c) impon
+(d) package
+What value will Math.sqrt (Math.eeil (15.3)) return?
+(a) 16.0
+(b) 16
+(c) 4.0
+(d) 5.0
+The absence of which statement leads to fall through situation in switch case
+statement?
+(a) continue
+(b) break
+(c) rctum
+(d) System.exit(0)
+Stale the type of loop in the given program segment:
+(a)
+(b)
+(c)
+(d)
+for (inti= 5; i ! = O; i - = 2)
+System.out.println(i);
+finite
+infinite
+null
+fixed
+2

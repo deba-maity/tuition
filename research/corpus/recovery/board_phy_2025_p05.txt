@@ -1,0 +1,23 @@
+(xi) Assertion (A): As the level of water in a tall measuring cylinder kept under
+running tap rises, the pitch of sound gradually increases.
+Reason (R): — Frequency of sound is inversly proportional to the length of the
+water column.
+Rs Both (A) and (R) are true and (R) is correct explanation of (A).
+(b) Both (A) and (R) are true and (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+(xii) In the given circuits Y and Z, the resistors, Ri and Ra, are connected in:
+Y Zz
+R,
+Ry
+(a) series in both the circuits
+: Wh parallel in both the circuits
+(c) parallel in Y and series in Z
+(d) series in ¥ and parallel in Z
+(xiii) A radioactive element P emits one a-particle and transforms to a new element Q.
+What will be the position of the element Q in the periodic table?
+(a) One group to the left of P
+(b) One group to the right of P
+(c) Two groups to the right of P
+RC) Two groups to the left of P
+Ts51 5S ‘Turn Ove

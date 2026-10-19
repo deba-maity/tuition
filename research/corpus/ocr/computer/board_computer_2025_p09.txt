@@ -1,0 +1,27 @@
+(vii)
+(viii)
+(ix)
+T25 861
+(a) Name one String method which results in positive integer only
+(b) Name one String method which results in a character
+John was asked to write a Java code to calculate the surface arca ofa cone, the
+following code was written by him.
+Surface area of cone is AZItrl
+class area
+{ double area (doublet, double h)
+{ double l, a:
+return a;
+Specify the type of the er or in the above program. correct and write the
+program to be error free.
+Consider the following array and answer the questions given below:
+int a/ =
+(a) What is the output of System.out.print(a101+a151);?
+(b) What is the index (subscript) of the largest element of the array a/ l?
+(a) Write the Java statement to initialise the first 6 odd numbers in a 3 x 2 array.
+(b) What is the result orx101[l/ + x12/lIl of the above array?
+Give the output of the following program segment and specify how many times
+the loop is executed.
+String s = "JA (A ";
+System.out.println(s.substring(i);
+Turn Over
+9

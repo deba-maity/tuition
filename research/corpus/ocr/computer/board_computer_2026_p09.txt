@@ -1,0 +1,34 @@
+(vi)
+(vii)
+(viii)
+(ix)
+T26 861
+Give the output of the following program segment and mention how many
+times the loop is executed.
+intK= 1;
+do
+System.out.println (K);
+} while (K < = 6);
+The following program segment calculates and displays the factorial of a
+number. [Example : Factorial of 5 is I x 2 x 3 x 4 x 5 = 120]
+intp, n = 5, f = 0;
+for (p = n; p > O;p——)
+System. out.printIn(D;
+Name the type of error if any; correct the statement to get the desired output.
+5}, {7, 2}, {19, 4}, {7,
+Write the index of the maximum element and the index of the minimum
+element of the array.
+The following program segment swaps the first element and the second
+element of the given array without using the third variable, fill in the blanks
+[21
+[2]
+[2]
+[21
+with appropriate java statements:
+void swap()
+{ intx//=/4, 8, 19,24, 15};
+(1)
+(2)
+x/0/=x/0//x/1/;
+9
+Turn Over

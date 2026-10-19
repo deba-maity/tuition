@@ -1,0 +1,28 @@
+—
+(v) String s1 = "45.50"; String s2 = "54.50"; 21
+double d1=Double.parseDouble(s1);
+double d2=Double.parseDouble(s2);
+int x= (int)(d1+d2);
+What is value of x?
+(vi) Consider the following two-dimensional array and answer the questions given (2]
+below:
+int x[ JL] = ((4,3,2}, {7,8,2}, {8 3,10}, (1, 2, 93};
+(a) What is the order of the array?
+(b) What is the value of x[0][0]+x[2][2]?
+(vii) Differentiate between boxing and unboxing. (2]
+(viii) The following code to compare two strings is compiled, the following syntax [2]
+error was displayed — incompatible types — int cannot be converted to boolean.
+Identify the statement which has the error and write the correct statement. Give
+the output of the program segment.
+void calculate()
+{
+String a = "KING", b= "KINGDOM",
+boolean x = a.compareTo(b);
+System.out.printIn(x);
+}
+(ix) Consider the given program and answer the questions given below: (2]
+class temp
+{
+int a;
+temp()
+724861 ~ 7 Over
