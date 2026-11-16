@@ -13,7 +13,7 @@ async function select(p,sid){await p.selectOption('#homeSubjectSelect',sid);awai
   await p.selectOption('#reviewFilter','wrong');assert.equal(await p.locator('.question-card').count(),1);
   await p.reload();await p.waitForFunction(()=>state.pack);await p.click('[data-view="progress"]');assert.match(await p.locator('#progressOutput').innerText(),/1 questions need work/);
   await p.click('[data-view="practice"]');await p.click('[data-timer="start"]');
-  await p.evaluate(()=>{const key='icse27:timer:worked-r2:computer:1:';localStorage.setItem(key,JSON.stringify({used:35*60000,running:false}));});
+  await p.evaluate(()=>{const key='icse27:timer:worked-r3:computer:1:';localStorage.setItem(key,JSON.stringify({used:35*60000,running:false}));});
   await p.click('#completePaper');await p.fill('#paperScore','96');await p.fill('#paperErrorNote','Recheck binary search bounds.');await p.click('#paperScoreForm button');assert.match(await p.locator('#scoreStatus').innerText(),/Saved/);
   await p.click('[data-view="progress"]');assert.match(await p.locator('#progressOutput').innerText(),/1 timed papers at 95%/);assert.match(await p.locator('#progressOutput').innerText(),/96\/100/);
   const downloadPromise=p.waitForEvent('download');await p.click('#exportStudy');const download=await downloadPromise;const backup=JSON.parse(fs.readFileSync(await download.path(),'utf8'));assert.equal(backup.version,1);assert.ok(Object.keys(backup.data).some(k=>k.includes('review:worked-r2')));

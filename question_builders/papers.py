@@ -9,17 +9,24 @@ from . import bio_papers
 from .paper_shorts import short_questions
 
 class Picker:
-    def __init__(self,bank,seed):self.bank=bank;self.seed=seed;self.used=set();self.n=0;self.topics={}
+    def __init__(self,bank,seed):self.bank=bank;self.seed=seed;self.used=set();self.n=0;self.topics={};self.families={}
     def take(self,marks=None,topic=None,section=None,where=None):
         pool=[q for q in self.bank if q['id'] not in self.used and (not topic or q['topic']==topic) and (not section or q.get('section')==section) and (not where or where(q))]
         if not pool:raise ValueError(f'Empty question pool {topic}/{section}')
+        # Prefer the intended mark value before balancing topics.
+        if marks:
+            exact=[q for q in pool if q['marks']==marks]
+            if exact:pool=exact
         minimum=min(self.topics.get(q['topic'],0) for q in pool)
         pool=[q for q in pool if self.topics.get(q['topic'],0)==minimum]
+        least=min(self.families.get(q.get('family',q['topic']),0) for q in pool)
+        pool=[q for q in pool if self.families.get(q.get('family',q['topic']),0)==least]
         rng('paper-pick',self.seed*100+self.n).shuffle(pool);self.n+=1
         if marks:
             exact=[q for q in pool if q['marks']==marks]
             if exact:pool=exact
         q=copy.deepcopy(pool[0]);self.used.add(q['id'])
+        family=q.get('family',q['topic']);self.families[family]=self.families.get(family,0)+1
         self.topics[q['topic']]=self.topics.get(q['topic'],0)+1
         if marks:q['marks']=marks
         return q
