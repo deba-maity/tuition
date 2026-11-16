@@ -287,3 +287,7 @@ for sid,bank in BANK.items():
         if 'options' in q: assert len(set(q['options']))==4 and 0<=q['correct']<4
 assert {q['topic'] for q in BANK['hindi'] if q.get('category')=='literature'} >= {'संदेह','भेड़ें और भेड़िए','सूर के पद','सूखी डाली','महाभारत की एक साँझ'}
 print(json.dumps({'papers':len(coverage),'main_question_slots':len(LEDGER),'main_questions_located':sum(p['main_questions_located'] for p in coverage),'OCR_headings_recovered':sum(p['ocr_headings_recovered'] for p in coverage),'practice_questions':{k:len(v) for k,v in BANK.items()}},ensure_ascii=False))
+
+# The website consumes the expanded, fixed-paper pack, not the small seed bank.
+from build_exam_pack import main as build_exam_pack
+build_exam_pack()

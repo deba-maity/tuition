@@ -1,0 +1,258 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Computer Applications — Paper 12</title><style>body{font:16px/1.65 Georgia,"Nirmala UI",serif;max-width:900px;margin:40px auto;padding:0 24px;color:#18232d}h1{font-size:28px}h2{font-size:21px}.exam-question{padding:14px 0;border-bottom:1px solid #ddd;break-inside:avoid}.exam-question .exam-question{margin-left:18px}.marks{float:right}.prompt,pre{white-space:pre-wrap;overflow-wrap:anywhere}pre{font:14px/1.6 Consolas,"Nirmala UI",monospace}.solution{background:#edf5ef;padding:12px;margin-top:12px}.adaptation{font-size:14px;color:#53636b}@media print{body{margin:0;max-width:none;padding:0}h2{break-after:avoid}}</style><body><header><p>ICSE 2027 · Original practice</p><h1>Computer Applications — Paper 12</h1><p>100 marks · 2 hours</p><h2>Answer sheet — model answers and marking points</h2></header><p>Spend 15 minutes reading before starting the writing time.</p><p>Follow the choices printed in each section. Marks in brackets are the intended marks for this original practice paper.</p><section><h2>Section A — compulsory; 40 marks</h2><p>Answer all questions.</p><article class="exam-question"><b>1</b> <span class="marks">[20]</span><div class="prompt">Choose the correct answers.</div><article class="exam-question"><b>(1)</b> <span class="marks">[1]</span><div class="prompt">int[][] m=new int[79][2]; How many bytes store the element values, excluding overhead?</div><ol type="a"><li>726.8</li><li>632</li><li>821.6</li><li>537.2</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 632
+1. The array has 79 rows and 2 columns, hence 158 int elements.
+
+2. Every int array element is initially 0, so m[0][0]=0.
+
+3. Each int value uses 4 bytes. Element-value storage=79×2×4=632 bytes; object and row-array overhead is excluded as requested.</pre></div></article><article class="exam-question"><b>(2)</b> <span class="marks">[1]</span><div class="prompt">Evaluate 121 / 8 + 121 % 8 in Java.</div><ol type="a"><li>20.8</li><li>16</li><li>13.6</li><li>18.4</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 16
+1. Both operands are int values, so / performs integer division: 121/8=15.
+
+2. The remainder is 121%8=1, since 121=8×15+1.
+
+3. Add the two results: 15+1=16.</pre></div></article><article class="exam-question"><b>(3)</b> <span class="marks">[1]</span><div class="prompt">What is &quot;BANANA&quot;.lastIndexOf(&#x27;A&#x27;)?</div><ol type="a"><li>5</li><li>6</li><li>1</li><li>3</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. The final A is at index 5.</pre></div></article><article class="exam-question"><b>(4)</b> <span class="marks">[1]</span><div class="prompt">Give the value of Math.pow(31, 1/2).</div><ol type="a"><li>2</li><li>1</li><li>0</li><li>3</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 1
+1. The exponent expression contains int division: 1/2=0.
+
+2. Math.pow receives 31 and 0; result=1.0.
+
+3. Math.pow returns double even when its numerical value is a whole number.</pre></div></article><article class="exam-question"><b>(5)</b> <span class="marks">[1]</span><div class="prompt">int x=82; do { x-=3; } while(x&gt;0); What is final x?</div><ol type="a"><li>-1</li><li>0</li><li>-3</li><li>-2</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. -2
+1. A do-while loop executes the body before testing its condition.
+
+2. Subtract 3 repeatedly until x≤0. The last subtraction is not undone.
+
+3. Final x=-2; body executions=28.</pre><table><tr><td>Execution</td><td>x before</td><td>x after subtraction</td><td>x &gt; 0</td></tr><tr><td>1</td><td>82</td><td>79</td><td>True</td></tr><tr><td>2</td><td>79</td><td>76</td><td>True</td></tr><tr><td>3</td><td>76</td><td>73</td><td>True</td></tr><tr><td>4</td><td>73</td><td>70</td><td>True</td></tr><tr><td>5</td><td>70</td><td>67</td><td>True</td></tr><tr><td>6</td><td>67</td><td>64</td><td>True</td></tr><tr><td>7</td><td>64</td><td>61</td><td>True</td></tr><tr><td>8</td><td>61</td><td>58</td><td>True</td></tr><tr><td>9</td><td>58</td><td>55</td><td>True</td></tr><tr><td>10</td><td>55</td><td>52</td><td>True</td></tr><tr><td>11</td><td>52</td><td>49</td><td>True</td></tr><tr><td>12</td><td>49</td><td>46</td><td>True</td></tr><tr><td>13</td><td>46</td><td>43</td><td>True</td></tr><tr><td>14</td><td>43</td><td>40</td><td>True</td></tr><tr><td>15</td><td>40</td><td>37</td><td>True</td></tr><tr><td>16</td><td>37</td><td>34</td><td>True</td></tr><tr><td>17</td><td>34</td><td>31</td><td>True</td></tr><tr><td>18</td><td>31</td><td>28</td><td>True</td></tr><tr><td>19</td><td>28</td><td>25</td><td>True</td></tr><tr><td>20</td><td>25</td><td>22</td><td>True</td></tr><tr><td>21</td><td>22</td><td>19</td><td>True</td></tr><tr><td>22</td><td>19</td><td>16</td><td>True</td></tr><tr><td>23</td><td>16</td><td>13</td><td>True</td></tr><tr><td>24</td><td>13</td><td>10</td><td>True</td></tr><tr><td>25</td><td>10</td><td>7</td><td>True</td></tr><tr><td>26</td><td>7</td><td>4</td><td>True</td></tr><tr><td>27</td><td>4</td><td>1</td><td>True</td></tr><tr><td>28</td><td>1</td><td>-2</td><td>False</td></tr></table></div></article><article class="exam-question"><b>(6)</b> <span class="marks">[1]</span><div class="prompt">When does the compiler supply a default constructor for a class?</div><ol type="a"><li>When no constructor is declared</li><li>Whenever main exists</li><li>Whenever fields are private</li><li>For every declared constructor</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. Declaring any constructor prevents automatic provision of a default constructor.</pre></div></article><article class="exam-question"><b>(7)</b> <span class="marks">[1]</span><div class="prompt">Which Scanner method reads a complete line including spaces?</div><ol type="a"><li>next()</li><li>nextChar()</li><li>nextLine()</li><li>readString()</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. nextLine reads the remainder of a line.</pre></div></article><article class="exam-question"><b>(8)</b> <span class="marks">[1]</span><div class="prompt">int count=0; for(int i=1;i&lt;=9;i++) for(int j=i;j&lt;=9;j++) count++; What is final count?</div><ol type="a"><li>51.75</li><li>45</li><li>38.25</li><li>58.5</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 45
+1. For i=1 the inner loop has 9 iterations; for i=2 it has 8; for i=9 it has one.
+
+2. Total=1+2+…+9=9(9+1)/2=45.
+
+3. count starts at zero and increases once per inner execution, so final count=45.</pre></div></article><article class="exam-question"><b>(9)</b> <span class="marks">[1]</span><div class="prompt">The parameter of Integer.parseInt used in this syllabus is of which type?</div><ol type="a"><li>int</li><li>double</li><li>char</li><li>String</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. It parses a String representing an integer.</pre></div></article><article class="exam-question"><b>(10)</b> <span class="marks">[1]</span><div class="prompt">Give the value of Math.pow(139, 3/2).</div><ol type="a"><li>180.7</li><li>118.15</li><li>139</li><li>159.85</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. 139
+1. The exponent expression contains int division: 3/2=1.
+
+2. Math.pow receives 139 and 1; result=139.0.
+
+3. Math.pow returns double even when its numerical value is a whole number.</pre></div></article><article class="exam-question"><b>(11)</b> <span class="marks">[1]</span><div class="prompt">Assertion: s.toUpperCase() does not modify the existing String object. Reason: String objects are immutable.</div><ol type="a"><li>Both true; the reason explains the assertion</li><li>Both true; the reason does not explain the assertion</li><li>Assertion true; reason false</li><li>Assertion false; reason true</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. The method returns a String result rather than mutating the existing object.</pre></div></article><article class="exam-question"><b>(12)</b> <span class="marks">[1]</span><div class="prompt">Ordinary binary search requires the input array to be:</div><ol type="a"><li>All positive</li><li>Sorted in the order assumed by the algorithm</li><li>All distinct</li><li>Of even length</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. The ordering allows a half of the search interval to be discarded.</pre></div></article><article class="exam-question"><b>(13)</b> <span class="marks">[1]</span><div class="prompt">Which is the final valid index of a non-empty array a?</div><ol type="a"><li>a.length()</li><li>a.length</li><li>a.length()-1</li><li>a.length-1</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. Array length is a field; indices start at zero.</pre></div></article><article class="exam-question"><b>(14)</b> <span class="marks">[1]</span><div class="prompt">int s=64; for(int i=1;i&lt;=5;i++) s+=i; What is final s?</div><ol type="a"><li>79</li><li>67.15</li><li>102.7</li><li>90.85</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. 79
+1. Initial s=64. The loop uses i=1 through 5, inclusive.
+
+2. It executes 5 times. Sum added=1+…+5=15.
+
+3. Final s=64+15=79.</pre><table><tr><td>i</td><td>s before</td><td>Added</td><td>s after</td></tr><tr><td>1</td><td>64</td><td>1</td><td>65</td></tr><tr><td>2</td><td>65</td><td>2</td><td>67</td></tr><tr><td>3</td><td>67</td><td>3</td><td>70</td></tr><tr><td>4</td><td>70</td><td>4</td><td>74</td></tr><tr><td>5</td><td>74</td><td>5</td><td>79</td></tr></table></div></article><article class="exam-question"><b>(15)</b> <span class="marks">[1]</span><div class="prompt">Evaluate 7 / 2 + 7 % 2 in Java.</div><ol type="a"><li>3</li><li>4</li><li>6</li><li>5</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 4
+1. Both operands are int values, so / performs integer division: 7/2=3.
+
+2. The remainder is 7%2=1, since 7=2×3+1.
+
+3. Add the two results: 3+1=4.</pre></div></article><article class="exam-question"><b>(16)</b> <span class="marks">[1]</span><div class="prompt">What is the return type of String.equals(String)?</div><ol type="a"><li>int</li><li>boolean</li><li>char</li><li>String</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. The result indicates content equality.</pre></div></article><article class="exam-question"><b>(17)</b> <span class="marks">[1]</span><div class="prompt">Give the value of Math.pow(40, 2/2).</div><ol type="a"><li>52</li><li>34</li><li>46</li><li>40</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. 40
+1. The exponent expression contains int division: 2/2=1.
+
+2. Math.pow receives 40 and 1; result=40.0.
+
+3. Math.pow returns double even when its numerical value is a whole number.</pre></div></article><article class="exam-question"><b>(18)</b> <span class="marks">[1]</span><div class="prompt">After one complete left-to-right ascending bubble-sort pass on 7, 2, 5, 1, the array is:</div><ol type="a"><li>1,2,5,7</li><li>2,1,5,7</li><li>2,5,1,7</li><li>7,5,2,1</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. Adjacent swaps move 7 to the end.</pre></div></article><article class="exam-question"><b>(19)</b> <span class="marks">[1]</span><div class="prompt">int a=79, b=2; int c=a++ * 2 + --b; What is c?</div><ol type="a"><li>206.7</li><li>159</li><li>182.85</li><li>135.15</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 159
+1. Initial values: a=79, b=2.
+
+2. a++ supplies 79 to the expression, then a becomes 80.
+
+3. --b changes b to 1 first and supplies 1.
+
+4. Multiply before adding: c=(79×2)+1=158+1=159.
+
+5. Final values: c=159, a=80, b=1.</pre></div></article><article class="exam-question"><b>(20)</b> <span class="marks">[1]</span><div class="prompt">How many bytes are needed for the element values of a char[3][4] array, excluding overhead?</div><ol type="a"><li>12</li><li>48</li><li>96</li><li>24</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. 12 char values at 2 bytes each.</pre></div></article></article><article class="exam-question"><b>2</b> <span class="marks">[20]</span><div class="prompt">Answer all subparts.</div><article class="exam-question"><b>(1)</b> <span class="marks">[2]</span><div class="prompt">Give the value and length of &quot;ENCAPSULATION&quot;.substring(3,5).</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Java indexes the first character at 0. The start index 3 is included; the end index 5 is excluded.
+
+2. Selected indices: 3, 4.
+
+3. Their characters form &quot;AP&quot;. Length=end−start=5−3=2.</pre><table><tr><td>Index</td><td>Character</td><td>Selected</td></tr><tr><td>0</td><td>E</td><td></td></tr><tr><td>1</td><td>N</td><td></td></tr><tr><td>2</td><td>C</td><td></td></tr><tr><td>3</td><td>A</td><td>yes</td></tr><tr><td>4</td><td>P</td><td>yes</td></tr><tr><td>5</td><td>S</td><td></td></tr><tr><td>6</td><td>U</td><td></td></tr><tr><td>7</td><td>L</td><td></td></tr><tr><td>8</td><td>A</td><td></td></tr><tr><td>9</td><td>T</td><td></td></tr><tr><td>10</td><td>I</td><td></td></tr><tr><td>11</td><td>O</td><td></td></tr><tr><td>12</td><td>N</td><td></td></tr></table></div></article><article class="exam-question"><b>(2)</b> <span class="marks">[2]</span><div class="prompt">Evaluate 109 / 4 + 109 % 4 in Java.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Both operands are int values, so / performs integer division: 109/4=27.
+
+2. The remainder is 109%4=1, since 109=4×27+1.
+
+3. Add the two results: 27+1=28.</pre></div></article><article class="exam-question"><b>(3)</b> <span class="marks">[2]</span><div class="prompt">int x=145; do { x-=8; } while(x&gt;0); State final x and body count.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. A do-while loop executes the body before testing its condition.
+
+2. Subtract 8 repeatedly until x≤0. The last subtraction is not undone.
+
+3. Final x=-7; body executions=19.</pre><table><tr><td>Execution</td><td>x before</td><td>x after subtraction</td><td>x &gt; 0</td></tr><tr><td>1</td><td>145</td><td>137</td><td>True</td></tr><tr><td>2</td><td>137</td><td>129</td><td>True</td></tr><tr><td>3</td><td>129</td><td>121</td><td>True</td></tr><tr><td>4</td><td>121</td><td>113</td><td>True</td></tr><tr><td>5</td><td>113</td><td>105</td><td>True</td></tr><tr><td>6</td><td>105</td><td>97</td><td>True</td></tr><tr><td>7</td><td>97</td><td>89</td><td>True</td></tr><tr><td>8</td><td>89</td><td>81</td><td>True</td></tr><tr><td>9</td><td>81</td><td>73</td><td>True</td></tr><tr><td>10</td><td>73</td><td>65</td><td>True</td></tr><tr><td>11</td><td>65</td><td>57</td><td>True</td></tr><tr><td>12</td><td>57</td><td>49</td><td>True</td></tr><tr><td>13</td><td>49</td><td>41</td><td>True</td></tr><tr><td>14</td><td>41</td><td>33</td><td>True</td></tr><tr><td>15</td><td>33</td><td>25</td><td>True</td></tr><tr><td>16</td><td>25</td><td>17</td><td>True</td></tr><tr><td>17</td><td>17</td><td>9</td><td>True</td></tr><tr><td>18</td><td>9</td><td>1</td><td>True</td></tr><tr><td>19</td><td>1</td><td>-7</td><td>False</td></tr></table></div></article><article class="exam-question"><b>(4)</b> <span class="marks">[2]</span><div class="prompt">int s=46; for(int i=1;i&lt;=7;i++) s+=i; Give final s and number of loop-body executions.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Initial s=46. The loop uses i=1 through 7, inclusive.
+
+2. It executes 7 times. Sum added=1+…+7=28.
+
+3. Final s=46+28=74.</pre><table><tr><td>i</td><td>s before</td><td>Added</td><td>s after</td></tr><tr><td>1</td><td>46</td><td>1</td><td>47</td></tr><tr><td>2</td><td>47</td><td>2</td><td>49</td></tr><tr><td>3</td><td>49</td><td>3</td><td>52</td></tr><tr><td>4</td><td>52</td><td>4</td><td>56</td></tr><tr><td>5</td><td>56</td><td>5</td><td>61</td></tr><tr><td>6</td><td>61</td><td>6</td><td>67</td></tr><tr><td>7</td><td>67</td><td>7</td><td>74</td></tr></table></div></article><article class="exam-question"><b>(5)</b> <span class="marks">[2]</span><div class="prompt">class Parcel19 { int amount; Parcel19(int amount) { amount=amount; } }
+Explain why new Parcel19(61).amount is 0 and correct the constructor assignment.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. A new object’s int field is default-initialised to 0.
+
+2. The constructor parameter amount shadows the field. In amount=amount both names refer to that parameter, leaving the field unchanged.
+
+3. Use this.amount=amount; this.amount refers to the field, while the right-hand amount is the argument. For the given call the corrected field becomes 61.</pre></div></article><article class="exam-question"><b>(6)</b> <span class="marks">[2]</span><div class="prompt">Write the array after one complete left-to-right ascending bubble-sort pass on [153, 151, 155, 149]. State the number of comparisons in this pass.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. An ascending bubble pass compares adjacent pairs left to right and swaps when the left value is larger.
+
+2. After 3 comparisons the array is [151, 153, 149, 155].
+
+3. This is one pass, not the complete sort.</pre><table><tr><td>j</td><td>Compared</td><td>Action</td><td>Array after comparison</td></tr><tr><td>0</td><td>153 and 151</td><td>swap</td><td>[151, 153, 155, 149]</td></tr><tr><td>1</td><td>153 and 155</td><td>keep</td><td>[151, 153, 155, 149]</td></tr><tr><td>2</td><td>155 and 149</td><td>swap</td><td>[151, 153, 149, 155]</td></tr></table></div></article><article class="exam-question"><b>(7)</b> <span class="marks">[2]</span><div class="prompt">int count=0; for(int i=1;i&lt;=48;i++) for(int j=i;j&lt;=48;j++) count++; Give final count and explain the inner bounds.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. For i=1 the inner loop has 48 iterations; for i=2 it has 47; for i=48 it has one.
+
+2. Total=1+2+…+48=48(48+1)/2=1176.
+
+3. count starts at zero and increases once per inner execution, so final count=1176.</pre></div></article><article class="exam-question"><b>(8)</b> <span class="marks">[2]</span><div class="prompt">int a=16, b=5; int c=a++ * 2 + --b; State c and the final values of a and b.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Initial values: a=16, b=5.
+
+2. a++ supplies 16 to the expression, then a becomes 17.
+
+3. --b changes b to 4 first and supplies 4.
+
+4. Multiply before adding: c=(16×2)+4=32+4=36.
+
+5. Final values: c=36, a=17, b=4.</pre></div></article><article class="exam-question"><b>(9)</b> <span class="marks">[2]</span><div class="prompt">int[][] m=new int[97][8]; State the default value of m[0][0] and bytes for all element values, excluding overhead.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. The array has 97 rows and 8 columns, hence 776 int elements.
+
+2. Every int array element is initially 0, so m[0][0]=0.
+
+3. Each int value uses 4 bytes. Element-value storage=97×8×4=3104 bytes; object and row-array overhead is excluded as requested.</pre></div></article><article class="exam-question"><b>(10)</b> <span class="marks">[2]</span><div class="prompt">Correct both errors: int[] data=new int[10]; for(int i=0;i&lt;=data.length;i++) data[i]=Integer.parseInt(3);</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Valid data indices are 0 through 9; therefore the traversal must test i&lt;data.length.
+
+2. Integer.parseInt requires a String, so use &quot;3&quot; rather than the int literal 3.
+
+3. Correct loop:
+for(int i=0;i&lt;data.length;i++) data[i]=Integer.parseInt(&quot;3&quot;);</pre></div></article></article></section><section><h2>Section B — programming; 60 marks</h2><p>Answer any FOUR programs. Write complete Java classes. Use meaningful variable names and explain the algorithm; library sorting/searching is not a substitute where an algorithm is specified.</p><article class="exam-question"><b>3</b> <span class="marks">[15]</span><div class="prompt">Define WaterBill with String name, int units and double bill. accept() reads name and non-negative units; calculate() charges Rs 5 per unit for the first 50 units, Rs 7 for the next 50, and Rs 9 thereafter. Add 5% of the calculated charge only when units exceed 100. display() prints name and bill. main() must create an object and invoke the methods. Input: a full name on one line, then units.</div><div class="solution"><b>Worked solution / model answer</b><pre>Keep fields at class scope. Carry forward the cost of each completed slab, then add the surcharge.
+Check: A progressive slab is different from charging every unit at the final rate. Test both sides of each boundary.
+
+import java.util.Scanner;
+public class WaterBill {
+    String name;
+    int units;
+    double bill;
+    void accept() {
+        Scanner sc = new Scanner(System.in);
+        name = sc.nextLine();
+        units = sc.nextInt();
+    }
+    void calculate() {
+        if (units &lt;= 50) bill = units * 5.0;
+        else if (units &lt;= 100)
+            bill = 250 + (units - 50) * 7.0;
+        else {
+            bill = 600 + (units - 100) * 9.0;
+            bill += bill * 0.05;
+        }
+    }
+    void display() {
+        System.out.println(name);
+        System.out.println(bill);
+    }
+    public static void main(String[] args) {
+        WaterBill w = new WaterBill();
+        w.accept();
+        w.calculate();
+        w.display();
+    }
+}
+</pre></div></article><article class="exam-question"><b>4</b> <span class="marks">[15]</span><div class="prompt">Overload show: void show(int rows) prints rows lines, with line i containing i through rows; int show(String text, char target) returns the case-sensitive frequency of target; double show(double radius) returns 2 * Math.PI * radius (circumference). main() demonstrates show(5), show(&quot;ABRACADABRA&quot;,&#x27;A&#x27;) and show(3.0).</div><div class="solution"><b>Worked solution / model answer</b><pre>The parameter lists select the overload. Use nested for loops for the triangle and a single String traversal for frequency.
+Check: Return type alone does not overload a method. show(2) chooses the int overload; show(2.0) chooses double.
+
+public class Revision {
+    void show(int rows) {
+        for (int i = 1; i &lt;= rows; i++) {
+            for (int j = i; j &lt;= rows; j++) {
+                if (j &gt; i) System.out.print(&quot; &quot;);
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+    }
+    int show(String text, char target) {
+        int count = 0;
+        for (int i = 0; i &lt; text.length(); i++)
+            if (text.charAt(i) == target) count++;
+        return count;
+    }
+    double show(double radius) {
+        return 2 * Math.PI * radius;
+    }
+    public static void main(String[] args) {
+        Revision r = new Revision();
+        r.show(5);
+        System.out.println(r.show(&quot;ABRACADABRA&quot;, &#x27;A&#x27;));
+        System.out.println(r.show(3.0));
+    }
+}
+</pre></div></article><article class="exam-question"><b>5</b> <span class="marks">[15]</span><div class="prompt">Read 20 integers into a 4 by 5 array in row order. Print the sum of each row on its own line, followed by the sum of each column on its own line.</div><div class="solution"><b>Worked solution / model answer</b><pre>Store the matrix first. Reset the row accumulator before each row, and the column accumulator before each column.
+Check: Rows have four elements here; columns have three. Do not transpose the loop bounds.
+
+import java.util.Scanner;
+public class MatrixTotals {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int[][] a = new int[4][5];
+        for (int i = 0; i &lt; 4; i++)
+            for (int j = 0; j &lt; 5; j++)
+                a[i][j] = sc.nextInt();
+        for (int i = 0; i &lt; 4; i++) {
+            int sum = 0;
+            for (int j = 0; j &lt; 5; j++) sum += a[i][j];
+            System.out.println(sum);
+        }
+        for (int j = 0; j &lt; 5; j++) {
+            int sum = 0;
+            for (int i = 0; i &lt; 4; i++) sum += a[i][j];
+            System.out.println(sum);
+        }
+    }
+}
+</pre></div></article><article class="exam-question"><b>6</b> <span class="marks">[15]</span><div class="prompt">Read positive n, followed by n pairs of one-word product name and price, then a one-word key. Using linear search, print the price of the first matching name, with case-sensitive matching. If absent, print Not found. For this set, assume 1 &lt;= n &lt;= 25.</div><div class="solution"><b>Worked solution / model answer</b><pre>The index links each name to its price. Stop at the first match.
+Check: Use equalsIgnoreCase for String content; == compares references. Unsorted data cannot be searched by binary search safely.
+
+import java.util.Scanner;
+public class ProductLookup {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        String[] name = new String[n];
+        double[] price = new double[n];
+        for (int i = 0; i &lt; n; i++) {
+            name[i] = sc.next();
+            price[i] = sc.nextDouble();
+        }
+        String key = sc.next();
+        int found = -1;
+        for (int i = 0; i &lt; n; i++)
+            if (name[i].equals(key)) {
+                found = i;
+                break;
+            }
+        if (found == -1) System.out.println(&quot;Not found&quot;);
+        else System.out.println(price[found]);
+    }
+}
+</pre></div></article><article class="exam-question"><b>7</b> <span class="marks">[15]</span><div class="prompt">Read a 5 by 5 integer matrix. Print the principal diagonal sum, secondary diagonal sum, then Equal or Unequal. Diagonal here means sum comparison only, not a matrix with zero off-diagonal elements.</div><div class="solution"><b>Worked solution / model answer</b><pre>For row i, principal diagonal is a[i][i]; secondary diagonal is a[i][n - 1 - i].
+Check: The question defines the property. Do not impose the mathematical diagonal-matrix definition when asked only to compare sums.
+
+import java.util.Scanner;
+public class DiagonalCompare {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int[][] a = new int[5][5];
+        for (int i = 0; i &lt; 5; i++)
+            for (int j = 0; j &lt; 5; j++)
+                a[i][j] = sc.nextInt();
+        int left = 0, right = 0;
+        for (int i = 0; i &lt; 5; i++) {
+            left += a[i][i];
+            right += a[i][4 - i];
+        }
+        System.out.println(left + &quot; &quot; + right);
+        System.out.println(left == right ? &quot;Equal&quot; : &quot;Unequal&quot;);
+    }
+}
+</pre></div></article><article class="exam-question"><b>8</b> <span class="marks">[15]</span><div class="prompt">Read letters and spaces. Print each palindrome word of at least 3 letters, ignoring case; display in uppercase. Repeated spaces are allowed. Print the final count.</div><div class="solution"><b>Worked solution / model answer</b><pre>Extract words, reverse each word using charAt, and compare using equals.
+Check: One-letter words do not qualify in this task. Reset the word after each delimiter.
+
+import java.util.Scanner;
+public class PalindromeWords {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine().toUpperCase() + &quot; &quot;;
+        String word = &quot;&quot;;
+        int count = 0;
+        for (int i = 0; i &lt; s.length(); i++) {
+            char c = s.charAt(i);
+            if (c != &#x27; &#x27;) word += c;
+            else {
+                String reverse = &quot;&quot;;
+                for (int j = word.length() - 1; j &gt;= 0; j--)
+                    reverse += word.charAt(j);
+                if (word.length() &gt;= 3 &amp;&amp; word.equals(reverse)) {
+                    System.out.println(word);
+                    count++;
+                }
+                word = &quot;&quot;;
+            }
+        }
+        System.out.println(&quot;Count = &quot; + count);
+    }
+}
+</pre></div></article></section></body></html>

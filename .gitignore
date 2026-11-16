@@ -7,3 +7,7 @@ node_modules/
 !.env.example
 *.pem
 *.key
+# Local visual-inspection renders; the study assets are tracked separately.
+assets/maps/G43S7-review.png
+assets/maps/topo-detail-review.png
+research/content_quality_after.log

@@ -15,6 +15,10 @@ const types = {
   ".jpg": "image/jpeg",
   ".jpeg": "image/jpeg",
   ".svg": "image/svg+xml",
+  ".pdf": "application/pdf",
+  ".json": "application/json; charset=utf-8",
+  ".csv": "text/csv; charset=utf-8",
+  ".txt": "text/plain; charset=utf-8",
 };
 
 function safePath(urlPath) {

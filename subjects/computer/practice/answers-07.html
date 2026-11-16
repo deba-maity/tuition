@@ -1,0 +1,264 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Computer Applications — Paper 07</title><style>body{font:16px/1.65 Georgia,"Nirmala UI",serif;max-width:900px;margin:40px auto;padding:0 24px;color:#18232d}h1{font-size:28px}h2{font-size:21px}.exam-question{padding:14px 0;border-bottom:1px solid #ddd;break-inside:avoid}.exam-question .exam-question{margin-left:18px}.marks{float:right}.prompt,pre{white-space:pre-wrap;overflow-wrap:anywhere}pre{font:14px/1.6 Consolas,"Nirmala UI",monospace}.solution{background:#edf5ef;padding:12px;margin-top:12px}.adaptation{font-size:14px;color:#53636b}@media print{body{margin:0;max-width:none;padding:0}h2{break-after:avoid}}</style><body><header><p>ICSE 2027 · Original practice</p><h1>Computer Applications — Paper 07</h1><p>100 marks · 2 hours</p><h2>Answer sheet — model answers and marking points</h2></header><p>Spend 15 minutes reading before starting the writing time.</p><p>Follow the choices printed in each section. Marks in brackets are the intended marks for this original practice paper.</p><section><h2>Section A — compulsory; 40 marks</h2><p>Answer all questions.</p><article class="exam-question"><b>1</b> <span class="marks">[20]</span><div class="prompt">Choose the correct answers.</div><article class="exam-question"><b>(1)</b> <span class="marks">[1]</span><div class="prompt">int x=85; do { x-=4; } while(x&gt;0); What is final x?</div><ol type="a"><li>-2</li><li>-1</li><li>-3</li><li>-4</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. -3
+1. A do-while loop executes the body before testing its condition.
+
+2. Subtract 4 repeatedly until x≤0. The last subtraction is not undone.
+
+3. Final x=-3; body executions=22.</pre><table><tr><td>Execution</td><td>x before</td><td>x after subtraction</td><td>x &gt; 0</td></tr><tr><td>1</td><td>85</td><td>81</td><td>True</td></tr><tr><td>2</td><td>81</td><td>77</td><td>True</td></tr><tr><td>3</td><td>77</td><td>73</td><td>True</td></tr><tr><td>4</td><td>73</td><td>69</td><td>True</td></tr><tr><td>5</td><td>69</td><td>65</td><td>True</td></tr><tr><td>6</td><td>65</td><td>61</td><td>True</td></tr><tr><td>7</td><td>61</td><td>57</td><td>True</td></tr><tr><td>8</td><td>57</td><td>53</td><td>True</td></tr><tr><td>9</td><td>53</td><td>49</td><td>True</td></tr><tr><td>10</td><td>49</td><td>45</td><td>True</td></tr><tr><td>11</td><td>45</td><td>41</td><td>True</td></tr><tr><td>12</td><td>41</td><td>37</td><td>True</td></tr><tr><td>13</td><td>37</td><td>33</td><td>True</td></tr><tr><td>14</td><td>33</td><td>29</td><td>True</td></tr><tr><td>15</td><td>29</td><td>25</td><td>True</td></tr><tr><td>16</td><td>25</td><td>21</td><td>True</td></tr><tr><td>17</td><td>21</td><td>17</td><td>True</td></tr><tr><td>18</td><td>17</td><td>13</td><td>True</td></tr><tr><td>19</td><td>13</td><td>9</td><td>True</td></tr><tr><td>20</td><td>9</td><td>5</td><td>True</td></tr><tr><td>21</td><td>5</td><td>1</td><td>True</td></tr><tr><td>22</td><td>1</td><td>-3</td><td>False</td></tr></table></div></article><article class="exam-question"><b>(2)</b> <span class="marks">[1]</span><div class="prompt">Which pair cannot be overloaded in the same class?</div><ol type="a"><li>void f(int x) and void f(double x)</li><li>int f(int x) and int f(int x,int y)</li><li>void f(int x) and int f(int x)</li><li>void f(String s) and void f(char c)</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. Only the return type differs.</pre></div></article><article class="exam-question"><b>(3)</b> <span class="marks">[1]</span><div class="prompt">Ordinary binary search requires the input array to be:</div><ol type="a"><li>All positive</li><li>Sorted in the order assumed by the algorithm</li><li>All distinct</li><li>Of even length</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. The ordering allows a half of the search interval to be discarded.</pre></div></article><article class="exam-question"><b>(4)</b> <span class="marks">[1]</span><div class="prompt">Which member access modifier is the most restrictive?</div><ol type="a"><li>private</li><li>public</li><li>protected</li><li>static</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. private limits access to the declaring class.</pre></div></article><article class="exam-question"><b>(5)</b> <span class="marks">[1]</span><div class="prompt">In Robot r = new Robot(); which identifies the class and the object reference?</div><ol type="a"><li>r is the class; Robot is the reference</li><li>Robot is the class; r is the reference</li><li>Both are class names</li><li>Both are primitive values</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. Robot is the type; r refers to the created object.</pre></div></article><article class="exam-question"><b>(6)</b> <span class="marks">[1]</span><div class="prompt">What is &quot;STUDY&quot;.substring(1,4)?</div><ol type="a"><li>TUD</li><li>TUDY</li><li>STU</li><li>UDY</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. Indices 1, 2 and 3 are selected.</pre></div></article><article class="exam-question"><b>(7)</b> <span class="marks">[1]</span><div class="prompt">int s=115; for(int i=1;i&lt;=6;i++) s+=i; What is final s?</div><ol type="a"><li>156.4</li><li>176.8</li><li>136</li><li>115.6</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. 136
+1. Initial s=115. The loop uses i=1 through 6, inclusive.
+
+2. It executes 6 times. Sum added=1+…+6=21.
+
+3. Final s=115+21=136.</pre><table><tr><td>i</td><td>s before</td><td>Added</td><td>s after</td></tr><tr><td>1</td><td>115</td><td>1</td><td>116</td></tr><tr><td>2</td><td>116</td><td>2</td><td>118</td></tr><tr><td>3</td><td>118</td><td>3</td><td>121</td></tr><tr><td>4</td><td>121</td><td>4</td><td>125</td></tr><tr><td>5</td><td>125</td><td>5</td><td>130</td></tr><tr><td>6</td><td>130</td><td>6</td><td>136</td></tr></table></div></article><article class="exam-question"><b>(8)</b> <span class="marks">[1]</span><div class="prompt">Evaluate 13 / 4 + 13 % 4 in Java.</div><ol type="a"><li>4</li><li>5</li><li>3</li><li>6</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. 4
+1. Both operands are int values, so / performs integer division: 13/4=3.
+
+2. The remainder is 13%4=1, since 13=4×3+1.
+
+3. Add the two results: 3+1=4.</pre></div></article><article class="exam-question"><b>(9)</b> <span class="marks">[1]</span><div class="prompt">int a=55, b=2; int c=a++ * 2 + --b; What is c?</div><ol type="a"><li>111</li><li>144.3</li><li>94.35</li><li>127.65</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. 111
+1. Initial values: a=55, b=2.
+
+2. a++ supplies 55 to the expression, then a becomes 56.
+
+3. --b changes b to 1 first and supplies 1.
+
+4. Multiply before adding: c=(55×2)+1=110+1=111.
+
+5. Final values: c=111, a=56, b=1.</pre></div></article><article class="exam-question"><b>(10)</b> <span class="marks">[1]</span><div class="prompt">int[][] m=new int[25][8]; How many bytes store the element values, excluding overhead?</div><ol type="a"><li>920</li><li>800</li><li>1040</li><li>680</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 800
+1. The array has 25 rows and 8 columns, hence 200 int elements.
+
+2. Every int array element is initially 0, so m[0][0]=0.
+
+3. Each int value uses 4 bytes. Element-value storage=25×8×4=800 bytes; object and row-array overhead is excluded as requested.</pre></div></article><article class="exam-question"><b>(11)</b> <span class="marks">[1]</span><div class="prompt">int n; for(n = 3; n &gt; 0; n--); System.out.println(n); What is printed?</div><ol type="a"><li>3</li><li>2</li><li>1</li><li>0</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. The semicolon is the empty loop body. Printing occurs afterwards.</pre></div></article><article class="exam-question"><b>(12)</b> <span class="marks">[1]</span><div class="prompt">When does the compiler supply a default constructor for a class?</div><ol type="a"><li>When no constructor is declared</li><li>Whenever main exists</li><li>Whenever fields are private</li><li>For every declared constructor</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. Declaring any constructor prevents automatic provision of a default constructor.</pre></div></article><article class="exam-question"><b>(13)</b> <span class="marks">[1]</span><div class="prompt">Give the value of Math.pow(139, 3/2).</div><ol type="a"><li>118.15</li><li>159.85</li><li>139</li><li>180.7</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. 139
+1. The exponent expression contains int division: 3/2=1.
+
+2. Math.pow receives 139 and 1; result=139.0.
+
+3. Math.pow returns double even when its numerical value is a whole number.</pre></div></article><article class="exam-question"><b>(14)</b> <span class="marks">[1]</span><div class="prompt">int count=0; for(int i=1;i&lt;=4;i++) for(int j=i;j&lt;=4;j++) count++; What is final count?</div><ol type="a"><li>10</li><li>8.5</li><li>11.5</li><li>13</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>A. 10
+1. For i=1 the inner loop has 4 iterations; for i=2 it has 3; for i=4 it has one.
+
+2. Total=1+2+…+4=4(4+1)/2=10.
+
+3. count starts at zero and increases once per inner execution, so final count=10.</pre></div></article><article class="exam-question"><b>(15)</b> <span class="marks">[1]</span><div class="prompt">The parameter of Integer.parseInt used in this syllabus is of which type?</div><ol type="a"><li>int</li><li>double</li><li>char</li><li>String</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>D. It parses a String representing an integer.</pre></div></article><article class="exam-question"><b>(16)</b> <span class="marks">[1]</span><div class="prompt">Evaluate 22 / 7 + 22 % 7 in Java.</div><ol type="a"><li>3</li><li>4</li><li>6</li><li>5</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 4
+1. Both operands are int values, so / performs integer division: 22/7=3.
+
+2. The remainder is 22%7=1, since 22=7×3+1.
+
+3. Add the two results: 3+1=4.</pre></div></article><article class="exam-question"><b>(17)</b> <span class="marks">[1]</span><div class="prompt">What is Character.isLetterOrDigit(&#x27;#&#x27;)?</div><ol type="a"><li>true</li><li>false</li><li>&#x27;#&#x27;</li><li>A char value</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. The character is neither a letter nor a digit.</pre></div></article><article class="exam-question"><b>(18)</b> <span class="marks">[1]</span><div class="prompt">int a=97, b=8; int c=a++ * 2 + --b; What is c?</div><ol type="a"><li>231.15</li><li>261.3</li><li>201</li><li>170.85</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. 201
+1. Initial values: a=97, b=8.
+
+2. a++ supplies 97 to the expression, then a becomes 98.
+
+3. --b changes b to 7 first and supplies 7.
+
+4. Multiply before adding: c=(97×2)+7=194+7=201.
+
+5. Final values: c=201, a=98, b=7.</pre></div></article><article class="exam-question"><b>(19)</b> <span class="marks">[1]</span><div class="prompt">int s=31; for(int i=1;i&lt;=2;i++) s+=i; What is final s?</div><ol type="a"><li>44.2</li><li>34</li><li>28.9</li><li>39.1</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>B. 34
+1. Initial s=31. The loop uses i=1 through 2, inclusive.
+
+2. It executes 2 times. Sum added=1+…+2=3.
+
+3. Final s=31+3=34.</pre><table><tr><td>i</td><td>s before</td><td>Added</td><td>s after</td></tr><tr><td>1</td><td>31</td><td>1</td><td>32</td></tr><tr><td>2</td><td>32</td><td>2</td><td>34</td></tr></table></div></article><article class="exam-question"><b>(20)</b> <span class="marks">[1]</span><div class="prompt">After one complete left-to-right ascending bubble-sort pass on 7, 2, 5, 1, the array is:</div><ol type="a"><li>1,2,5,7</li><li>2,1,5,7</li><li>2,5,1,7</li><li>7,5,2,1</li></ol><div class="solution"><b>Worked solution / model answer</b><pre>C. Adjacent swaps move 7 to the end.</pre></div></article></article><article class="exam-question"><b>2</b> <span class="marks">[20]</span><div class="prompt">Answer all subparts.</div><article class="exam-question"><b>(1)</b> <span class="marks">[2]</span><div class="prompt">int x=118; do { x-=7; } while(x&gt;0); State final x and body count.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. A do-while loop executes the body before testing its condition.
+
+2. Subtract 7 repeatedly until x≤0. The last subtraction is not undone.
+
+3. Final x=-1; body executions=17.</pre><table><tr><td>Execution</td><td>x before</td><td>x after subtraction</td><td>x &gt; 0</td></tr><tr><td>1</td><td>118</td><td>111</td><td>True</td></tr><tr><td>2</td><td>111</td><td>104</td><td>True</td></tr><tr><td>3</td><td>104</td><td>97</td><td>True</td></tr><tr><td>4</td><td>97</td><td>90</td><td>True</td></tr><tr><td>5</td><td>90</td><td>83</td><td>True</td></tr><tr><td>6</td><td>83</td><td>76</td><td>True</td></tr><tr><td>7</td><td>76</td><td>69</td><td>True</td></tr><tr><td>8</td><td>69</td><td>62</td><td>True</td></tr><tr><td>9</td><td>62</td><td>55</td><td>True</td></tr><tr><td>10</td><td>55</td><td>48</td><td>True</td></tr><tr><td>11</td><td>48</td><td>41</td><td>True</td></tr><tr><td>12</td><td>41</td><td>34</td><td>True</td></tr><tr><td>13</td><td>34</td><td>27</td><td>True</td></tr><tr><td>14</td><td>27</td><td>20</td><td>True</td></tr><tr><td>15</td><td>20</td><td>13</td><td>True</td></tr><tr><td>16</td><td>13</td><td>6</td><td>True</td></tr><tr><td>17</td><td>6</td><td>-1</td><td>False</td></tr></table></div></article><article class="exam-question"><b>(2)</b> <span class="marks">[2]</span><div class="prompt">Give the values of &quot;INHERITANCE&quot;.indexOf(&#x27;I&#x27;) and &quot;INHERITANCE&quot;.lastIndexOf(&#x27;I&#x27;).</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Number the characters of INHERITANCE from zero.
+
+2. Occurrences of I are at indices 0, 5.
+
+3. indexOf returns the first occurrence, 0; lastIndexOf returns the last, 5.</pre></div></article><article class="exam-question"><b>(3)</b> <span class="marks">[2]</span><div class="prompt">Write the array after one complete left-to-right ascending bubble-sort pass on [37, 28, 46, 19]. State the number of comparisons in this pass.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. An ascending bubble pass compares adjacent pairs left to right and swaps when the left value is larger.
+
+2. After 3 comparisons the array is [28, 37, 19, 46].
+
+3. This is one pass, not the complete sort.</pre><table><tr><td>j</td><td>Compared</td><td>Action</td><td>Array after comparison</td></tr><tr><td>0</td><td>37 and 28</td><td>swap</td><td>[28, 37, 46, 19]</td></tr><tr><td>1</td><td>37 and 46</td><td>keep</td><td>[28, 37, 46, 19]</td></tr><tr><td>2</td><td>46 and 19</td><td>swap</td><td>[28, 37, 19, 46]</td></tr></table></div></article><article class="exam-question"><b>(4)</b> <span class="marks">[2]</span><div class="prompt">Write a for loop to print multiples of 4 from 4 through 340, inclusive, using one loop variable.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. The first multiple is 4. Initialise i=4.
+
+2. The last multiple 340 is included, so use i&lt;=340.
+
+3. Increase by the common step 4 each time.
+for(int i=4; i&lt;=340; i+=4) System.out.println(i);
+
+4. The body prints 85 multiples.</pre></div></article><article class="exam-question"><b>(5)</b> <span class="marks">[2]</span><div class="prompt">Give output: System.out.println(&quot;52&quot; + 9 + (52 + 9));</div><div class="solution"><b>Worked solution / model answer</b><pre>1. The parentheses are evaluated numerically: (52+9)=61.
+
+2. The first operand &quot;52&quot; is a String. The following + operators therefore concatenate left to right.
+
+3. &quot;52&quot;+9 becomes &quot;529&quot;; appending 61 gives &quot;52961&quot;.</pre></div></article><article class="exam-question"><b>(6)</b> <span class="marks">[2]</span><div class="prompt">Give the value and length of &quot;BINARYSEARCHB&quot;.substring(3,5).</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Java indexes the first character at 0. The start index 3 is included; the end index 5 is excluded.
+
+2. Selected indices: 3, 4.
+
+3. Their characters form &quot;AR&quot;. Length=end−start=5−3=2.</pre><table><tr><td>Index</td><td>Character</td><td>Selected</td></tr><tr><td>0</td><td>B</td><td></td></tr><tr><td>1</td><td>I</td><td></td></tr><tr><td>2</td><td>N</td><td></td></tr><tr><td>3</td><td>A</td><td>yes</td></tr><tr><td>4</td><td>R</td><td>yes</td></tr><tr><td>5</td><td>Y</td><td></td></tr><tr><td>6</td><td>S</td><td></td></tr><tr><td>7</td><td>E</td><td></td></tr><tr><td>8</td><td>A</td><td></td></tr><tr><td>9</td><td>R</td><td></td></tr><tr><td>10</td><td>C</td><td></td></tr><tr><td>11</td><td>H</td><td></td></tr><tr><td>12</td><td>B</td><td></td></tr></table></div></article><article class="exam-question"><b>(7)</b> <span class="marks">[2]</span><div class="prompt">String s=&quot;DECLARATIONC&quot;; s.toLowerCase(); System.out.print(s.charAt(1)); Give output and explain why case is unchanged.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. toLowerCase() returns a new String value; it does not mutate s.
+
+2. Because that result is not assigned to s, s still contains the uppercase original.
+
+3. charAt uses the supplied zero-based index. E. String is immutable; the returned lowercase String was not assigned.</pre></div></article><article class="exam-question"><b>(8)</b> <span class="marks">[2]</span><div class="prompt">Write a conditional expression assigning fee to 0 when age&lt;14, otherwise to 1390. Assume int age is declared.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. Test age&lt;14. If true, choose 0; otherwise choose 1390.
+
+2. int fee = age &lt; 14 ? 0 : 1390;
+
+3. The conditional operator is condition ? valueIfTrue : valueIfFalse. Both selected values here are int.</pre></div></article><article class="exam-question"><b>(9)</b> <span class="marks">[2]</span><div class="prompt">class Parcel22 { int amount; Parcel22(int amount) { amount=amount; } }
+Explain why new Parcel22(70).amount is 0 and correct the constructor assignment.</div><div class="solution"><b>Worked solution / model answer</b><pre>1. A new object’s int field is default-initialised to 0.
+
+2. The constructor parameter amount shadows the field. In amount=amount both names refer to that parameter, leaving the field unchanged.
+
+3. Use this.amount=amount; this.amount refers to the field, while the right-hand amount is the argument. For the given call the corrected field becomes 70.</pre></div></article><article class="exam-question"><b>(10)</b> <span class="marks">[2]</span><div class="prompt">Give output: System.out.println((char)(72) + &quot; &quot; + (72+3));</div><div class="solution"><b>Worked solution / model answer</b><pre>1. The cast (char)72 yields the character H.
+
+2. The separate parenthesised integer addition is 72+3=75.
+
+3. The intervening String &quot; &quot; makes the final + operations concatenations. Output: H 75.</pre></div></article></article></section><section><h2>Section B — programming; 60 marks</h2><p>Answer any FOUR programs. Write complete Java classes. Use meaningful variable names and explain the algorithm; library sorting/searching is not a substitute where an algorithm is specified.</p><article class="exam-question"><b>3</b> <span class="marks">[15]</span><div class="prompt">Define WaterBill with String name, int units and double bill. accept() reads name and non-negative units; calculate() charges Rs 5 per unit for the first 50 units, Rs 7 for the next 50, and Rs 9 thereafter. Add 5% of the calculated charge only when units exceed 100. display() prints name and bill. main() must create an object and invoke the methods. Input: a full name on one line, then units.</div><div class="solution"><b>Worked solution / model answer</b><pre>Keep fields at class scope. Carry forward the cost of each completed slab, then add the surcharge.
+Check: A progressive slab is different from charging every unit at the final rate. Test both sides of each boundary.
+
+import java.util.Scanner;
+public class WaterBill {
+    String name;
+    int units;
+    double bill;
+    void accept() {
+        Scanner sc = new Scanner(System.in);
+        name = sc.nextLine();
+        units = sc.nextInt();
+    }
+    void calculate() {
+        if (units &lt;= 50) bill = units * 5.0;
+        else if (units &lt;= 100)
+            bill = 250 + (units - 50) * 7.0;
+        else {
+            bill = 600 + (units - 100) * 9.0;
+            bill += bill * 0.05;
+        }
+    }
+    void display() {
+        System.out.println(name);
+        System.out.println(bill);
+    }
+    public static void main(String[] args) {
+        WaterBill w = new WaterBill();
+        w.accept();
+        w.calculate();
+        w.display();
+    }
+}
+</pre></div></article><article class="exam-question"><b>4</b> <span class="marks">[15]</span><div class="prompt">Overload show: void show(int rows) prints rows lines, with line i containing i through rows; int show(String text, char target) returns the case-sensitive frequency of target; double show(double radius) returns 2 * Math.PI * radius (circumference). main() demonstrates show(5), show(&quot;ABRACADABRA&quot;,&#x27;A&#x27;) and show(3.0).</div><div class="solution"><b>Worked solution / model answer</b><pre>The parameter lists select the overload. Use nested for loops for the triangle and a single String traversal for frequency.
+Check: Return type alone does not overload a method. show(2) chooses the int overload; show(2.0) chooses double.
+
+public class Revision {
+    void show(int rows) {
+        for (int i = 1; i &lt;= rows; i++) {
+            for (int j = i; j &lt;= rows; j++) {
+                if (j &gt; i) System.out.print(&quot; &quot;);
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+    }
+    int show(String text, char target) {
+        int count = 0;
+        for (int i = 0; i &lt; text.length(); i++)
+            if (text.charAt(i) == target) count++;
+        return count;
+    }
+    double show(double radius) {
+        return 2 * Math.PI * radius;
+    }
+    public static void main(String[] args) {
+        Revision r = new Revision();
+        r.show(5);
+        System.out.println(r.show(&quot;ABRACADABRA&quot;, &#x27;A&#x27;));
+        System.out.println(r.show(3.0));
+    }
+}
+</pre></div></article><article class="exam-question"><b>5</b> <span class="marks">[15]</span><div class="prompt">Accept 7 single-character tokens. Copy them into a second array. Sort the copy in descending character-code order using bubble sort only. Display the original and sorted sequences.</div><div class="solution"><b>Worked solution / model answer</b><pre>After each left-to-right pass, the greatest remaining character reaches the right end.
+Check: Use j &lt; length - 1 - pass. Preserve the original by copying elements, not by assigning the same array reference.
+
+import java.util.Scanner;
+public class BubbleChars {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        char[] original = new char[7], a = new char[7];
+        for (int i = 0; i &lt; 7; i++) {
+            original[i] = sc.next().charAt(0);
+            a[i] = original[i];
+        }
+        for (int pass = 0; pass &lt; a.length - 1; pass++)
+            for (int j = 0; j &lt; a.length - 1 - pass; j++)
+                if (a[j] &lt; a[j + 1]) {
+                    char temp = a[j];
+                    a[j] = a[j + 1];
+                    a[j + 1] = temp;
+                }
+        for (int i = 0; i &lt; 7; i++)
+            System.out.print(original[i] + &quot; &quot;);
+        System.out.println();
+        for (int i = 0; i &lt; 7; i++)
+            System.out.print(a[i] + &quot; &quot;);
+        System.out.println();
+    }
+}
+</pre></div></article><article class="exam-question"><b>6</b> <span class="marks">[15]</span><div class="prompt">Read positive n, followed by n pairs of one-word product name and price, then a one-word key. Using linear search, print the price of the first matching name, with case-sensitive matching. If absent, print Not found. For this set, assume 1 &lt;= n &lt;= 25.</div><div class="solution"><b>Worked solution / model answer</b><pre>The index links each name to its price. Stop at the first match.
+Check: Use equalsIgnoreCase for String content; == compares references. Unsorted data cannot be searched by binary search safely.
+
+import java.util.Scanner;
+public class ProductLookup {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        String[] name = new String[n];
+        double[] price = new double[n];
+        for (int i = 0; i &lt; n; i++) {
+            name[i] = sc.next();
+            price[i] = sc.nextDouble();
+        }
+        String key = sc.next();
+        int found = -1;
+        for (int i = 0; i &lt; n; i++)
+            if (name[i].equals(key)) {
+                found = i;
+                break;
+            }
+        if (found == -1) System.out.println(&quot;Not found&quot;);
+        else System.out.println(price[found]);
+    }
+}
+</pre></div></article><article class="exam-question"><b>7</b> <span class="marks">[15]</span><div class="prompt">Read a 5 by 5 integer matrix. Print the principal diagonal sum, secondary diagonal sum, then Equal or Unequal. Diagonal here means sum comparison only, not a matrix with zero off-diagonal elements.</div><div class="solution"><b>Worked solution / model answer</b><pre>For row i, principal diagonal is a[i][i]; secondary diagonal is a[i][n - 1 - i].
+Check: The question defines the property. Do not impose the mathematical diagonal-matrix definition when asked only to compare sums.
+
+import java.util.Scanner;
+public class DiagonalCompare {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int[][] a = new int[5][5];
+        for (int i = 0; i &lt; 5; i++)
+            for (int j = 0; j &lt; 5; j++)
+                a[i][j] = sc.nextInt();
+        int left = 0, right = 0;
+        for (int i = 0; i &lt; 5; i++) {
+            left += a[i][i];
+            right += a[i][4 - i];
+        }
+        System.out.println(left + &quot; &quot; + right);
+        System.out.println(left == right ? &quot;Equal&quot; : &quot;Unequal&quot;);
+    }
+}
+</pre></div></article><article class="exam-question"><b>8</b> <span class="marks">[15]</span><div class="prompt">Read letters and spaces. Print each palindrome word of at least 3 letters, ignoring case; display in uppercase. Repeated spaces are allowed. Print the final count.</div><div class="solution"><b>Worked solution / model answer</b><pre>Extract words, reverse each word using charAt, and compare using equals.
+Check: One-letter words do not qualify in this task. Reset the word after each delimiter.
+
+import java.util.Scanner;
+public class PalindromeWords {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine().toUpperCase() + &quot; &quot;;
+        String word = &quot;&quot;;
+        int count = 0;
+        for (int i = 0; i &lt; s.length(); i++) {
+            char c = s.charAt(i);
+            if (c != &#x27; &#x27;) word += c;
+            else {
+                String reverse = &quot;&quot;;
+                for (int j = word.length() - 1; j &gt;= 0; j--)
+                    reverse += word.charAt(j);
+                if (word.length() &gt;= 3 &amp;&amp; word.equals(reverse)) {
+                    System.out.println(word);
+                    count++;
+                }
+                word = &quot;&quot;;
+            }
+        }
+        System.out.println(&quot;Count = &quot; + count);
+    }
+}
+</pre></div></article></section></body></html>
